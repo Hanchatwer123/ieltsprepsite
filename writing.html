@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IELTS Writing Section</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    #tabs {
+      margin-bottom: 20px;
+    }
+    .tab-button {
+      padding: 10px 20px;
+      margin-right: 10px;
+      font-size: 1em;
+      cursor: pointer;
+    }
+    .tab-button.active {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+    }
+    .task-section {
+      display: none;
+    }
+    .task-section.active {
+      display: block;
+    }
+    textarea {
+      width: 100%;
+      padding: 10px;
+      font-size: 1em;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    #timer {
+      float: right;
+      font-weight: bold;
+      font-size: 1.2em;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 1em;
+      margin-top: 20px;
+    }
+    .word-count {
+      font-size: 0.9em;
+      color: #333;
+      margin-bottom: 20px;
+    }
+    #home-button {
+      margin-top: 30px;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #007BFF;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>IELTS Writing Section</h1>
+  <p id="student-info"></p>
+  <div id="timer"></div>
+  <p style="font-size: 0.9em; color: #666;">
+    The test will auto-submit when time is up. You may also submit your writing manually at any time.
+  </p>
+
+  <div id="tabs">
+    <button class="tab-button active" onclick="showTab('task1')">Task 1</button>
+    <button class="tab-button" onclick="showTab('task2')">Task 2</button>
+  </div>
+
+  <form id="writing-form">
+    
+
+
+<div id="task1" class="task-section active">
+  <div id="task1-instructions" style="margin-bottom: 10px;"></div>
+  <div style="display: flex; gap: 20px; align-items: flex-start;">
+    <div style="flex: 1;">
+      <img id="task1-image" src="" alt="Task 1 Image" style="max-width: 100%; margin-top: 10px;">
+    </div>
+    <div style="flex: 1;">
+      <textarea name="task1_answer" rows="20" placeholder="Write your Task 1 response here..." oninput="updateWordCount(this, 'task1-count')"></textarea>
+      <div class="word-count">Word Count: <span id="task1-count">0</span></div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</div>
+
+  </div>
+</div>
+
+
+    <div id="task2" class="task-section">
+      <div id="task2-content"></div>
+      <textarea name="task2_answer" rows="14" placeholder="Write your Task 2 response here..." oninput="updateWordCount(this, 'task2-count')"></textarea>
+      <div class="word-count">Word Count: <span id="task2-count">0</span></div>
+    </div>
+
+    <button type="button" onclick="submitWriting()">Submit Writing</button>
+  </form>
+
+  <a href="index.html" id="home-button">Back to Home</a>
+
+  <script src="writing.js"></script>
+  <script>
+    function showTab(taskId) {
+      document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
+      document.querySelectorAll('.task-section').forEach(sec => sec.classList.remove('active'));
+      document.querySelector(`[onclick="showTab('${taskId}')"]`).classList.add('active');
+      document.getElementById(taskId).classList.add('active');
+    }
+
+    function updateWordCount(textarea, counterId) {
+      const text = textarea.value.trim();
+      const count = text ? text.split(/\s+/).length : 0;
+      document.getElementById(counterId).textContent = count;
+    }
+  </script>
+</body>
+</html>

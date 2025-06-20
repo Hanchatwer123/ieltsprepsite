@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>IELTS Listening</title>
+  <style>
+    body { font-family: Arial; padding: 20px; background: #f9f9f9; }
+    .part { background: #fff; padding: 15px; margin-bottom: 30px; border-radius: 10px; box-shadow: 0 0 5px #ccc; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background: #eee; }
+    input, select { width: 100%; padding: 6px; margin: 5px 0; }
+    .question { margin-bottom: 10px; }
+    #audio-player { width: 100%; margin: 20px 0; }
+    #submit-button { background: #4CAF50; color: white; border: none; padding: 10px 20px; cursor: pointer; }
+    #submit-button:hover { background: #45a049; }
+    #home-button { float: right; background: #2196F3; color: white; padding: 6px 12px; border: none; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <h1>IELTS Listening Test</h1>
+  <button id="home-button" onclick="location.href='index.html'">Home</button>
+  <audio id="audio-player" controls autoplay onplay="disablePause()">
+    <source id="audio-source" src="" type="audio/mp3" />
+    Your browser does not support the audio element.
+  </audio>
+  <form id="listening-form">
+    <div id="listening-container"></div>
+    <button type="button" id="submit-button" onclick="submitListening()">Submit Answers</button>
+  </form>
+  <div id="result-section" style="display:none;">
+    <h2>Results</h2>
+    <p id="score-display"></p>
+    <p id="band-display"></p>
+    <div id="answer-table"></div>
+  </div>
+  <script src="listening.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
