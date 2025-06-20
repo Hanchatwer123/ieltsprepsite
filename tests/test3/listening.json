@@ -1,0 +1,266 @@
+{
+  "parts": [
+    {
+      "part": 1,
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Date of Birth: 12th March ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "House Number: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Customer’s Name: Jennifer ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "Home Telephone: 01934 ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "Monthly Bill Paid By: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 6,
+          "prompt": "Tom, the sales guy at R&N Mobile, said I would not get the extra ___ of internet that I wanted",
+          "input_type": "short_text"
+        },
+        {
+          "number": 7,
+          "prompt": "but he was able to issue a new contract, as the _____ had not been activated yet.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 8,
+          "prompt": "I can still terminate the contract as long as I do it ___ days in advance.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 9,
+          "prompt": "Price of US$ ___ per month has not changed",
+          "input_type": "short_text"
+        },
+        {
+          "number": 10,
+          "prompt": "If I want to get a new cell phone, I can order one on the website - Tom will send me the ___ to the online store by email.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "instructions": "Choose FIVE letters A–O (11-15). Complete the table (16-20).",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "Which of the following can be found in the Johnson Building?",
+          "input_type": "checkbox",
+          "max_choices": 5,
+          "options": [
+            "A. Central coffee bar",
+            "B. The pizzeria",
+            "C. The French bistro",
+            "D. Asian street café",
+            "E. The main reception",
+            "F. The finance office",
+            "G. The maintenance team office",
+            "H. The cinema",
+            "I. The first aid centre",
+            "J. The doctor’s surgery",
+            "K. The Fitness Area",
+            "L. The saunas",
+            "M. The steam rooms",
+            "N. The main swimming pool",
+            "O. The Internet café"
+        ]
+        },
+        {
+          "number": 16,
+          "prompt": "Water Park Complex's notes: Reserved for holiday park ___ from 9 a.m. to 12 noon.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "Mini-golf's notes: All equipment supplied; groups play at ___ intervals",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "Jogging's notes: Morning jog easier - flat + ___ km",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "Jogging's notes: Afternoon jog harder - hillier + 6km in length. Both runs begin with gentle ___ and finish with stretching.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "Levington's notes: Costs £2; buy at reception or from ___;book early to avoid disappointment.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "instructions": "Choose the correct letter A, B, or C (21-25). Complete the summary (26-30).",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "What is the subject of Professor Norris’ seminar next week?",
+          "input_type": "dropdown",
+          "options": [
+            "A History",
+            "B China",
+            "C The students’ next essay"
+          ]
+        },
+        {
+          "number": 22,
+          "prompt": "What is Alex’s course is about?",
+          "input_type": "dropdown",
+          "options": [
+            "A How wild boar were re-introduced in the UK",
+            "B How animals breed in different environments",
+            "C How foreign species affect environments"
+          ]
+        },
+        {
+          "number": 23,
+          "prompt": "What was most responsible for reducing the numbers of UK wild boar until they totally disappeared in the thirteenth century?",
+          "input_type": "dropdown",
+          "options": [
+            "A Disease",
+            "B Too much hunting",
+            "C A royal order for their extermination"
+          ]
+        },
+        {
+          "number": 24,
+          "prompt": "What was the main problem with farming wild boar in the UK in the 1970s?",
+          "input_type": "dropdown",
+          "options": [
+            "A It did not make much money",
+            "B The animals kept escaping",
+            "C Hunters killed the animals"
+          ]
+        },
+        {
+          "number": 25,
+          "prompt": "Why is the number of boar now probably more than 800?",
+          "input_type": "dropdown",
+          "options": [
+            "A More and more boar have escaped from farms",
+            "B The escaped and released boar have bred",
+            "C The Forestry Commission has released more boar to ensure healthy bloodlines"
+          ]
+        },
+        {
+          "number": 26,
+          "prompt": "The wild boars of the Forest of Dean are now officially wild animals and the local ___ is responsible for them.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 27,
+          "prompt": "Many locals say the high numbers of boars is not a problem. It’s reported that the ___ will move the young away when they meet humans.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 28,
+          "prompt": "The Forestry Commission now regularly kills boars to control numbers, but animal rights activists attempt to disrupt the ___ doing this.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 29,
+          "prompt": "The forest cannot be closed on cull days and activists patrol the ___ where they know the culls take place to protect the animals. ",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "The rangers now try and kill the wild boars on ___ dates",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "instructions": "Complete the sentences below.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "New Zealand’s EEZ’s depth can be up to ___ metres",
+          "input_type": "short_text"
+        },
+        {
+          "number": 32,
+          "prompt": "Fishing can damage sea life, especially with bottom trawl or dredge equipment. Factors include: type of seabed habitat; the ___ used",
+          "input_type": "short_text"
+        },
+        {
+          "number": 33,
+          "prompt": "The unwanted species taken (called the ___) are thrown back in sea, often dead or dying. ",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt": "Conservationists claim sea floor life takes a long time to recover, if at all. This is disputed by ___",
+          "input_type": "short_text"
+        },
+        {
+          "number": 35,
+          "prompt": "Part of New Zealand’s fisheries management program is likened to",
+          "input_type": "dropdown",
+          "options": [
+            "A similar initiatives in other countries.",
+            "B similar initiatives on land.",
+            "C similar initiatives that were not implemented in the past."
+          ]
+        },
+        {
+          "number": 36,
+          "prompt": "Most current BPA seabeds",
+          "input_type": "dropdown",
+          "options": [
+            "A have never had trawlers operating there.",
+            "B have been carefully charted by the New Zealand Ministry of Fisheries.",
+            "C have been damaged by previous fishing."
+          ]
+        },
+        {
+          "number": 37,
+          "prompt": "Charted hydrothermal vents",
+          "input_type": "dropdown",
+          "options": [
+            "A are difficult to locate for protection purposes.",
+            "B are key targets for the fishing industry.",
+            "C are closed to all fishing."
+          ]
+        },
+        {
+          "number": 38,
+          "prompt": "For questions below use no more than three words and/or a number \n It’s claimed that more than  ___ per cent of the New Zealand EEZ has never been subject to bottom trawling.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 39,
+          "prompt": "Conservation critics of the New Zealand government claim that not all vulnerable ___ are protected",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "The work of industrial trawlers also affects the  ___ of smaller communities, as the catches of their fishermen also suffer.",
+          "input_type": "short_text"
+        }
+      ]
+    }
+  ]
+}
