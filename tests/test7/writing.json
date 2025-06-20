@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe graph below shows the annual visitor spend for visitors to New Zealand from 5 countries for the years 1996 to 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nSome people think that economic progress is the most important goal for a country, while others believe that other types of progress are equally important.\n\nDiscuss both these views and give your own opinion.\n\nYou should write at least 250 words."
+}

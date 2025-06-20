@@ -1,0 +1,221 @@
+{
+  "test_id": "test7",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Pete missed his flight because",
+          "input_type": "dropdown",
+          "options": [
+            "A. he went to the wrong airport",
+            "B. he was caught in a traffic jam",
+            "C. the road to the airport was closed"
+          ]
+        },
+        {
+          "number": 2,
+          "prompt": "Pete managed to get a flight",
+          "input_type": "dropdown",
+          "options": [
+            "A. for free two days later",
+            "B. the next day, but not free of charge",
+            "C. for free the next day"
+          ]
+        },
+        {
+          "number": 3,
+          "prompt": "Pete’s airline paid for",
+          "input_type": "dropdown",
+          "options": [
+            "A. a hotel for the night",
+            "B. some food while he waited",
+            "C. a return taxi to his friend’s house"
+          ]
+        },
+        {
+          "number": 4,
+          "prompt": "Pete spent most of his flight",
+          "input_type": "dropdown",
+          "options": [
+            "A. talking",
+            "B. reading",
+            "C. sleeping"
+          ]
+        },
+        {
+          "number": 5,
+          "prompt": "Pete’s final problem in Toronto was that",
+          "input_type": "dropdown",
+          "options": [
+            "A. the airline lost his bags",
+            "B. he waited for hours in immigration",
+            "C. he had forgotten his warm coat"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "multiple_choice_checkbox",
+      "instructions": "Choose FIVE letters, A–J. What FIVE things did Pete do during his visit to Toronto?",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "What FIVE things did Pete do?",
+          "input_type": "checkbox",
+          "max_choices": 5,
+          "options": [
+            "A. Went up the CN Tower",
+            "B. Visited the Exhibition at Fort York",
+            "C. Went to the Royal Ontario Museum",
+            "D. Visited the Air and Space Museum",
+            "E. Visited the Art Gallery of Toronto",
+            "F. Watched a hockey game",
+            "G. Visited the Hockey Hall of Fame",
+            "H. Watched a football game",
+            "I. Watched a baseball game",
+            "J. Watched a basketball game"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "summary_completion",
+      "instructions": "Complete the summary. Write NO MORE THAN THREE WORDS for each answer.",
+      "questions": [
+        {"number": 11, "prompt": "From around 1900, the farm was arable, producing ________ for the local area.", "input_type": "short_text"},
+        {"number": 12, "prompt": "After World War 1, the farm produced meat for ________.", "input_type": "short_text"},
+        {"number": 13, "prompt": "The farm had too much ________ from big companies.", "input_type": "short_text"},
+        {"number": 14, "prompt": "Mr. and Mrs. Wilson got the tourism idea after a ________.", "input_type": "short_text"},
+        {"number": 15, "prompt": "This project is mainly aimed at ________.", "input_type": "short_text"}
+      ]
+    },
+    {
+      "part": 2,
+      "type": "matching",
+      "instructions": "Match the activities (questions 16–20) with their locations (A–F).",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "See museum of dairy farming",
+          "input_type": "dropdown",
+          "options": [
+            "A. The East Barn",
+            "B. The South Field",
+            "C. The Old Dairy",
+            "D. The North Field",
+            "E. The West Stable",
+            "F. The West Field"
+          ]
+        },
+        {
+          "number": 17,
+          "prompt": "Milk cows",
+          "input_type": "dropdown",
+          "options": [
+            "A. The East Barn",
+            "B. The South Field",
+            "C. The Old Dairy",
+            "D. The North Field",
+            "E. The West Stable",
+            "F. The West Field"
+          ]
+        },
+        {
+          "number": 18,
+          "prompt": "Feed lambs",
+          "input_type": "dropdown",
+          "options": [
+            "A. The East Barn",
+            "B. The South Field",
+            "C. The Old Dairy",
+            "D. The North Field",
+            "E. The West Stable",
+            "F. The West Field"
+          ]
+        },
+        {
+          "number": 19,
+          "prompt": "Watch sheepdogs in action",
+          "input_type": "dropdown",
+          "options": [
+            "A. The East Barn",
+            "B. The South Field",
+            "C. The Old Dairy",
+            "D. The North Field",
+            "E. The West Stable",
+            "F. The West Field"
+          ]
+        },
+        {
+          "number": 20,
+          "prompt": "See the future campsite location",
+          "input_type": "dropdown",
+          "options": [
+            "A. The East Barn",
+            "B. The South Field",
+            "C. The Old Dairy",
+            "D. The North Field",
+            "E. The West Stable",
+            "F. The West Field"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {"number": 21, "prompt": "What was the main objection to Dominic’s training?", "input_type": "dropdown", "options": ["A. The expense", "B. He would miss a meeting", "C. He would have to travel too far"]},
+        {"number": 22, "prompt": "When do Grace and Dominic arrange to meet?", "input_type": "dropdown", "options": ["A. An hour before work on Monday", "B. After work on Friday", "C. Thursday morning"]},
+        {"number": 23, "prompt": "Why will Grace need her computer at her meeting with Dominic?", "input_type": "dropdown", "options": ["A. To look at the new designs", "B. To view the model Dominic has made", "C. To have the sales forecasts on it"]},
+        {"number": 24, "prompt": "How will Dominic pay for his hotel?", "input_type": "dropdown", "options": ["A. He will pay himself and claim the money back", "B. He will use the company credit card", "C. The company will give him cash in advance"]},
+        {"number": 25, "prompt": "How will Dominic travel to his training?", "input_type": "dropdown", "options": ["A. By plane", "B. By car", "C. By train"]}
+      ]
+    },
+    {
+      "part": 3,
+      "type": "map_labeling",
+      "instructions": "Label the map below. Write the correct letter A–O next to questions 26–28.",
+      "image": "map.png",
+      "questions": [
+        {"number": 26, "prompt": "The GPS Center", "input_type": "short_text"},
+        {"number": 27, "prompt": "Forward Thinking", "input_type": "short_text"},
+        {"number": 28, "prompt": "Recycling Center", "input_type": "short_text"}
+      ]
+    },
+    {
+      "part": 3,
+      "type": "sentence_completion",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        {"number": 29, "prompt": "Dominic only needs to take the ________ with him to identify himself.", "input_type": "short_text"},
+        {"number": 30, "prompt": "Forward Thinking will give Dominic a ________ so he can use the internet.", "input_type": "short_text"}
+      ]
+    },
+    {
+      "part": 4,
+      "type": "note_completion",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS.",
+      "questions": [
+        {"number": 31, "prompt": "________ and environmental pressures often to blame.", "input_type": "short_text"},
+        {"number": 32, "prompt": "________ drink more soda than average.", "input_type": "short_text"},
+        {"number": 33, "prompt": "Sweet drinks encourage teeth problems and weak ________.", "input_type": "short_text"},
+        {"number": 34, "prompt": "Excess caffeine in children can lead to ________.", "input_type": "short_text"},
+        {"number": 35, "prompt": "High alcohol intake and energy drinks can cause very high ________.", "input_type": "short_text"},
+        {"number": 36, "prompt": "Replace sugary drinks with water or ________.", "input_type": "short_text"},
+        {"number": 37, "prompt": "Ask schools to remove ________ selling sugary drinks.", "input_type": "short_text"},
+        {"number": 38, "prompt": "Observe ________ when dealing with kids.", "input_type": "short_text"},
+        {"number": 39, "prompt": "Parental ________ important – children model habits.", "input_type": "short_text"},
+        {"number": 40, "prompt": "Healthy behaviour development needs ________.", "input_type": "short_text"}
+      ]
+    }
+  ]
+}
