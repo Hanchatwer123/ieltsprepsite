@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe table below shows the numbers of same day and overnight stays in public and private hospitals in 5 Australian states for last year. The pie chart below shows percentages of same day and overnight stays in public and private hospitals in the same 5 Australian states.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nSome people believe that having sport in schools is a waste of time and resources, whilst other people believe that sport in schools is a vital part of education. Discuss both these views and give your opinion.\n\nYou should write at least 250 words."
+}
