@@ -1,0 +1,356 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Plant Scents",
+      "text": "<b>A.</b> Everyone is familiar with scented flowers, and many people have heard that floral odors help the plant attract pollinators. This common notion is mostly correct, but it is surprising how little scientific proof of it exists. Of course, not all flowers are pollinated by biological agents - for example, many grasses are wind- pollinated-but the flowers of the grasses may still emit volatiles. In fact, plants emit organic molecules all the time, although they may not be obvious to the human nose. As for flower scents that we can detect with our noses, bouquets that attract moths and butterflies generally smell \"sweet,\" and those that attract certain flies seem \"rotten\" to us.\n\n<b>B.</b> The release of volatiles from vegetative parts of the plant is familiar, although until recently the physiological functions of these chemicals were less clear and had received much less attention from scientists. When the trunk of a pine tree is injured- for example, when a beetle tries to burrow into it- it exudes a very smelly resin. This resin consists mostly of terpenes-hydrocarbons with a backbone of 10,15 or 20 carbons that may also contain atoms of oxygen. The heavier C20 terpenes, called diterpenes, are glue-like and can cover and immobilize insects as they plug the hole. This defense mechanism is as ancient as it is effective: Many samples of fossilized resin, or amber, contain the remains of insects trapped inside. Many other plants emit volatiles when injured, and in some cases the emitted signal helps defend the plant. For example,(Z)<i>3</i> hexenyl acetate, which is known as a \"green leaf volatile\" because it is emitted by many plants upon injury, deters females of the moth <i>Heliothis virescens</i> from laying eggs on injured tobacco plants. Interestingly, the profile of emitted tobacco volatiles is different at night than during the day, and it is the nocturnal blend, rich in several (Z) 3 <i>hexen</i>i-olesters, that is most effective in repelling the night-active <i>H. virescens</i> moths.\n\n<b>C.</b> Herbivore induced volatiles often serve as indirect defenses. These bulwarks exist in a variety of plant species, including corn, beans, and the model plant species <i>Arabidopsis thaliana</i>. Plants not only emit volatiles acutely, at the site where caterpillars, mites, aphids or similar insects are eating them, but also generally from non-damaged parts of the plant. These signals attract a variety of predatory insects that prey on the plant-eaters. For example, some parasitic wasps can detect the volatile signature of a damaged plant and will lay their eggs inside the offending caterpillar; eventually the wasp eggs hatch, and the emerging larvae feed on the caterpillar from the inside out. The growth of infected caterpillars is retarded considerably, to the benefit of the plant. Similarly, volatiles released by plants in response to herbivore egg laying can attract parasites of the eggs, thereby preventing them from hatching and avoiding the onslaught of hungry herbivores that would have emerged. Plant volatiles can also be used as a kind of currency in some very indirect defensive schemes. In the rainforest understory tree <i>Leonardoxa africana</i>, ants of the species <i>Petalomyrmex phylax</i> patrol young leaves and attack any herbivorous insects that they encounter. The young leaves emit high levels of the volatile compound methyl salicylate, a compound that the ants use either as a pheromone or as an antiseptic in their nests. It appears that methyl salicylate is both an attractant and a reward offered by the tree to get the ants to perform this valuable deterrent role.\n\n<b>D.</b> Floral scent has a strong impact on the economic success of many agricultural crops that rely on insect pollinators, including fruit trees such as the bee-pollinated cherry, apple, apricot and peach, as well as vegetables and tropical plants such as papaya. Pollination not only affects crop yield, but also the quality and efficiency of crop production. Many crops require most, if not all, ovules to be fertilized for optimum fruit size and shape. A decrease in fragrance emission reduces the ability of flowers to attract pollinators and results in considerable losses for growers, particularly for introduced species that had a specialized pollinator in their place of origin. This problem has been exacerbated by recent disease epidemics that have killed many honeybees, the major insect pollinators in the United States.\n\n<b>E.</b> One means by which plant breeders circumvent the pollination problem is by breeding self-compatible, or apomictic, varieties that do not require fertilization. Although this solution is adequate, its drawbacks include near genetic uniformity and consequent susceptibility to pathogens. Some growers have attempted to enhance honeybee foraging by spraying scent compounds on orchard trees, but this approach was costly, had to be repeated, had potentially toxic effects on the soil or local biota, and, in the end, proved to be inefficient. The poor effectiveness of this strategy probably reflects inherent limitations of the artificial, topically applied compounds, which clearly fail to convey the appropriate message to the bees. For example, general spraying of the volatile mixture cannot tell the insects where exactly the blossoms are. Clearly, a more refined strategy is needed. The ability to enhance existing floral scent, create scent de novo or change the characteristics of the scent, which could all be accomplished by genetic engineering, would allow us to manipulate the types of insect pollinators and the frequency of their visits. Moreover, the metabolic engineering of fragrance could increase crop protection against pathogens and pests.\n\n<b>F.</b> Genetic manipulation of scent will also benefit the floriculture industry. Ornamentals, including cut flowers, foliage and potted plants, play an important aesthetic role in human life. Unfortunately, traditional breeding has often produced cultivars with improved vase life, shipping characteristics, color and shape while sacrificing desirable perfumes. The loss of scent among ornamentals, which have a worldwide value of more than $30 billion, makes them important targets for the genetic manipulation of flower fragrance. Some work has already begun in this area, as several groups have created petunia and carnation plants that express the linalool synthase gene from <i>C. Breweri</i>. These experiments are still preliminary: For technical reasons, the gene was expressed everywhere in the plant, and although the transgenic plants did create small amounts of linalool, the level was below the threshold of detection for the human nose. Similar experiments in tobacco used genes for other monoterpene synthases, such as the one that produces limonene, but gave similar results.\n\n<b>G.</b> The next generation of experiments, already in progress, includes sophisticated schemes that target the expression of scent genes specifically to flowers or other organs-such as special glands that can store antimicrobial or herbivore- repellent compounds.",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "The reading Passage has seven paragraphs A-G. Which paragraph contains the following information? Write the correct letter A-G, in boxes 1-4 on your answer sheet.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Substance released to help plants themselves.",
+              "input_type": "dropdown",
+              "options": ["A", "B", "C", "D", "E", "F", "G"]
+            },
+            {
+              "number": 2,
+              "prompt": "Scent helps plant's pollination.",
+              "input_type": "dropdown",
+              "options": ["A", "B", "C", "D", "E", "F", "G"]
+            },
+            {
+              "number": 3,
+              "prompt": "Practice on genetic experiment of fragrance.",
+              "input_type": "dropdown",
+              "options": ["A", "B", "C", "D", "E", "F", "G"]
+            },
+            {
+              "number": 4,
+              "prompt": "Plant's scent attracts herbivore's enemy for protection.",
+              "input_type": "dropdown",
+              "options": ["A", "B", "C", "D", "E", "F", "G"]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 5-8 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "We have few evidence to support the idea that scent attracts pollinators.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 6,
+              "prompt": "Heliothis virescens won't eat those tobacco leaves on which they laid eggs.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 7,
+              "prompt": "Certain ants are attracted by volatiles to guard plants in rainforest.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 8,
+              "prompt": "Pollination only affects fruit trees' production rather than other crop trees.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet.",
+          "questions": [
+            {
+              "number": 9,
+              "prompt": "How do wasps protect plants when they are attracted by scents according to the passage?",
+              "input_type": "radio",
+              "options": [
+                "plants induce wasps to prey herbivore.",
+                "wasps lay eggs into caterpillars.",
+                "wasps laid eggs on plants to expel herbivore.",
+                "offending caterpillars and wasp eggs coexist well."
+              ]
+            },
+            {
+              "number": 10,
+              "prompt": "What reason caused number of honeybees decline in the United States.",
+              "input_type": "radio",
+              "options": [
+                "pollination process",
+                "spread illness",
+                "crop trees are poisonous",
+                "grower's overlook"
+              ]
+            },
+            {
+              "number": 11,
+              "prompt": "Which of the following drawbacks about artificial fragrance is NOT mentioned in the passage?",
+              "input_type": "radio",
+              "options": [
+                "it's very expensive",
+                "it can't tell correct information to pollinators.",
+                "it needs massive manual labour",
+                "it poisons local environment"
+              ]
+            },
+            {
+              "number": 12,
+              "prompt": "The number of $30 billion quoted in the passage is to illustrate the fact that:",
+              "input_type": "radio",
+              "options": [
+                "favorable perfumes are made from ornamental flowers",
+                "traditional floriculture industry needs reform.",
+                "genetic operation on scent can make vast profit.",
+                "Scent plays a significant role in Ornamental industry."
+              ]
+            },
+            {
+              "number": 13,
+              "prompt": "What is weakness of genetic experiments on fragrance?",
+              "input_type": "radio",
+              "options": [
+                "Linalool level is too low to be smelt by nose",
+                "no progress made in linalool emission",
+                "experiment on tobacco has a better result",
+                "transgenic plants produce intense scent"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Development of Plastics",
+      "text": "<b>A.</b> When rubber was first commercially produced in Europe during the nineteenth century, it rapidly became a very important commodity, particularly in the fields of transportation and electricity. However, during the twentieth century a number of new synthetic materials, called plastics, superseded natural rubber in all but a few applications.\n\n<b>B.</b> Rubber is a polymer - a compound containing large molecules that are formed by the bonding of many smaller, simpler units, repeated over and over again. The same bonding principle - polymerisation-underlies the creation of a huge range of plastics by the chemical industry.\n\n<b>C.</b> The first plastic was developed as a result of a competition in the USA. In the 1860s, $10,000 was offered to anybody who could replace ivory - supplies of which were declining - with something equally good as a material for making billiard balls. The prize was won by John Wesley Hyatt with a material called celluloid. Celluloid was made by dissolving cellulose, a carbohydrate derived from plants, in a solution of camphor dissolved in ethanol. This new material rapidly found uses in the manufacture of products such as knife handles, detachable collars and cuffs, spectacle frames and photographic film. Without celluloid, the film industry could never have got off the ground at the end of the 19th century.\n\n<b>D.</b> Celluloid can be repeatedly softened and reshaped by heat, and is known as a thermoplastic. In 1907 Leo Baekeland, a Belgian chemist working in the USA, invented a different kind of plastic by causing phenol and formaldehyde to react together. Baekeland called the material Bakelite, and it was the first of the thermosets’ plastics that can be cast and moulded while hot, but cannot be softened by heat and reshaped once they have set. Bakelite was a good insulator, and was resistant to water, acids and moderate heat. With these properties it was soon being used in the manufacture of switches, household items, such as knife handles, and electrical components for cars.\n\n<b>E.</b> Soon chemists began looking for other small molecules that could be strung together to make polymers. In the 1930s, British chemists discovered that the gas ethylene would polymerise under heat and pressure to form a thermoplastic they called polythene. Polypropylene followed in the 1950s. Both were used to make bottles, pipes and plastic bags. A small change in the starting material - replacing a hydrogen atom in ethylene with a chlorine atom - produced PVC (polyvinyl chloride), a hard, fireproof plastic suitable for drains and gutters. And by adding certain chemicals, a soft form of PVC could be produced, suitable as a substitute for rubber in items such as waterproof clothing. A closely related plastic was Teflon, or PTFE (polytetrafluoroethylene). This had a very low coefficient of friction, making it ideal for bearings, rollers, and non-stick frying pans. Polystyrene, developed during the 1930s in Germany, was a clear, glass-like material, used in food containers, domestic appliances and toys. Expanded polystyrene - a white, rigid foam - was widely used in packaging and insulation. Polyurethanes, also developed in Germany, found uses as adhesives, coatings, and - in the form of rigid foams - as insulation materials. They are all produced from chemicals derived from crude oil, which contains exactly the same elements - carbon and hydrogen - as many plastics.\n\n<b>F.</b> The first of the man-made fibres, nylon, was also created in the 1930s. Its inventor was a chemist called Wallace Carothers, who worked for the Du Pont Company in the USA. He found that under the right conditions, two chemicals - hexamethylenediamine and adipic acid would form a polymer that could be pumped out through holes and then stretched to form long glossy threads that could be woven like silk. Its first use was to make parachutes for the US armed forces in World War II. In the post-war years nylon completely replaced silk in the manufacture of stockings. Subsequently many other synthetic fibres joined nylon, including Orion, Acrilan and Terylene. Today most garments are made of a blend of natural fibres, such as cotton and wool, and man-made fibres that make fabrics easier to look after.\n\n<b>G.</b> The great strength of plastic is its indestructibility. However, this quality is also something of a drawback: beaches all over the world, even on the remotest islands, are littered with plastic bottles that nothing can destroy. Nor is it very easy to recycle plastics , as different types of plastic are often used in the same items and call for different treatments. Plastics can be made biodegradable by incorporating into their structure a material such as starch, which is attacked by bacteria and causes the plastic to fall apart. Other materials can be incorporated that gradually decay in sunlight - although bottles made of such materials have to be stored in the dark, to ensure that they do not disintegrate before they have been used.",
+      "questions": [
+        {
+          "group_type": "Table Completion",
+          "instruction": "<b>PASSAGE 2</b> \n\n Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Common use for Celluloid: Clothing and ________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 15,
+              "prompt": "Name of plastic invented in 1907",
+              "input_type": "short_text"
+            },
+            {
+              "number": 16,
+              "prompt": "Common use for the plastic invented in 1907: _________' household items and car parts",
+              "input_type": "short_text"
+            },
+            {
+              "number": 17,
+              "prompt": "Original region for Polythene",
+              "input_type": "short_text"
+            },
+            {
+              "number": 18,
+              "prompt": "Property of Rigid PVC",
+              "input_type": "short_text"
+            },
+            {
+              "number": 19,
+              "prompt": "Property of Polystyrene: transparent and resembled ________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 20,
+              "prompt": "Property of Polyurethanes: formations like",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 21-26 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "The chemical structure of plastic is very different from that of rubber.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 22,
+              "prompt": "John Wesley was a famous chemist.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 23,
+              "prompt": "Celluloid and Bakelite react to heat in the same way.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 24,
+              "prompt": "The mix of different varieties of plastic can make them less recyclable.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 25,
+              "prompt": "Adding starch into plastic does not necessarily make plastic more durable.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 26,
+              "prompt": "Some plastic containers have to be preserved in special conditions.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Global Warming in New Zealand",
+      "text": "<b>A.</b> For many environmentalists, the world seems to be getting warmer. As the nearest country of South Polar Region, New Zealand has maintained an upward trend in its average temperature in the past few years. However, the temperature in New Zealand will go up 4°C in the next century while the polar region will go up more than 6°C . The different pictures of temperature stem from its surrounding ocean which acts like the air conditioner. Thus New Zealand is comparatively fortunate.\n\n<b>B.</b> Scientifically speaking, this temperature phenomenon in New Zealand originated from what researchers call * SAM (Southern Annular Mode), which refers to the wind belt that circles the Southern Oceans including New Zealand and Antarctica. Yet recent work has revealed that changes in SAM in New Zealand have resulted in a weakening of moisture during the summer, and more rainfall in other seasons. A bigger problem may turn out to be heavier droughts for agricultural activities because of more water loss from soil, resulting in poorer harvest before winter when the rainfall arrive too late to rescue.\n\n<b>C.</b> Among all the calamities posed by drought, moisture deficit ranks the first. Moisture deficit is the gap between the water plants need during the growing season and the water the earth can offer. Measures of moisture deficit were at their highest since the 1970s in New Zealand. Meanwhile, ecological analyses clearly show moisture deficit is imposed at different growth stage of crops. If moisture deficit occurs around a crucial growth stage, it will cause about $22% reduction in grain yield as opposed to moisture deficit at vegetative phase.\n\n<b>D.</b> Global warming is not only affecting agriculture production. When scientists say the country’s snow pack and glaciers are melting at an alarming rate due to global warming, the climate is putting another strain on the local places. For example, when the development of global warming is accompanied by the falling snow line, the local skiing industry comes into a crisis. The snow line may move up as the temperature goes up, and then the snow at the bottom will melt earlier. Fortunately, it is going to be favourable for the local skiing industry to tide over tough periods since the quantities of snowfall in some areas are more likely to increase.\n\n<b>E.</b> What is the reaction of glacier region? The climate change can be reflected in the glacier region in southern New Zealand or land covered by ice and snow. The reaction of a glacier to a climatic change involves a complex chain of processes, Over time periods of years to several decades, cumulative changes in mass balance cause volume and thickness changes, which will affect the flow of ice via altered internal deformation and basal sliding. This dynamic reaction finally leads to glacier length changes, the advance or retreat of glacier tongues. Undoubtedly, glacier mass balance is a more direct signal of annual atmospheric conditions.\n\n<b>F.</b> The latest research result of National Institute of Water and Atmospheric (NIWA) Research shows that glaciers line keeps moving up because of the impacts of global warning. Further losses of ice can be reflected in Mt. Cook Region. By 1996, a 14 km long sector of the glacier had melted down forming a melt lake (Hooker Lake) with a volume. Melting of the glacier front at a rate of 40 m/yr will cause the glacier to retreat at a rather uniform rate. Therefore, the lake will continue to grow until it reaches the glacier bed.\n\n<b>G.</b> A direct result of the melting glaciers is the change of high tides that serves the main factor for sea level rise. The trend of sea level rise will bring a threat to the groundwater system for its hyper-saline groundwater and then pose a possibility to decrease the agricultural production. Many experts believe that the best way to counter this trend is to give a longer-term view of sea level change in New Zealand. Indeed, the coastal boundaries need to be upgraded and redefined.\n\n<b>H.</b> There is no doubt that global warming has affected New Zealand in many aspects. The emphasis on the global warming should be based on the joints efforts of local people and experts who conquer the tough period. For instance, farmers are taking a long term, multigenerational approach to adjust the breeds and species according to the temperature. Agriculturists also find ways to tackle the problems that may bring to the soil. In broad terms, going forward, the systemic resilience that’s been going on a long time in the ecosystem will continue.\n\n<b>I.</b> How about animals’ reaction? Experts have surprisingly realised that animals have unconventional adaptation to global warming. A study has looked at sea turtles on a few northern beaches in New Zealand and it is very interesting to find that sea turtles can become male of female according to the temperature. Further researches will try to find out how rising temperatures would affect the ratio of sex reversal in their growth. Clearly, the temperature of the nest plays a vital role in the sexes of the baby turtles.\n\n<b>J.</b> Tackling the problems of global warming is never easy in New Zealand, because records show the slow process of global warming may have a different impact on various regions. For New Zealand, the emission of carbon dioxide only accounts for $0.5% of the world’s total, which has met the governmental standard. However, New Zealand’s effort counts only a tip of the iceberg. So far, global warming has been a world issue that still hangs in an ambiguous future.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "<b>PASSAGE 3</b> \n\n Choose the correct letter, A, B, C or D. Write the correct letter in boxes 27-32 on your answer sheet.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What is the main idea of the first paragraph?",
+              "input_type": "radio",
+              "options": [
+                "The temperature in the polar region will increase less than that in New Zealand in the next century.",
+                "The weather and climate of New Zealand is very important to its people because of its close location to the polar region.",
+                "The air condition in New Zealand will maintain a high quality because of the ocean.",
+                "The temperature of New Zealand will increase less than that of other regions in the next 100 years because it is surrounded by sea."
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "What is one effect of the wind belt that circles the Southern Oceans?",
+              "input_type": "radio",
+              "options": [
+                "New Zealand will have more moisture in winds in summer.",
+                "New Zealand needs to face droughts more often in hotter months in a year.",
+                "Soil water will increase as a result of weakening moisture in the winds.",
+                "Agricultural production will be reduced as a result of more rainfall in other seasons."
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "What does \"moisture deficit\" mean to the grain and crops?",
+              "input_type": "radio",
+              "options": [
+                "The growing condition will be very tough for crops.",
+                "The growing season of some plants can hardly be determined.",
+                "There will be a huge gap between the water plants needed and the water the earth can offer.",
+                "The soil of grain and crops in New Zealand reached its lowest production since 1970s."
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "What changes will happen to skiing industry due to the global warming phenomenon?",
+              "input_type": "radio",
+              "options": [
+                "The skiing station may lower the altitude of skiing.",
+                "Part of the skiing station needs to move to the north.",
+                "The snowfall may increase in part of the skiing station.",
+                "The local skiing station may likely to make a profit because of the snowfall increase."
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Cumulative changes over a long period of time in mass balance will lead to",
+              "input_type": "radio",
+              "options": [
+                "alterations in the volume and thickness of glaciers.",
+                "faster changes in internal deformation and basal sliding.",
+                "bigger length of glaciers.",
+                "retreat of glacier tongues as a result of change in annual atmospheric conditions."
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "Why does the writer mention NIWA in the sixth paragraph?",
+              "input_type": "radio",
+              "options": [
+                "To use a particular example to explain the effects brought by glacier melting.",
+                "To emphasize the severance of the further loss of ice in Mt. Cook Region.",
+                "To alarm the reader of melting speed of glaciers at a uniform rate.",
+                "To note the lake in the region will disappear when it reach the glacier bed."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 33-35 on your answer sheet.\n\nResearch data shows that sea level has a closely relation with the change of climate. The major reason for the increase in sea level is connected with 33  The increase in sea level is also said to have a threat to the underground water system, the destruction of which caused by rise of sea level will lead to a high probability of reduction in 34  In the long run, New Zealanders may have to improve the 35  if they want to diminish the effect change in sea levels.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "The major reason for the increase in sea level is connected with _________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 34,
+              "prompt": "The increase in sea level is also said to have a threat to the underground water system, the destruction of which caused by rise of sea level will lead to a high probability of reduction in _________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 35,
+              "prompt": " In the long run, New Zealanders may have to improve the _________ if they want to diminish the effect change in sea levels.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Yes/No/Not Given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 36-40 on your answer sheet, write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Farmers are less responsive to climate change than agriculturists.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 37,
+              "prompt": "Agricultural sector is too conservative and deal with climate change.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 38,
+              "prompt": "Turtle is vulnerable to climate change.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 39,
+              "prompt": "The global warming is going slowly, and it may have different effects on different areas in New Zealand",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 40,
+              "prompt": "New Zealand must cut carbon dioxide emission if they want to solve the problem of global warming.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
