@@ -1,0 +1,492 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Ants Could Teach Ants",
+      "text": "<b>A.</b> The ants are tiny and usually nest between rocks in the south coast of England. Transformed into research subjects at the University of Bristol, they raced along a tabletop foraging for food - and then, remarkably, returned to guide others. Time and again, followers trailed behind leaders, darting this way and that along the route, presumably to memorise landmarks. Once a follower got its bearings, it tapped the leader with its antennae, prompting the lesson to literally proceed to the next step. The ants were only looking for food, but the researchers said the careful way the leaders led followers, thereby turning them into leaders in their own right, marked the Temnothorax albipennis ant as the very first example of a non-human animal exhibiting teaching behaviour.\n\n<b>B.</b> \"Tandem running is an example of teaching, to our knowledge the first in a non-human animal, that involves bidirectional feedback between teacher and pupil\" remarks Nigel Franks, professor of animal behaviour and ecology, whose paper on the ant educators was published last week in the journal Nature.\n\n<b>C.</b> No sooner was the paper published, of course, than another educator questioned it. Marc Hauser, a psychologist and biologist and one of the scientists who came up with the definition of teaching, said it was unclear whether the ants had learned a new skill or merely acquired new information.\n\n<b>D.</b> Later, Franks took a further study and found that there were even races between leaders. With the guidance of leaders, ants could find food faster. But the help comes at a cost for the leader, who normally would have reached the food about four times faster if not hampered by a follower. This means the hypothesis that the leaders deliberately slowed down in order to pass the skills on to the followers seems potentially valid. His ideas were advocated by the students who carried out the video project with him.\n\n<b>E.</b> Opposing views still arose, however. Hauser noted that mere communication of information is commonplace in the animal world. Consider a species, for example, that uses alarm calls to warn fellow members about the presence .Sounding the alarm can be costly, because the animal may draw the attention of the predator to itself. But it allows others flee to safety. \"Would you call this teaching?\" wrote Hauser. \"The caller incurs a cost. The naive animals gain a benefit and new knowledge that better enables them to learn about the predator's location than if the caller had not called. This happens throughout the animal kingdom, but we don't call it teaching, even though it is clearly transfer of information.\"\n\n<b>F.</b> Tim Caro, a zoologist, presented two cases of animal communication. He found that cheetah mothers that take their cubs along on hunts gradually allow their cubs to do more of the hunting - going, for example, from killing a gazelle and allowing young cubs to eat merely tripping the gazelle and letting the cubs finish it off. At one level, such behaviour might be called teaching - except the mother was not really teaching the cubs to hunt but merely facilitating various stages of learning. In another instance, birds watching other birds using a stick to locate food such as insects and so on, are observed to do the same thing themselves while finding food later.\n\n<b>G.</b> Psychologists study animal behaviour in part to understand the evolutionary roots of human behaviour, Hauser said. The challenge in understanding whether other animals truly teach one another, he added, is that human teaching involves a \"theory of mind\" teachers are aware that students don't know something. He questioned whether Franks' leader ants really knew that the follower ants were ignorant. Could they simply have been following an instinctive rule to proceed when the followers tapped them on the legs or abdomen? And did leaders that led the way to food - only to find that it had been removed by the experimenter - incur the wrath of followers? That, Hauser said, would suggest that the follower ant actually knew the leader was more knowledgeable and not merely following an instinctive routine itself.\n\n<b>H.</b> The controversy went on, and for a good reason. The occurrence of teaching in ants, if proven to be true, indicates that teaching can evolve in animals with tiny brains. It is probably the value of information in social animals that determines when teaching will evolve, rather than the constraints of brain size.\n\n<b>I.</b> Bennett Galef Jr., a psychologist who studies animal behaviour and social learning at McMaster University in Canada, maintained that ants were unlikely to have a \"theory of mind\" - meaning that leaders and followers may well have been following instinctive routines that were not based on an understanding of what was happening in another ant's brain. He warned that scientists may be barking up the wrong tree when they look not only for examples of humanlike behaviour among other animals but humanlike thinking that underlies such behaviour. Animals may behave in ways similar to humans without a similar cognitive system, he said, so the behaviour is not necessarily a good guide into how humans came to think the way they do.",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "Look at the following statements (Questions 1-5) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Animals could use objects to locate food.",
+              "input_type": "dropdown",
+              "options": [
+                "A. Nigel Franks",
+                "B. Marc Hauser",
+                "C. Tim Caro",
+                "D. Bennett Galef Jr"
+              ]
+            },
+            {
+              "number": 2,
+              "prompt": "Ants show two-way, interactive teaching behaviours.",
+              "input_type": "dropdown",
+              "options": [
+                "A. Nigel Franks",
+                "B. Marc Hauser",
+                "C. Tim Caro",
+                "D. Bennett Galef Jr"
+              ]
+            },
+            {
+              "number": 3,
+              "prompt": "It is risky to say ants can teach other ants like human beings do.",
+              "input_type": "dropdown",
+              "options": [
+                "A. Nigel Franks",
+                "B. Marc Hauser",
+                "C. Tim Caro",
+                "D. Bennett Galef Jr"
+              ]
+            },
+            {
+              "number": 4,
+              "prompt": "Ant leadership makes finding food faster.",
+              "input_type": "dropdown",
+              "options": [
+                "A. Nigel Franks",
+                "B. Marc Hauser",
+                "C. Tim Caro",
+                "D. Bennett Galef Jr"
+              ]
+            },
+            {
+              "number": 5,
+              "prompt": "Communication between ants is not entirely teaching.",
+              "input_type": "dropdown",
+              "options": [
+                "A. Nigel Franks",
+                "B. Marc Hauser",
+                "C. Tim Caro",
+                "D. Bennett Galef Jr"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose FOUR correct letters, A-H. Write your answers in boxes 6-9 on your answer sheet.",
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "Which FOUR of the following behaviours of animals are mentioned in the passage?",
+              "input_type": "checkbox",
+              "max_choices": 4,
+              "options": [
+                "touch each other with antenna",
+                "alert others when there is danger",
+                "escape from predators",
+                "protect the young",
+                "hunt food for the young",
+                "fight with each other",
+                "use tools like twigs",
+                "feed on a variety of foods"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-13 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 10,
+              "prompt": "Ants' tandem running involves only one-way communication.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 11,
+              "prompt": "Franks's theory got many supporters immediately after publicity.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 12,
+              "prompt": "Ants' teaching behaviour is the same as that of human.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 13,
+              "prompt": "Cheetah share hunting gains to younger ones.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wealth in a cold climate",
+      "text": "<b>A.</b> Dr William Masters was reading a book about mosquitoes when inspiration struck. \"There was this anecdote about the great yellow fever epidemic that hit Philadelphia in 1793,\" Masters recalls. \"This epidemic decimated the city until the first frost came.\" The inclement weather froze out the insects, allowing Philadelphia to recover.\n\n<b>B.</b> If weather could be the key to a city's fortunes, Masters thought, then why not to the historical fortunes of nations? And could frost lie at the heart of one of the most enduring economic mysteries of all - why are almost all the wealthy, industrialised nations to be found at latitudes above 40 degrees? After two years of research, he thinks that he has found a piece of the puzzle. Masters, an agricultural economist from Purdue University in Indiana, and Margaret McMillan at Tufts University, Boston, show that annual frosts are among the factors that distinguish rich nations from poor ones. Their study is published this month in the Journal of Economic Growth. The pair speculates that cold snaps have two main benefits - they freeze pests that would otherwise destroy crops, and also freeze organisms, such as mosquitoes, that carry disease. The result is agricultural abundance a big workforce.\n\n<b>C.</b> The academics took two sets of information. The first was average income for countries, the second climate data from the University of East Anglia. They found a curious tally between the sets. Countries having five or more frosty days a month are uniformly rich; those with fewer than five are impoverished. The authors speculate that the five-day figure is important; it could be the minimum time needed to kill pests in the soil. Masters says: \"For example, Finland is a small country that is growing quickly, but Bolivia is a small country that isn't growing at all. Perhaps climate has something to do with that.\" In fact, limited frosts bring huge benefits to farmers. The chills kill insects or render them inactive; cold weather slows the break-up of plant and animal material in the soil, allowing it to become richer; and frosts ensure a build-up of moisture in the ground for spring, reducing dependence on seasonal rains. There are exceptions to the \"cold equals rich\" argument. There are well-heeled tropical countries such as Hong Kong and Singapore (both city-states, Masters notes), a result of their superior trading positions. Likewise, not all European countries axe moneyed - in the former communist colonies, economic potential was crushed by politics.\n\n<b>D.</b> Masters stresses that climate will never be the overriding factor - the wealth of nations is too complicated to be attributable to just one factor. Climate, he feels, somehow combines with other factors - such as the presence of institutions, including governments, and access to trading routes - to determine whether a country will do well. Traditionally, Masters says, economists thought that institutions had the biggest effect on the economy, because they brought order to a country in the form of, for example, laws and property rights. With order, so the thinking went, came affluence. \"But there are some problems that even countries with institutions have not been able to get around,\" he says. \"My feeling is that, as countries get richer, they get better institutions. And the accumulation of wealth and improvement in governing institutions are both helped by a favourable environment, including climate.\n\n<b>E.</b> This does not mean, he insists, that tropical countries are beyond economic help and destined to remain penniless. Instead, richer countries should change the way in which foreign aid is given. Instead of aid being geared towards improving governance, it should be spent on technology to improve agriculture and to combat disease. Masters cites one example: \"There are regions in India that have been provided with irrigation - agricultural productivity has gone up and there has been an improvement in health.\" Supplying vaccines against tropical diseases and developing crop varieties that can grow in the tropics would break the poverty cycle.\n\n<b>F.</b> Other minds have applied themselves to the split between poor and rich nations, citing anthropological, climatic and zoological reasons for why temperate nations are the most affluent. In 350BC, Aristotle observed that \"those who live in a cold climate . . . are full of spirit\". Jared Diamond, from the University of California at Los Angeles, pointed out in his book Guns, Germs and Steel that Eurasia is broadly aligned east-west, while Africa and the Americas are aligned north-south. So, in Europe, crops can spread quickly across latitudes because climates are similar. One of the first domesticated crops, einkorn wheat, spread quickly from the Middle East into Europe; it took twice as long for corn to spread from Mexico to what is now the eastern United States. This easy movement along similar latitudes in Eurasia would also have meant a faster dissemination of other technologies such as the wheel and writing, Diamond speculates. The region also boasted domesticated livestock, which could provide meat, wool and motive power in the fields. Blessed with such natural advantages, Eurasia was bound to take off economically.\n\n<b>G.</b> John Gallup and Jeffrey Sachs, two US economists, have also pointed out striking correlations between the geographical location of countries and their wealth. They note that tropical countries between 23.45 degrees north and south of the equator are nearly all poor. In an article for the Harvard International Review, they concluded that \"development surely seems to favour the temperate-zone economies, especially those in the northern hemisphere, and those that have managed to avoid both socialism and the ravages of war\". But Masters cautions against geographical determinism, the idea that tropical countries are beyond hope: \"Human health and agriculture can be made better through scientific and technological research,\" he says, \"so we shouldn't be writing off these countries. Take Singapore: without air conditioning, it wouldn't be rich.\"",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "<b>PASSAGE 2</b> \n\n The reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-G from the list below. Write the correct number, i-x, in boxes 14-20 on your answer sheet.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Paragraph A",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 15,
+              "prompt": "Paragraph B",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 16,
+              "prompt": "Paragraph C",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 17,
+              "prompt": "Paragraph D",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 18,
+              "prompt": "Paragraph E",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 19,
+              "prompt": "Paragraph F",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            },
+            {
+              "number": 20,
+              "prompt": "Paragraph G",
+              "input_type": "dropdown",
+              "options": [
+                "i. The positive correlation between climate and wealth",
+                "ii. Other factors besides climate that influence wealth",
+                "iii. Inspiration from reading a book",
+                "iv. Other researchers' results do not rule out exceptional cases",
+                "v. Different attributes between Eurasia and Africa",
+                "vi. Low temperature benefits people and crops",
+                "vii. The importance of institution in traditional views",
+                "viii. The spread of crops in Europe, Asia and other places",
+                "ix. The best way to use aid",
+                "x. Confusions and exceptional"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage, using no more than two words from the Reading Passage for each answer. Write your answers in boxes 21-26 on your answer sheet.",
+          "questions": [
+            {
+              "number": 21,
+              "prompt": "Dr William Masters read a book saying that a(an) ________ which struck an American city years ago was terminated by a cold frost.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 22,
+              "prompt": "And academics found that there is a connection between climate and country's wealthy as in the rich but small country of ________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 23,
+              "prompt": "Yet besides excellent surroundings and climate, one country still need to improve both their ________ to achieve long prosperity.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 24,
+              "prompt": "Thanks to resembling weather condition across latitude in the continent of ________ crops, ",
+              "input_type": "short_text"
+            },
+             {
+              "number": 25,
+              "prompt": "such as ________ is bound to spread faster than from South America to the North.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 26,
+              "prompt": "Other researchers also noted that even though geographical factors are important, tropical country such as ________ still became rich due to scientific advancement.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Compliance or Noncompliance for children",
+      "text": "<b>A.</b> Many Scientists believe that socialization takes a long process, while compliance is the outset of it. Accordingly, compliance for education of children is the priority. Motivationally distinct forms of child compliance, mutually positive affect, and maternal control, observed in 3 control contexts in 103 dyads of mothers and their 26-41-month-old children, were examined as correlates of internalization, assessed using observations of children while alone with prohibited temptations and maternal ratings. One form of compliance (committed compliance), when the child appeared committed wholeheartedly to the maternal agenda and eager to endorse and accept it, was emphasized. Mother-child mutually positive affect was both a predictor and a concomitant of committed compliance. Children who shared positive affect with their mothers showed a high level of committed compliance and were also more internalized. Differences and similarities between children's compliance to requests and prohibitions (\"Do \" vs. \"Don't\" demand contexts) were also explored. Maternal \"Dos\" appeared more challenging to toddlers than the \"Don'ts.\" Some individual coherence of behavior was also found across both demand contexts. The implications of committed compliance for emerging internalized regulators of conduct are discussed.\n\n<b>B.</b> A number of parents were not easy to be aware of the compliance, some even overlooked their children's noncompliance. Despite good education, these children did not follow the words from their parents on several occasion especially boys in certain ages. Fortunately, this rate was acceptable; some parents could be patient with the noncompliance. Someone held that noncompliance is probably not a wrong thing. In order to determine the effects of different parental disciplinary techniques on young children's compliance and noncompliance, mothers were trained to observe emotional incidents involving their own toddler-aged children. Reports of disciplinary encounters were analyzed in terms of the types of discipline used (reasoning, verbal prohibition, physical coercion, love withdrawal, and combinations thereof) and children's responses to that discipline (compliance/ noncompliance and avoidance). The relation between compliance/ noncompliance and type of misdeed (harm to persons, harm to property, and lapses of self-control) was also analyzed. Results indicated that love withdrawal combined with other techniques was most effective in securing children's compliance and that its effectiveness was not a function of the type of technique with which it was combined. Avoidant responses and affective reunification with the parent were more likely to follow love withdrawal than any other technique. Physical coercion was somewhat less effective than love withdrawal, while reasoning and verbal prohibition were not at all effective except when both were combined with physical coercion.\n\n<b>C.</b> Noncompliant Children sometimes prefer to say no directly as they were younger, they are easy to deal with the relationship with contemporaries. when they are growing up .During the period that children is getting elder, who may learn to use more advanced approaches for their noncompliance. They are more skillful to negotiate or give reasons for refusal rather than show their opposite idea to parents directly.\" Said Henry Porter, a scholar working in Psychology Institute of UK. He indicated that noncompliance means growth in some way, may have benefit for children. Many Experts held different viewpoints in recent years, they tried drilling compliance into children. His collaborator Wallace Freisen believed that Organizing child's daily activities so that they occur in the same order each day as much as possible. This first strategy for defiant children is ultimately the most important. Developing a routine helps a child to know what to expect and increases the chances that he or she will comply with things such as chores, homework, and hygiene requests. When undesirable activities occur in the same order at optimal times during the day, they become habits that are not questioned, but done without thought.\n\n<b>D.</b> Doctor Steven Walson addressed that organizing fun activities to occur after frequently refused activities. This strategy also works as a positive reinforcer when the child complies with your requests. By arranging your day so that things often refused occur right before highly preferred activities, you are able to eliminate defiant behavior and motivate your child's behavior of doing the undesirable activity. This is not to be presented in a way that the preferred activity is only allowed if a defiant child does the non-preferred activity. However, you can word your request in a way so that your child assumes that you have to do the non-preferred activity before moving on to the next preferred activity. For example, you do not want to say something such as, \"If you clean your room we can play a game.\" Instead word your request like this, \"As soon as you are done cleaning your room we will be able to play that really fun game you wanted to play.\"\n\n<b>E.</b> Psychologist Paul Edith insisted praise is the best way to make children to comply with. This is probably a common term you are used to hearing by now. If you praise your child's behavior, he or she will be more likely to do that behavior. So, it is essential to use praise when working with defiant children. It also provides your child with positive attention. However, it is important to know how to praise children in a way that encourages future automatic reinforcement for your child when doing a similar behavior.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "<b>PASSAGE 3</b> \n\n Choose the correct letter, A, B, C or D. Write your answers in boxes 27-31 on your answer sheet.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "The children, especially boys received good education may",
+              "input_type": "dropdown",
+              "options": [
+                "A. always comply with their parents, words",
+                "B. be good at math",
+                "C. have a high score at school",
+                "D. not always comply with their parents' orders"
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "to their children's compliance and noncompliance, parents",
+              "input_type": "dropdown",
+              "options": [
+                "A. must be aware of the compliance",
+                "B. ask for help from their teachers",
+                "C. some of them may ignore their noncompliance",
+                "D. pretend not to see"
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "According to Henry Porter noncompliance for children",
+              "input_type": "dropdown",
+              "options": [
+                "A. are entirely harmful",
+                "B. may have positive effects",
+                "C. needs medicine assistance",
+                "D. should be treated by expert doctor"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "When children are growing up, they",
+              "input_type": "dropdown",
+              "options": [
+                "A. always try to directly say no",
+                "B. are more skillful to negotiate",
+                "C. learn to cheat instead of noncompliance",
+                "D. tend to keep silent"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Which is the possible reaction the passage mentioned for elder children and younger ones if they don't want to comply with the order",
+              "input_type": "dropdown",
+              "options": [
+                "A. elder children prefer to refuse directly",
+                "B. elder ones refuse to answer",
+                "C. younger children may reject directly",
+                "D. younger ones may save any words"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Matching",
+          "instruction": "Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter, A-G, in boxes 32-35 on your answer sheet.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Henry Porter",
+              "input_type": "dropdown",
+              "options": [
+                "A. children of all ages will indirectly show noncompliance",
+                "B. elder children tend to negotiate rather than show noncompliance",
+                "C. converse behavior means noncompliance",
+                "D. organizing fun activities to occur after frequently refused activities",
+                "E. organizing child's daily activities in the same order as much as possible",
+                "F. use praise in order to make children compliant",
+                "G. take the children to school at an early age"
+              ]
+            },
+            {
+              "number": 33,
+              "prompt": "Wallace Freisen",
+              "input_type": "dropdown",
+              "options": [
+                "A. children of all ages will indirectly show noncompliance",
+                "B. elder children tend to negotiate rather than show noncompliance",
+                "C. converse behavior means noncompliance",
+                "D. organizing fun activities to occur after frequently refused activities",
+                "E. organizing child's daily activities in the same order as much as possible",
+                "F. use praise in order to make children compliant",
+                "G. take the children to school at an early age"
+              ]
+            },
+            {
+              "number": 34,
+              "prompt": "Steven Walson",
+              "input_type": "dropdown",
+              "options": [
+                "A. children of all ages will indirectly show noncompliance",
+                "B. elder children tend to negotiate rather than show noncompliance",
+                "C. converse behavior means noncompliance",
+                "D. organizing fun activities to occur after frequently refused activities",
+                "E. organizing child's daily activities in the same order as much as possible",
+                "F. use praise in order to make children compliant",
+                "G. take the children to school at an early age"
+              ]
+            },
+            {
+              "number": 35,
+              "prompt": "Paul Edith",
+              "input_type": "dropdown",
+              "options": [
+                "A. children of all ages will indirectly show noncompliance",
+                "B. elder children tend to negotiate rather than show noncompliance",
+                "C. converse behavior means noncompliance",
+                "D. organizing fun activities to occur after frequently refused activities",
+                "E. organizing child's daily activities in the same order as much as possible",
+                "F. use praise in order to make children compliant",
+                "G. take the children to school at an early age"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 36-40 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Socialization takes a long process, while compliance is the beginning of it.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 37,
+              "prompt": "Many parents were difficult to be aware of the compliance or noncompliance.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 38,
+              "prompt": "Noncompliant Children are simple to deal with the relationship with the people in the same age when they are growing up.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 39,
+              "prompt": "Experts never tried drilling compliance into children.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 40,
+              "prompt": "Psychologist Paul Edith negated the importance that knowing how to praise children in an encouraged way.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
