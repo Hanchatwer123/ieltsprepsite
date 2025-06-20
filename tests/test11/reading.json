@@ -1,0 +1,455 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "William Gilbert and Magnetism",
+      "text": "<b>A.</b> 16th and 17th centuries saw two great pioneers of modem science: Galileo and Gilbert. The impact of their findings is eminent. Gilbert was the first modem scientist, also the accredited father of the science of electricity and magnetism, an Englishman of learning and a physician at the court of Elizabeth. Prior to him, all that was known of electricity and magnetism was what the ancients knew, nothing more than that the : lodestone possessed magnetic properties and that amber and jet, when rubbed, would attract bits of paper or other substances of small specific gravity. However, he is less well-known than he deserves.\n\n<b>B.</b> Gilbert’s birth predated Galileo. Born in an eminent local family in Colchester county in the UK, on May 24, 1544, he went to grammar school, and then studied medicine at St. John’s College, Cambridge, graduating in 1573. Later he traveled in the continent and eventually settled down in London.\n\n<b>C.</b> He was a very successful and eminent doctor. All this culminated in his election to the president of the Royal Science Society. He was also appointed the personal physician to the Queen (Elizabeth I), and later knighted by the Queen. He faithfully served her until her death. However, he didn’t outlive the Queen for long and died on December 10, 1603, only a few months after his appointment as personal physician to King James.\n\n<b>D.</b> Gilbert was first interested in chemistry but later changed his focus due to the large portion of mysticism of alchemy involved (such as the transmutation of metal). He gradually developed his interest in physics after the great minds of the ancient, particularly about the knowledge the ancient Greeks had about lodestones, strange minerals with the power to attract iron. In the meantime, Britain became a major seafaring nation in 1588 when the Spanish Armada was defeated, opening the way to British settlement of America. British ships depended on the magnetic: compass, yet no one understood why it worked. Did the pole star attract it, as Columbus once speculated; or was there a magnetic mountain at the pole, as described in Odyssey’ which ships would never approach, because the sailors thought its pull would yank out all their iron nails and fittings? For nearly 20 years William Gilbert conducted ingenious experiments to understand magnetism. His works include On the Magnet and Magnetic Bodies, Great Magnet of the Earth.\n\n<b>E.</b> Gilbert’s discovery was so important to modem physics. He investigated the nature of magnetism and electricity. He even coined the word “elec- tric”. Though the early beliefs of magnetism were also largely entangled with superstitions such as that rubbing garlic on lodestone can neutralize its magnetism, one example being that sailors even believed the smell of garlic would even interfere with the action of compass, which is why helmsmen were forbidden to eat it near a ship’s compass. Gilbert also found that metals can be magnetized by rubbing materials such as fur, plastic or the like on them. He named the ends of a magnet “north pole’ and “south pole”. The magnetic poles can attract or repel, depending on polarity. In addition, however, ordinary iron is always attracted to a magnet. Though he started to study the relationship between magnetism and electricity, sadly he didn’t complete it. His research of static electricity using amber and jet only demonstrated that objects with electrical charges can work like magnets attracting small pieces of paper and stuff. It is a French guy named du Fay that discovered that there are actually two electrical charges, positive and negative.\n\n<b>F.</b> He also questioned the traditional astronomical beliefs. Though a Copernican, he didn’t express in his quintessential beliefs whether the earth is at the center of the universe or in orbit around the sun. However he believed that stars are not equidistant from the earth, but have their own earth-like planets orbiting around them. The earth is itself like a giant magnet, which is also why compasses always point north. They spin on an axis that is aligned with the earth’s polarity. He even likened the polarity of the magnet to the polarity of the earth and built an entire magnetic philosophy on this analogy. In his explanation, magnetism was the soul of the earth. Thus a perfectly spherical lodestone, when aligned with the earth’s poles, would wobble all by itself in 24 hours. Further, he also believed that suns and other stars wobble just like the earth does around a crystal core, and speculated that the moon might also be a magnet caused to orbit by its magnetic attraction to the earth. This was perhaps the first proposal that a force might cause a heavenly orbit.\n\n<b>G.</b> His research method was revolutionary in that he used experiments rather than pure logic and reasoning like the ancient Greek philosophers did. It was a new attitude toward scientific investigation. Until then, scientific experiments were not in fashion. It was because of this scientific attitude, together with his contribution to our knowledge of magnetism, that a unit of magneto motive force, also known as magnetic potential, was named Gilbert in his honor. His approach of careful observation and experimentation rather than the authoritative opinion or deductive philosophy of others had laid the very foundation for modem science.",
+      "questions": [
+        {
+          "group_type": "Matching Headings",
+          "instruction": "Reading passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number i-x in boxes 1-7 on your answer sheet.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Paragraph A",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 2,
+              "prompt": "Paragraph B",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 3,
+              "prompt": "Paragraph C",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 4,
+              "prompt": "Paragraph D",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 5,
+              "prompt": "Paragraph E",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 6,
+              "prompt": "Paragraph F",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            },
+            {
+              "number": 7,
+              "prompt": "Paragraph G",
+              "input_type": "dropdown",
+              "options": [
+                "i. Early years of Gilbert",
+                "ii. What was new about his scientific research method",
+                "iii. The development of chemistry",
+                "iv. Questioning traditional astronomy",
+                "v. Pioneers of the early science",
+                "vi. Professional and social recognition",
+                "vii. Becoming the president of the Royal Science Society",
+                "viii. The great works of Gilbert",
+                "ix. His discovery about magnetism",
+                "x. His change of focus"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 8-10 on your answer sheet write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 8,
+              "prompt": "He is less famous than he should be.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 9,
+              "prompt": "He was famous as a doctor before he was employed by the Queen.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 10,
+              "prompt": "He lost faith in the medical theories of his time.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose THREE letters A-F. Write your answers in boxes 11-13 on your answer sheet. Which THREE of the following are parts of Gilbert’s discovery?",
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "Which THREE of the following are parts of Gilbert’s discovery?",
+              "input_type": "checkbox",
+              "max_choices": 3,
+              "options": [
+                "Metal can be transformed into another.",
+                "Garlic can remove magnetism.",
+                "Metals can be magnetized.",
+                "Stars are at different distances from the earth.",
+                "The earth wobbles on its axis.",
+                "There are two charges of electricity."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seed Hunting",
+      "text": "<b>A.</b> With quarter of the world's plants set to vanish within the next 50 years, Dough Alexander reports on the scientists working against the clock the preserve the Earth’s botanical heritage. They travel the four comers of the globe, scouring jungles, forests and savannas. But they're not looking for ancient artefacts, lost treasure or undiscovered tombs. Just pods. It may lack the romantic allure of archaeology, or the whiff of danger that accompanies going after big game, but seed hunting is an increasingly serious business. Some seek seeds for profit—hunters in the employ of biotechnology firms, pharmaceutical companies and private corporations on the lookout for species that will yield the drugs or crops of the future. Others collect to conserve, working to halt the sad slide into extinction facing so many plant species.\n\n<b>B.</b> Among the pioneers of this botanical treasure hunt was John Tradescant, an English royal gardener who brought back plants and seeds from his journeys abroad in the early 1600s. Later, the English botanist Sir Joseph Banks who was the first director of the Royal Botanic Gardens at Kew and travelled with Captain James Cook on his voyages near the end of the 18th century—was so driven to expand his collections that he sent botanists around the world at his own expense.\n\n<b>C.</b> Those heady days of exploration and discovery may be over, but they have been replaced by a pressing need to preserve our natural history for the future. This modem mission drives hunters such as Dr Michiel van Slageren, a good-natured Dutchman who often sports a wide-brimmed hat in the field—he could easily be mistaken for the cinematic hero Indiana Jones. He and three other seed hunters work at the Millennium Seed Bank, an 80 million [pounds sterling] international conservation project that aims to protect the world's most endangered wild plant species.\n\n<b>D.</b> The group's headquarters are in a modem glass-and-concrete structure on a 200-hectare Estate at Wakehurst Place in the West Sussex countryside. Within its underground vaults are 260 million dried seeds from 122 countries, all stored at -20 Celsius to survive for centuries. Among the 5,100 species represented are virtually all of Britain's 1,400 native seed-bearing plants, the most complete such collection of any country’s flora.\n\n<b>E.</b> Overseen by the Royal botanic gardens, the Millennium Seed Bank is the world's largest wild-plant depository. It aims to collect 24,000 species by 2010. The reason is simple: thanks to humanity's efforts, an estimated 25 per cent of the world's plants are on the verge of extinction and may vanish within 50 years. We're currently responsible for habitat destruction on an unprecedented scale, and during the past 400 years, plant species extinction rates have been about 70 times greater than those indicated by the geological record as being ’normal’. Experts predict that during the next 50 years a further one billion hectares of wilderness will be converted to farmland in developing countries alone.\n\n<b>F.</b> The implications of this loss are enormous. Besides providing staple food crops, plants are a source of many machines and the principal supply of fuel and building materials in many parts of the world. They also protect soil and help regulate the climate. Yet, across the globe, plant species are being driven to extinction before their potential benefits are discovered.\n\n<b>G.</b> The world Conservation Union has listed 5,714 threatened species is sure to be much higher. In the UK alone, 300 wild plant species are classified as endangered. The Millennium Seed Bank aims to ensure that even if a plant becomes extinct in the wild, it won’t be lost forever. Stored seeds can be used the help restore damaged or destroyed environment or in scientific research to find new benefits for society in medicine, agriculture or local industry that would otherwise be lost.\n\n<b>H.</b> Seed banks are an insurance policy to protect the world's plant heritage for the future, explains Dr Paul Smith, another Kew seed hunter. \"Seed conservation techniques were originally developed by farmers/' he says. “Storage is the basis what we do, conserving seeds until you can use them just as in farming.\" Smith says there’s no reason why any plant species should become extinct, given today’s technology. But he admits that the biggest challenge is finding, naming and categorising all the world's plants. And someone has to gather these seeds before it's too late. \"There aren't a lot of people out there doing this,\" he says” The key is to know the flora from a particular area, and that knowledge takes years to acquire.\n\n<b>I.</b> There are about 1,470 seed banks scattered around the globe, with a combined total of 5.4 million samples, of which perhaps two million are distinct non-duplicates. Most preserve genetic material for agriculture use in order to ensure crop diversity; others aim to conserve wild species, although only 15 per cent of all banked plants are wild.\n\n<b>J.</b> Imperial College, London, examined crop collections from 151 countries and found that while the number of plant samples had increased in two thirds of the countries, budget had been cut in a quarter and remained static in another 35 per cent. The UN’s Food and Agriculture Organization and the Consultative Group on International Agricultural Research has since set up the Global Conservation Trust, which aims to raise US $260 million to protect seed banks in perpetuity.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "<b>PASSAGE 2</b> \n\n Do the following statements agree with the information given in Reading Passage 2? In boxes 14-19 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "The purpose of collecting seeds now is different from the past.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 15,
+              "prompt": "The millennium seed bank is the earliest seed bank.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 16,
+              "prompt": "One of major threats for plant species extinction is farmland expansion into wildness.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 17,
+              "prompt": "The approach that scientists apply to store seeds is similar to that used by farmers.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 18,
+              "prompt": "Technological development is the only hope to save plant species.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 19,
+              "prompt": "The works of seed conservation are often limited by financial problems.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage 2, using no more than three words from the Reading Passage for each answer. Write your answers in boxes 20-24 on your answer sheet.",
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "Some people collect seeds for the purpose of protecting certain species from _________; others collect seeds for their ability to produce _________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 21,
+              "prompt": "They are called seed hunters. The _________ of them included both gardeners and botanists, such as_________, who financially supported collectors out of his own pocket.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 22,
+              "prompt": "The seeds collected are usually stored in seed banks, one of which is the famous millennium seed bank, where seeds are all stored in the _________ at a low temperature.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 23,
+              "prompt": "Which TWO of the followings are provided by plants to the human?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 24,
+              "prompt": "Which TWO of the followings are provided by plants to the human?",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A-E. Write your answers in boxes 25, 26 on your answer sheet. Which TWO of the followings are provided by plants to the human?",
+          "questions": [
+            {
+              "number": 25,
+              "prompt": "Which TWO of the followings are provided by plants to the human?",
+              "input_type": "checkbox",
+              "max_choices": 2,
+              "options": [
+                "food",
+                "fuel",
+                "clothes",
+                "energy",
+                "commercial products"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Power of Nothing",
+      "text": "<b>A.</b> Want to devise a new form of alternative medicine? No problem. Here is the recipe. Be warm, sympathetic, reassuring and enthusiastic. Your treatment should involve physical contact, and each session with your patients should last at least half an hour, treatment and understand how their disorders relate to the rest of their lives. Tell them that their own bodies possess the true power to heal. Make them pay you out of their own pockets. Describe your treatment in familiar words, but embroidered with a hint of mysticism: energy fields, energy flows, energy blocks, meridians, forces, auras, rhythms and the like. Refer to the K J knowledge of an earlier age: wisdom carelessly swept aside by the rise and rise of blind, mechanistic science. Oh, come off it, you are saying. Something invented off the top of your head could not possibly work, could it?\n\n<b>B.</b> Well yes, it could - and often well enough to earn you living. A good living if you are sufficiently convincing, or better still, really believe in your therapy. Many illnesses get better on their own, so if you are lucky and administer your treatment at just the right time you will get the credit. But that’s only part of it. Some of the improvement really would be down to you. Your healing power would be the outcome of a paradoxical force that conventional medicine recognizes but remains oddly ambivalent about: the placebo effect.\n\n<b>C.</b> Placebos are treatments that have no direct effect on the body, yet still work because the patient has faith in their power to heal. Most often the term refers to a dummy pill, but it applies just as much to any device or procedure, from a sticking plaster to a crystal to an operation. The existence of the placebo effect implies that even quackery may confer real benefits, which is why any mention of placebo is a touchy subject for many practitioners of complementary and alternative medicine, who are likely to regard it as tantamount to a charge of charlatanism. In fact, the placebo effect is a powerful part of all medical care, orthodox or otherwise, though its role is often neglected or misunderstood.\n\n<b>D.</b> One of the great strengths of CAM may be its practioners’ skill in deploying the placebo effect to accomplish real healing. \"Complementary practitioners are miles better at producing non-specific effects and good therapeutic relationships,\" says Edzard Ernst, professor of CAM at Exeter University. The question is whether CAM could be integrated into conventional medicine, as some would like, without losing much of this power.\n\n<b>E.</b> At one level, it should come as no surprise that our state of mind can influence our physiology: anger opens the superficial blood vessels of the face; sadness pumps the tear glands. But exactly how placebos work their medical magic is still largely unknown. Most of the scant research done so far has focused on the control of pain, because it’s one of the commonest compaints and lends itself to experimental study. Here, attention has turned to the endorphins, morphine-like neurochemicals known to help control pain.\n\n<b>F.</b> But exactly how placebos work their medical magic is still largely unknown. Most of the scant research to date has focused on the control of pain, because it’s one of the commonest complaints and lends itself to experimental study. Here, attention has turned to the endorphins, natural counterparts of morphine that are known to help control pain. \"Any of the neurochemicals involved in transmitting pain impulses or modulating them might also be involved in generating the placebo response,\" says Don Price, an oral surgeon at the University of Florida who studies the placebo effect in dental pain.\n\n<b>G.</b> \"But endorphins are still out in front.\" That case has been strengthened by the recent work of Fabrizio Benedetti of the University of Turin, who showed that the placebo effect can be abolished by a drug, naloxone, which blocks the effects of endorphins. Benedetti induced pain in human volunteers by inflating a blood-pressure cuff on the forearm. He did this several times a day for several days, using morphine each time to control the pain. On the final day, without saying anything, he replaced the morphine with a saline solution. This still relieved the subjects’ pain: a placebo effect. But when he added naloxone to the saline the pain relief disappeared. Here was direct proof that placebo analgesia is mediated, at least in part, by these natural opiates.\n\n<b>H.</b> Still, no one knows how belief triggers endorphin release, or why most people can't achieve placebo pain relief simply by willing it. Though scientists don’t know exactly how placebos work, they have accumulated a fair bit of knowledge about how to trigger the effect. A London rheumatologist found, for example, that red dummy capsules made more effective painkillers than blue, green or yellow ones. Research on American students revealed that blue pills make better sedatives than pink, a colour more suitable for stimulants. Even branding can make a difference: if Aspro or Tylenol are what you like to take for a headache, their chemically identical generic equivalents may be less effective.\n\n<b>I.</b> It matters, too, how the treatment is delivered. Decades ago, when the major tranquilliser chlorpromazine was being introduced, a doctor in Kansas categorised his colleagues according to whether they were keen on it, openly sceptical of its benefits, or took a \"let’s try and see,’ attitude. His conclusion: the more enthusiastic the doctor, the better the drug performed. And this, year Ernst surveyed published studies that compared doctors' bedside manners. The studies turned up one consistent finding: \"Physicians who adopt a warm, friendly and reassuring manner,\" he reported, \"are more effective than those whose consultations are formal and do not offer reassurance”\n\n<b>J.</b> Warm, friendly and reassuring are precisely CAM,s strong suits, of course. Many ofthe ingredients of that opening recipe — the physical contact, the generous swathes of time, the strong hints of supernormal healing power — are just the kind of thing likely to impress patients. It’s hardly surprising, then, that complementary practitioners are generally best at mobilising the placebo effect, says Arthur Kleinman, professor of social anthropology at Harvard University.",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "<b>PASSAGE 3</b> \n\n Use the information in the passage to match the deed (listed A-H) with people below. Write the appropriate letters A-H in boxes 27-32 on your answer sheet. NB you may use any letter more than once.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Appointments with alternative practitioner",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "An alternative practitioners description of treatment",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "An alternative practitioner who has faith in what he does",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "The illness of patients convinced of alternative practice",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Improvements of patients receiving alternative practice",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "Conventional medical doctors (who is aware of placebo)",
+              "input_type": "dropdown",
+              "options": [
+                "A. Should easily be understood",
+                "B. Should improve by itself",
+                "C. Should not involve any mysticism",
+                "D. Ought to last a minimum length of time.",
+                "E. Needs to be treated at the right time.",
+                "F. Should give more recognition.",
+                "G. Can earn valuable money.",
+                "H. Do not rely on any specific treatment"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 33-35 on your answer sheet.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "In the fifth paragraph, the writer uses the example of anger and sadness to illustrate that:",
+              "input_type": "radio",
+              "options": [
+                "People’s feeling could affect their physical behaviour",
+                "Scientists don't understand how the mind influences the body.",
+                "Research on the placebo effect is very limited",
+                "How placebo achieves its effect is yet to be understood."
+              ]
+            },
+            {
+              "number": 34,
+              "prompt": "Research on pain control attracts most of the attention because",
+              "input_type": "radio",
+              "options": [
+                "Scientists have discovered that endorphins can help to reduce pain.",
+                "Only a limited number of researchers gain relevant experience",
+                "Pain reducing agents might also be involved in placebo effect.",
+                "Patients often experience pain and like to complain about it"
+              ]
+            },
+            {
+              "number": 35,
+              "prompt": "Fabrizio Benedettfs research on endorphins indicates that",
+              "input_type": "radio",
+              "options": [
+                "They are widely used to regulate pain.",
+                "They can be produced by willM thoughts",
+                "They can be neutralized by introducing naloxone.",
+                "Their pain-relieving effects do not last long enough."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36-40 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "There is enough information for scientists to fhlly understand the placebo effect.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 37,
+              "prompt": "A London based researcher discovered that red pills should be taken off the market.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 38,
+              "prompt": "People's preference on brands would also have effect on their healing.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 39,
+              "prompt": "Medical doctors have a range of views of the newly introduced drug of",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 40,
+              "prompt": "Alternative practitioners are seldom known for applying placebo effect.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

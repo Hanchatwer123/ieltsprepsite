@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe bar chart below shows the average rainfall for Australia by month for last year. The line shows the average rainfall for Australia by month for the last 40 years.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nSome people believe that technology causes more problems for modern society than it solves. Others think it has greatly improved our quality of life.\n\nDiscuss both views and give your own opinion.\n\nYou should write at least 250 words."
+}
