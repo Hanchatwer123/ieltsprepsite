@@ -1,0 +1,577 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Creating Artificial Reefs",
+      "text": "In the coastal waters of the US, a nation's leftovers have been discarded. Derelict ships, concrete blocks, scrapped cars, army tanks, tyres filled with concrete and redundant planes litter the sea floor. However, this is not waste disposal, but part of a coordinated, state-run programme. To recently arrived fish, plants and other sea organisms, these artificial reefs are an ideal home, offering food and shelter.\n\nSea-dumping incites widespread condemnation. Little surprise when oceans are seen as 'convenient' dumping grounds for the rubbish we have created but would rather forget. However, scientific evidence suggests that if we dump the right things, sea life can actually be enhanced. And more recently, purpose-built structures of steel or concrete have been employed—some the size of small apartment blocks—principally to increase fish harvests.\n\nThe choice of design and materials for an artificial reef depends on where it is going to be placed. In areas of strong currents, for example, a solid concrete structure will be more appropriate than ballasted tyres. It also depends on what species are to be attracted. It is pointless creating high-rise structures for fish that prefer flat or low-relief habitat. But the most important consideration is the purpose of the reef.\n\nIn the US, where there is a national reef plan using cleaned up rigs and tanks, artificial reefs have mainly been used to attract fish for recreational fishing or sport-diving. But there are many other ways in which they can be used to manage the marine habitat. For as well as protecting existing habitat, providing purpose-built accommodation for commercial species (such as lobsters and octopi) and acting as sea defences, they can be an effective way of improving fish harvests.\n\nJapan, for example, has created vast areas of artificial habitat—rather than isolated reefs—to increase its fish stocks. In fact, the cultural and historical importance of seafood in Japan is reflected by the fact that it is a world leader in reef technology; what's more, those who construct and deploy reefs have sole rights to the harvest.\n\nIn Europe, artificial reefs have been mainly employed to protect habitat. Particularly so in the Mediterranean where reefs have been sunk as physical obstacles to stop illegal trawling, which is destroying sea grass beds and the marine life that depends on them. If you want to protect areas of the seabed, you need something that will stop trawlers dead in their tracks,' says Dr Antony Jensen of the Southampton Oceanography Centre.\n\nItaly boasts considerable artificial reef activity. It deployed its first scientifically planned reef using concrete cubes assembled in pyramid forms in 1974 to enhance fisheries and stop trawling. And Spain has built nearly 50 reefs in its waters, mainly to discourage trawling and enhance the productivity of fisheries. Meanwhile, Britain established its first quarried rock artificial reef in 1984 off the Scottish coast, to assess its potential for attracting commercial species.\n\nBut while the scientific study of these structures is a little over a quarter of a century old, artificial reefs made out of readily available materials such as bamboo and coconuts have been used by fishermen for centuries. And the benefits have been enormous. By placing reefs close to home, fishermen can save time and fuel. But unless they are carefully managed, these areas can become over-fished. In the Philippines, for example, where artificial reef programmes have been instigated in response to declining fish populations, catches are often allowed to exceed the maximum potential new production of the artificial reef because there is no proper management control.\n\nThere is no doubt that artificial reefs have lots to offer. And while purpose-built structures are effective, the real challenge now is to develop environmentally safe ways of using recycled waste to increase marine diversity. This will require more scientific research. For example, the leachates from one of the most commonly used reef materials, tyres, could potentially be harmful to the creatures and plants that they are supposed to attract. Yet few extensive studies have been undertaken into the long-term effects of disposing of tyres at sea. And at the moment, there is little consensus about what is environmentally acceptable to dump at sea, especially when it comes to oil and gas rigs. Clearly, the challenge is to develop environmentally acceptable ways of disposing of our rubbish while enhancing marine life too. What we must never be allowed to do is have an excuse for dumping anything we like at sea.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "The list below gives some of the factors that must be taken into account when deciding how to construct an artificial reef. Which THREE of these factors are mentioned by the writer of the article? Write the appropriate A-F in boxes 1-3 on your answer sheet.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Factors to consider when constructing an artificial reef",
+              "input_type": "checkbox",
+              "max_choices": 3,
+              "options": [
+                "The fishing activity in the area",
+                "The intended location of the reef",
+                "The existing reef structures",
+                "The type of marine life being targeted",
+                "The function of the reef",
+                "The cultural importance of the area"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Table Completion",
+          "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 4-8 on your answer sheet.",
+          "questions": [
+            {
+              "number": 4,
+              "prompt": "US' Type of Reef: Made using old __________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 5,
+              "prompt": "Japan's Purpose: To improve __________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 6,
+              "prompt": "Europe's Type of Reef: Lies deep down to form __________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 7,
+              "prompt": "Italy's Type of Reef: Consists pyramid shapes made of __________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 8,
+              "prompt": "Britain's Purpose: To encourage __________ fish species",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Sentence Completion",
+          "instruction": "Using NO MORE THAN THREE WORDS, complete the following sentences. Write your answers in boxes 9-12 on your answer sheet.",
+          "questions": [
+            {
+              "number": 9,
+              "prompt": "In __________ people who build reefs are legally entitled to all the fish they attract.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 10,
+              "prompt": "Trawling inhibits the development of marine life because it damages the __________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 11,
+              "prompt": "In the past, both __________ were used to make reefs.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 12,
+              "prompt": "To ensure that reefs are not over-fished, good __________ is required.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the appropriate letter A-D and write it in box 13 on your answer sheet.",
+          "questions": [
+            {
+              "number": 13,
+              "prompt": "According to the writer, the next step in the creation of artificial reefs is",
+              "input_type": "radio",
+              "options": [
+                "to produce an international agreement.",
+                "to expand their use in the marine environment.",
+                "to examine their dangers to marine life.",
+                "to improve on purpose-built structures."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Looking for a Market among Adolescents",
+      "text": "<b>A</b>   In 1992, the most recent year for which data are available, the US tobacco industry spent $5 billion on domestic marketing. That figure represents a huge increase from the approximate £250 million budget in 1971, when tobacco advertising was banned from television and radio. The current expenditure translates to about $75 for every adult smoker, or to $4,500 for every adolescent who became a smoker that year. This apparently high cost to attract a new smoker is very likely recouped over the average 25 years that this teen will smoke.\n\n<b>B</b>     In the first half of this century, leaders of the tobacco companies boasted that innovative mass-marketing strategies built the industry. Recently, however, the tobacco business has maintained that its advertising is geared to draw established smokers to particular brands. But public health advocates insist that such advertising plays a role in generating new demand, with adolescents being the primary target. To explore the issue, we examined several marketing campaigns undertaken over the years and correlated them with the ages smokers say they began their habit. We find that, historically, there is considerable evidence that such campaigns led to an increase in cigarette smoking among adolescents of the targeted group.\n\n<b>C</b>     National surveys collected the ages at which people started smoking. The 1955 Current Population Survey (CPS) was the first to query respondents for this information, although only summary data survive. Beginning in 1970, however, the National Health Interview Surveys (NHIS) included this question in some polls. Answers from all the surveys were combined to produce a sample of more than 165,000 individuals. Using a respondent’s age at the time of the survey and the reported age of initiation, [age they started smoking], the year the person began smoking could be determined. Dividing the number of adolescents (defined as those 12 to 17 years old) who started smoking during a particular interval by the number who were ‘eligible’ to begin at the start of the interval set the initiation rate for that group.\n\n<b>D</b>     Mass-marketing campaigns began as early as the 1880s, which boosted tobacco consumption sixfold by 1900. Much of the rise was attributed to a greater number of people smoking cigarettes, as opposed to using cigars, pipes, snuff or chewing tobacco. Marketing strategies included painted billboards and an extensive distribution of coupons, which a recipient could redeem for free cigarettes... Some brands included soft-porn pictures of women in the packages. Such tactics inspired outcry from educational leaders concerned about their corrupting influence on teenage boys. Thirteen percent of the males surveyed in 1955 who reached adolescence between 1890 and 1910 commenced smoking by 18 years of age, compared with almost no females.\n\n<b>E</b>     The power of targeted advertising is more apparent if one considers the men born between 1890 and 1899. In 1912, when many of these men were teenagers, the R.J Reynolds Company launched the Camel brand of cigarettes with a revolutionary approach... Every city in the country was bombarded with print advertising. According to the 1955 CPS, initiation by age 18 for males in this group jumped to 21.6 percent, a two-thirds increase over those born before 1890. The NHIS initiation rate also reflected this change. For adolescent males it went up from 2.9 percent between 1910 and 1912 to 4.9 percent between 1918 and 1921.\n\n<b>F</b>      It was not until the mid-1920s that social mores permitted cigarette advertising to focus on women... In 1926 a poster depicted women imploring smokers of Chesterfield cigarettes to “Blow Some My Way”. The most successful crusade, however, was for Lucky Strikes, which urged women to “Reach for a Lucky instead of a Sweet”. The 1955 CPS data showed that 7 percent of the women who were adolescents during the mid-1920s had started smoking by age 18, compared with only 2 percent in the preceding generation of female adolescents. Initiation rates from the NHIS data for adolescent girls were observed to increase threefold, from 0.6 percent between 1922 and 1925 to 1.8 percent between 1930 and 1933. In contrast, rates for males rose only slightly.\n\n<b>G</b>      The next major boost in smoking initiation in adolescent females occurred in the late 1960s. In 1967 the tobacco industry launched “niche” brands aimed exclusively at women. The most popular was Virginia Slims. The visuals of this campaign emphasized a woman who was strong, independent and very thin... Initiation in female adolescents nearly doubled, from 3.7 percent between 1964 and 1967 to 6.2 percent between 1972 and 1975 (NHIS data). During the same period, rates for adolescent males remained stable.\n\n<b>H</b>      Thus, in four distinct instances over the past years, innovative and directed tobacco marketing campaigns were associated with marked surges in primary demand from adolescents only in the target group. The first two were directed at males and the second two at females. Of course, other factors helped to entrench smoking in society... Yet it is clear from the data that advertising has been an overwhelming force in attracting new users.",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "<b>PASSAGE 2</b> \n\n Reading Passage 2 has eight paragraphs (A-H). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 14-19 on your answer sheet. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Paragraph A",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            },
+            {
+              "number": 15,
+              "prompt": "Paragraph B",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            },
+            {
+              "number": 16,
+              "prompt": "Paragraph C",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            },
+            {
+              "number": 17,
+              "prompt": "Paragraph E",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            },
+            {
+              "number": 18,
+              "prompt": "Paragraph F",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            },
+            {
+              "number": 19,
+              "prompt": "Paragraph G",
+              "input_type": "dropdown",
+              "options": [
+                "i. Gathering the information",
+                "ii. Cigarettes produced to match an image",
+                "iii. Financial outlay on marketing",
+                "iv. The first advertising methods",
+                "v. Pressure causes a drop in sale",
+                "vi. Changing attitudes allow new marketing tactics",
+                "vii. Background to the research",
+                "viii. A public uproar is avoided",
+                "ix. The innovative move to written adverts",
+                "x. A century of uninhibited smoking",
+                "xi. Conclusions of the research"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information in Reading Passage 2? In boxes 20-24 write: YES if the statement is true according to the passage, NO if the statement contradicts the passage, NOT GIVEN if there is no information about this in the passage.",
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "Cigarette marketing has declined in the US since tobacco advertising banned on TV.",
+              "input_type": "radio",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 21,
+              "prompt": "Tobacco companies claim that their advertising targets existing smokers.",
+              "input_type": "radio",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 22,
+              "prompt": "The difference in initiation rates between male and female smokers at the turn of the 19th century was due to selective marketing.",
+              "input_type": "radio",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 23,
+              "prompt": "Women who took up smoking in the past lost weight.",
+              "input_type": "radio",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 24,
+              "prompt": "The two surveys show different trends in cigarette initiation.",
+              "input_type": "radio",
+              "options": [
+                "YES",
+                "NO",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Sentence Completion",
+          "instruction": "Complete the sentence below with words taken from the Reading Passage. Use NO MORE THAN THREE WORDS for each answer. Write your answer in boxes 25-27 on your answer sheet.",
+          "questions": [
+            {
+              "number": 25,
+              "prompt": "Tobacco companies are currently being accused of aiming their advertisements mainly at __________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 26,
+              "prompt": "Statistics on smoking habits for men born between 1890 and 1899 were gathered in the year __________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 27,
+              "prompt": "The __________ brand of cigarettes was designed for a particular sex.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Pursuit of Happiness",
+      "text": "New research uncovers some anti-intuitive insights into how many people are happy—and why.\n\nCompared with misery, happiness is relatively unexplored terrain for social scientists. Between 1967 and 1994, 46,380 articles indexed in Psychological Abstracts mentioned depression, 36,851 anxiety, and 5,099 anger. Only 2,389 spoke of happiness, 2,340 life satisfaction, and 405 joy.\n\nRecently we and other researchers have begun a systematic study of happiness. During the past two decades, dozens of investigators throughout the world have asked several hundred thousand representatively sampled people to reflect on their happiness and satisfaction with life—or what psychologists call “subjective well-being”. In the US the National Opinion Research Center at the University of Chicago has surveyed a representative sample of roughly 1,500 people a year since 1957; the Institute for Social Research at the University of Michigan has carried out similar studies on a less regular basis, as has the Gallup Organization. Government-funded efforts have also probed the moods of European countries.\n\nWe have uncovered some surprising findings. People are happier than one might expect, and happiness does not appear to depend significantly on external circumstances. Although viewing life as a tragedy has a long and honorable history, the responses of random samples of people around the world about their happiness paints a much rosier picture. In the University of Chicago surveys, three in 10 Americans say they are very happy, for example. Only one in 10 chooses the most negative description “not too happy”. The majority describe themselves as “pretty happy”...\n\nHow can social scientists measure something as hard to pin down as happiness? Most researchers simply ask people to report their feelings of happiness or unhappiness and to assess how satisfying their lives are. Such self-reported well-being is moderately consistent over years of retesting. Furthermore, those who say they are happy and satisfied seem happy to their close friends and family members and to a psychologist-interviewer. Their daily mood ratings reveal more positive emotions, and they smile more than those who call themselves unhappy. Self-reported happiness also predicts other indicators of well-being. Compared with the depressed, happy people are less self-focused, less hostile and abusive, and less susceptible to disease.\n\nWe have found that the even distribution of happiness cuts across almost all demographic classifications of age, economic class, race and educational level. In addition, almost all strategies for assessing subjective well-being—including those that sample people’s experience by polling them at random times with beepers—turn up similar findings.\n\nInterviews with representative samples of people of all ages, for example, reveal that no time of life is notably happier or unhappier. Similarly, men and women are equally likely to declare themselves “very happy” and “satisfied” with life, according to a statistical digest of 146 studies by Marilyn J. Haring, William Stock and Morris A. Okun, all then at Arizona State University.\n\nWealth is also a poor predictor of happiness. People have not become happier over time as their cultures have become more affluent. Even though Americans earn twice as much in today’s dollars as they did in 1957, the proportion of those telling surveyors from the National Opinion Research Center that they are “very happy” has declined from 35 to 29 percent.\n\nEven very rich people—those surveyed among Forbes magazine’s 100 wealthiest Americans—are only slightly happier than the average American. Those whose income has increased over a 10-year period are not happier than those whose income is stagnant. Indeed, in most nations the correlation between income and happiness is negligible—only in the poorest countries, such as Bangladesh and India, is income a good measure of emotional well-being.\n\nAre people in rich countries happier, by and large, than people in not so rich countries? It appears in general that they are, but the margin may be slim. In Portugal, for example, only one in 10 people reports being very happy, whereas in the much more prosperous Netherlands the proportion of very happy is four in 10. Yet there are curious reversals in this correlation between national wealth and well-being—the Irish during the 1980s consistently reported greater life satisfaction than the wealthier West Germans. Furthermore, other factors, such as civil rights, literacy and duration of democratic government, all of which also promote reported life satisfaction, tend to go hand in hand with national wealth. As a result, it is impossible to tell whether the happiness of people in wealthier nations is based on money or is a by-product of other felicities.\n\nAlthough happiness is not easy to predict from material circumstances, it seems consistent for those who have it. In one National Institute on Aging study of 5,000 adults, the happiest people in 1973 were still relatively happy a decade later, despite changes in work, residence and family status.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "<b>PASSAGE 3</b> \n\n Choose the appropriate letters A-D and write them in boxes 28-30 on your answer sheet.",
+          "questions": [
+            {
+              "number": 28,
+              "prompt": "What point are the writers making in the opening paragraph?",
+              "input_type": "radio",
+              "options": [
+                "Happiness levels have risen since 1967.",
+                "Journals take a biased view on happiness.",
+                "Happiness is not a well-documented research area.",
+                "People tend to think about themselves negatively."
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "What do the writers say about their research findings?",
+              "input_type": "radio",
+              "options": [
+                "They had predicted the results correctly.",
+                "They felt people had responded dishonestly.",
+                "They conflict with those of other researchers.",
+                "Happiness levels are higher than they had believed."
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "In the fourth paragraph, what does the reader learn about the research method used?",
+              "input_type": "radio",
+              "options": [
+                "It is new.",
+                "It appears to be reliable.",
+                "It is better than using beepers.",
+                "It reveals additional information."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Matching",
+          "instruction": "According to the passage, which of the findings below (31-34) is quoted by which Investigative Body (A-G)? Write your answers in boxes 31-34 on your answer sheet. NB There are more Investigative Bodies than findings, so you do not have to use all of them.",
+          "questions": [
+            {
+              "number": 31,
+              "prompt": "Happiness is not gender related.",
+              "input_type": "dropdown",
+              "options": [
+                "A. The National Opinion Research Center, University of Chicago",
+                "B. Arizona State University",
+                "C. The Institute for Social Research, University of Michigan",
+                "D. Forbes Magazine",
+                "E. The National Institute on Aging",
+                "F. The Gallup Organization",
+                "G. The Government"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "Over fifty per cent of people consider themselves to be 'happy'.",
+              "input_type": "dropdown",
+              "options": [
+                "A. The National Opinion Research Center, University of Chicago",
+                "B. Arizona State University",
+                "C. The Institute for Social Research, University of Michigan",
+                "D. Forbes Magazine",
+                "E. The National Institute on Aging",
+                "F. The Gallup Organization",
+                "G. The Government"
+              ]
+            },
+            {
+              "number": 33,
+              "prompt": "Happiness levels are marginally higher for those in the top income brackets.",
+              "input_type": "dropdown",
+              "options": [
+                "A. The National Opinion Research Center, University of Chicago",
+                "B. Arizona State University",
+                "C. The Institute for Social Research, University of Michigan",
+                "D. Forbes Magazine",
+                "E. The National Institute on Aging",
+                "F. The Gallup Organization",
+                "G. The Government"
+              ]
+            },
+            {
+              "number": 34,
+              "prompt": "'Happy' people remain happy throughout their lives.",
+              "input_type": "dropdown",
+              "options": [
+                "A. The National Opinion Research Center, University of Chicago",
+                "B. Arizona State University",
+                "C. The Institute for Social Research, University of Michigan",
+                "D. Forbes Magazine",
+                "E. The National Institute on Aging",
+                "F. The Gallup Organization",
+                "G. The Government"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary of Reading Passage 3 below. Choose your answers from the box below and write them in boxes 35-40 on your answer sheet. NB There are more words than spaces so you will not use them all. You may use any of the words more than once.",
+          "questions": [
+            {
+              "number": 35,
+              "prompt": "For example, incomes in the States have __________ over the past forty years but happiness levels have __________ over the same period.",
+              "input_type": "dropdown",
+              "options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            },
+            {
+              "number": 36,
+              "prompt": "For example, incomes in the States have doubled over the past forty years but happiness levels have __________ over the same period.",
+              "input_type": "dropdown",
+"options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            },
+            {
+              "number": 37,
+              "prompt": "In fact people on average incomes are only slightly __________ happy than extremely rich people and a gradual increase in prosperity makes __________ difference to how happy we are.",
+              "input_type": "dropdown",
+"options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            },
+            {
+              "number": 38,
+              "prompt": "In fact people on average incomes are only slightly less happy than extremely rich people and a gradual increase in prosperity makes __________ difference to how happy we are.",
+              "input_type": "dropdown",
+"options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            },
+            {
+              "number": 39,
+              "prompt": "In terms of national wealth, populations of wealthy nations are __________ happier than those who live in poorer countries.",
+              "input_type": "dropdown",
+"options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            },
+            {
+              "number": 40,
+              "prompt": "Although in some cases this trend is __________ and it appears that other factors need to be considered.",
+              "input_type": "dropdown",
+"options": [
+            "stopped",
+            "doubled",
+            "stabilized",
+            "no",
+            "crept up",
+            "slightly",
+            "significant",
+            "remarkably",
+            "less",
+            "slowed down",
+            "too",
+            "similar",
+            "reversed",
+            "much",
+            "more",
+            "great",
+            "some",
+            "dropped",
+            "affected",
+            "clearly"
+          ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

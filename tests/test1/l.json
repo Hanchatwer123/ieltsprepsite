@@ -1,0 +1,441 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "The History of Antarctic Exploration",
+      "text": "For centuries, Antarctica remained a vast, mysterious region shrouded in myth and inaccessible to humans. Its existence was suspected long before it was ever seen. Early Greek philosophers theorized that a large southern landmass, the “Terra Australis Incognita,” must exist to balance the northern continents. Yet it was not until the 19th century that humans first laid eyes on the frozen continent, and even then, reaching it was fraught with peril.\n\nThe earliest confirmed sighting occurred in 1820, when Fabian Gottlieb von Bellingshausen, a captain in the Imperial Russian Navy, navigated through pack ice and reported the sighting of a solid landmass. In the following years, expeditions led by explorers such as James Clark Ross of Britain contributed significantly to the mapping of Antarctica’s coastline. Ross’s discovery of the Ross Sea and the volcano later named Mount Erebus opened new possibilities for understanding the geography of the southernmost continent.\n\nThe so-called Heroic Age of Antarctic Exploration, spanning from the late 19th century to the early 20th century, was characterized by epic feats of endurance and tragic failures. One of the most renowned figures of this period was Norwegian explorer Roald Amundsen, who in 1911 became the first person to reach the South Pole. His expedition was notable not only for its success but for its efficiency and attention to logistical detail—qualities that would contrast starkly with the ill-fated expedition of his British rival, Robert Falcon Scott, who arrived at the Pole just weeks later only to perish with his team on the return journey.\n\nAs the 20th century progressed, technological advancements enabled a shift from dangerous journeys of discovery to scientific inquiry. The establishment of permanent research stations, such as the American McMurdo Station and the Russian Vostok Station, facilitated year-round scientific work in climatology, glaciology, and biology. These outposts were made possible by innovations in transportation, communication, and cold-weather survival.\n\nIn 1959, the Antarctic Treaty was signed by 12 nations, establishing Antarctica as a scientific preserve and banning military activity on the continent. The treaty, which now has over 50 signatories, has been hailed as a model for international cooperation. It not only ensures freedom of scientific investigation but also prohibits nuclear testing and waste disposal. While territorial claims to parts of Antarctica exist, the treaty effectively puts these disputes on hold, enabling peaceful collaboration.\n\nIn the 21st century, interest in Antarctica has intensified due to its critical role in global climate regulation. As one of the planet’s key indicators of environmental change, Antarctica is monitored closely for signs of ice sheet loss and temperature shifts. The continent is also home to some of the cleanest air and oldest ice cores in the world, which contain valuable data about Earth’s past atmospheres.\n\nDespite its remoteness and harshness, Antarctica has become emblematic of humanity’s quest for knowledge. What began as a journey into the unknown has evolved into a long-term international commitment to scientific discovery and environmental stewardship.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE, or NOT GIVEN.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Antarctica was first physically reached by humans in the 17th century.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 2,
+              "prompt": "Mount Erebus was discovered by a British explorer.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 3,
+              "prompt": "Amundsen and Scott reached the South Pole together.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 4,
+              "prompt": "Scientific stations in Antarctica were first established in the early 1900s.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 5,
+              "prompt": "The Antarctic Treaty was signed during the Cold War.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 6,
+              "prompt": "The Antarctic Treaty prohibits all territorial claims.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "What led to the end of the Heroic Age of Antarctic exploration?",
+              "input_type": "radio",
+              "options": [
+                "Deaths of famous explorers",
+                "Lack of government support",
+                "Improvements in technology",
+                "Discovery of the South Pole"
+              ]
+            },
+            {
+              "number": 8,
+              "prompt": "Which of the following best describes Amundsen’s South Pole expedition?",
+              "input_type": "radio",
+              "options": [
+                "A spontaneous and risky endeavor",
+                "A slow and poorly planned journey",
+                "A well-organized and successful trip",
+                "A mission to rescue Scott’s team"
+              ]
+            },
+            {
+              "number": 9,
+              "prompt": "Why is Antarctica important in modern climate science?",
+              "input_type": "radio",
+              "options": [
+                "It is the most populated region of the Southern Hemisphere.",
+                "It reflects how human activities impact wildlife.",
+                "It contains air samples useful for pollution tracking.",
+                "It offers signs of global environmental changes."
+              ]
+            },
+            {
+              "number": 10,
+              "prompt": "What is said about air quality in Antarctica?",
+              "input_type": "radio",
+              "options": [
+                "It worsens during summer.",
+                "It helps explain ozone depletion.",
+                "It is among the cleanest in the world.",
+                "It poses a health hazard to researchers."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary using NO MORE THAN TWO WORDS from the passage.",
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "During the Heroic Age, explorers sought to reach the unknown parts of the world, often enduring extreme ________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 12,
+              "prompt": "Roald Amundsen became the first person to reach the ________, using efficient planning and logistics.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 13,
+              "prompt": "In contrast, Robert Falcon Scott’s journey ended in tragedy, and he and his ________ did not survive the return journey.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Psychology of Innovation",
+      "text": "Innovation—the process of creating new ideas, products, or methods—has long been seen as the engine of progress. Yet, despite the romantic image of lone geniuses making groundbreaking discoveries, research in psychology suggests that innovation is not simply a matter of personal brilliance. It is influenced by a complex web of psychological and environmental factors.\n\nCreativity, a prerequisite for innovation, often flourishes not in isolation but through interaction. Studies show that people generate more novel ideas when working in groups—provided the group dynamics are positive. In contrast, groups marked by hierarchy or criticism may actually suppress individual input. Innovation thrives in environments where individuals feel psychologically safe to voice unconventional ideas without fear of judgment.\n\nAnother key element is the role of constraints. While it may seem counterintuitive, limitations can actually enhance creativity by forcing people to think differently. A classic example is Dr. Seuss, who wrote “Green Eggs and Ham” using only 50 words as part of a bet. The restriction pushed him to invent clever linguistic patterns. Similarly, businesses under resource constraints often come up with ingenious solutions that would not emerge under more comfortable conditions.\n\nMotivation also plays a crucial role. Intrinsic motivation—doing something because it is inherently interesting or enjoyable—tends to foster greater creativity than extrinsic rewards such as bonuses or praise. Psychologist Teresa Amabile has shown that people are more innovative when they are driven by a passion for the work itself, rather than by external pressures or incentives.\n\nAnother contributing factor to innovation is failure—or rather, how one responds to it. Many breakthroughs occur not as isolated events but through a series of iterations and refinements. Thomas Edison famously said that he found “10,000 ways that didn’t work” before inventing the light bulb. This trial-and-error process, often dismissed as failure, is a critical part of the innovative journey. Organizations that punish mistakes risk stifling innovation; those that embrace experimentation tend to be more successful.\n\nFinally, diversity of thought and background within teams can be a powerful driver of innovation. Different perspectives bring new ways of seeing and solving problems. Companies that hire individuals from varied educational, cultural, and professional backgrounds often find themselves better equipped to innovate. However, diversity must be paired with inclusion—ensuring everyone has a voice—for its full benefits to be realized.\n\nIn conclusion, the psychology of innovation reveals that breakthrough ideas are rarely the product of isolated genius. Rather, they are born from collaborative, diverse, and supportive environments, and are shaped by constraints, motivation, and resilience in the face of failure.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "According to the passage, group innovation works best when:",
+              "input_type": "radio",
+              "options": [
+                "one person leads strongly",
+                "all members agree with each other",
+                "criticism is frequent and open",
+                "participants feel free to share ideas"
+              ]
+            },
+            {
+              "number": 15,
+              "prompt": "What does the author suggest about constraints and innovation?",
+              "input_type": "radio",
+              "options": [
+                "Constraints should be avoided when trying to innovate",
+                "Constraints usually make innovation harder",
+                "Constraints can lead to more inventive thinking",
+                "Only writers benefit from constraints"
+              ]
+            },
+            {
+              "number": 16,
+              "prompt": "What does Teresa Amabile say about motivation?",
+              "input_type": "radio",
+              "options": [
+                "Financial rewards always increase innovation",
+                "People are most creative when intrinsically motivated",
+                "External recognition is essential for creativity",
+                "Pressure from managers leads to more innovation"
+              ]
+            },
+            {
+              "number": 17,
+              "prompt": "Why is failure described as useful in the passage?",
+              "input_type": "radio",
+              "options": [
+                "Because it forces people to quit failed ideas",
+                "Because it shows who is truly creative",
+                "Because it teaches people how to avoid mistakes",
+                "Because it helps people refine their ideas"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE, or NOT GIVEN.",
+          "questions": [
+            {
+              "number": 18,
+              "prompt": "Individuals are more creative when working alone than in a group.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 19,
+              "prompt": "Innovation is less likely to happen in environments where people feel judged.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 20,
+              "prompt": "Dr. Seuss lost a bet that resulted in a book with only 50 words.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 21,
+              "prompt": "Companies with more diverse teams often perform better in terms of innovation.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 22,
+              "prompt": "A high salary is the most important factor in promoting innovation.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 23,
+              "prompt": "Edison discouraged failure in his lab.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Sentence Completion",
+          "instruction": "Complete the sentences using NO MORE THAN TWO WORDS.",
+          "questions": [
+            {
+              "number": 24,
+              "prompt": "A group must have good __________ to encourage new ideas.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 25,
+              "prompt": "People need __________ in order to turn mistakes into innovation.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 26,
+              "prompt": "Diversity alone is not enough—it must also include __________.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Artificial Intelligence in the Modern Age",
+      "text": "Artificial Intelligence (AI) refers to the capacity of machines to perform tasks that typically require human intelligence. These tasks include decision-making, language translation, speech recognition, and visual perception. While the idea of intelligent machines dates back to ancient mythology, it was not until the 1950s that the field of AI began to take shape scientifically, largely due to the efforts of pioneers such as Alan Turing and John McCarthy.\n\nEarly AI systems were rule-based and limited to performing narrowly defined tasks. These expert systems functioned by following hard-coded instructions created by human programmers. While successful in some contexts, they struggled with tasks that required adaptability or learning. This limitation prompted researchers to explore machine learning—a branch of AI that allows computers to learn from data rather than relying solely on explicit programming.\n\nThe rise of big data and advances in computing power in the 21st century have drastically accelerated the development of machine learning, particularly deep learning. Deep learning uses neural networks inspired by the structure of the human brain and has achieved remarkable results in fields such as medical diagnostics, autonomous driving, and natural language processing. AI systems can now surpass human performance in tasks like image recognition and strategic gameplay, as demonstrated by DeepMind’s AlphaGo defeating a world champion Go player.\n\nDespite these advances, concerns about AI remain. One major issue is bias in machine learning systems. If the data used to train an AI contains societal biases—such as racial or gender discrimination—the AI can learn and even reinforce these biases. For example, studies have shown that facial recognition systems can be significantly less accurate for people of color, leading to ethical and legal questions about the deployment of such technology.\n\nAnother concern is job displacement. As AI systems become more capable, they may automate tasks currently performed by humans, leading to widespread economic disruption. While some argue that AI will also create new jobs, others fear that these opportunities may not be accessible to those displaced by automation. The long-term consequences for employment remain uncertain.\n\nRegulation and governance of AI technologies have become central issues in both academia and public policy. The European Union, for example, has introduced guidelines for ethical AI, emphasizing transparency, accountability, and human oversight. Nonetheless, the rapid pace of AI development often outstrips regulatory frameworks, leaving governments struggling to keep up.\n\nLooking forward, researchers emphasize the importance of “alignment”—ensuring that AI systems act in accordance with human values and intentions. Without proper alignment, powerful AI systems could behave in unpredictable ways, posing risks to safety and society. As AI continues to evolve, collaboration between technologists, ethicists, and policymakers will be essential to harness its benefits while minimizing harm.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "What was a key problem with early AI systems?",
+              "input_type": "radio",
+              "options": [
+                "They were too expensive to build",
+                "They required too much storage",
+                "They could not handle unpredictable inputs",
+                "They lacked access to quality data"
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "What is one reason for the recent success of deep learning?",
+              "input_type": "radio",
+              "options": [
+                "Improved programming languages",
+                "Availability of large datasets",
+                "More accurate sensors",
+                "Lower energy costs"
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "DeepMind’s AlphaGo is mentioned as an example of:",
+              "input_type": "radio",
+              "options": [
+                "a failed AI experiment",
+                "the limits of AI in sports",
+                "AI beating human ability in complex tasks",
+                "human-machine collaboration in games"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "What is a danger of bias in AI systems?",
+              "input_type": "radio",
+              "options": [
+                "AI may become too intelligent",
+                "Bias makes systems slower",
+                "AI could misrepresent underrepresented groups",
+                "Biased AI reduces internet speed"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Why are some people worried about AI and employment?",
+              "input_type": "radio",
+              "options": [
+                "People will no longer want to work",
+                "Only new AI jobs will exist",
+                "AI may eliminate existing jobs",
+                "AI reduces salaries for everyone"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "What does the passage say about AI regulation?",
+              "input_type": "radio",
+              "options": [
+                "It is consistent across all countries",
+                "It is ahead of the technology curve",
+                "It is mostly handled by companies",
+                "It lags behind AI development"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary using NO MORE THAN TWO WORDS from the passage.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "AI systems are now capable of performing complex tasks using a technique called __________, which is based on networks inspired by the brain.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 34,
+              "prompt": "These systems have been used in a variety of fields, including healthcare and __________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 35,
+              "prompt": "However, one issue is that biased __________ can lead to unethical outcomes.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 36,
+              "prompt": "To deal with these concerns, policymakers have focused on values such as accountability and __________.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in the passage? Write TRUE, FALSE, or NOT GIVEN.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "Facial recognition systems are highly accurate across all demographic groups.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 38,
+              "prompt": "AI development is progressing more quickly than current laws can regulate.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 39,
+              "prompt": "The EU has banned the use of AI in commercial applications.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 40,
+              "prompt": "Alignment involves making sure AI behaves in ways humans consider acceptable.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

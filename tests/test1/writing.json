@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe graph below shows the percentage of New Zealand primary school students learning a second language by language learned for the years 2006 to 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nOne of the major problems that faces today\u2019s governments is creating enough satisfactory housing for their increasing populations whilst still trying to protect the environment. Discuss this statement and give your opinion.\n\nYou should write at least 250 words."
+}
