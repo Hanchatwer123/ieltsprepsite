@@ -1,0 +1,288 @@
+{
+  "test_id": "test13",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "form_completion",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Mother's name: _______ Beckett",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "Address: ________ Castle Crescent, Backley",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Mother's mobile: 07743 812 ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "Fees will be paid by: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "Allergies: ________ ",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "summary_completion",
+      "instructions": "Complete Luke’s notes for his wife below. Use NO MORE THAN THREE WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "Activities start at ______ a.m. - parents can drop their children off after 6.30 a.m.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 7,
+          "prompt": "All we need to bring are a sweater and some ______ in a marked bag.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 8,
+          "prompt": "Happies is 1 mile from the County Hospital and there’s always a ________ on the premises for health supervision.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 9,
+          "prompt": "We mustn’t come after 6.30 p.m. and we should call the number in the ________ if we're delayed.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 10,
+          "prompt": "Happies runs a new service - supervision during the _______.It could be useful for us sometimes.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "sentence_completion",
+      "instructions": "Complete the sentences below. Use NO MORE THAN TWO WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "Green Trees can accommodate a maximum of ______ people.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 12,
+          "prompt": "Green Trees does not cater for caring for ______.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 13,
+          "prompt": "If residents communicate with Green Trees, they can arrange _______ to be prepared.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 14,
+          "prompt": "Green Trees tries to combine care and nursing with opportunities for residents to remain as _________ as possible.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 15,
+          "prompt": "Green Trees’ fees can be found in their leaflets or on the __________.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "table_completion",
+      "instructions": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "Games Room Activieties' notes: A ________ is permitted to be invited - residents can meet new people.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "All these above activities promote good condition in the __________ and lead to all sorts of other benefits.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "Trips Away's notes: Only __________ trips arranged to prevent resident fatigue.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "Gardening notes:__________ and makes residents feel in control.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "Gardening notes: Can be dangerous, but training and ____________ are provided.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "Lily’s engineering placement will be working",
+          "input_type": "dropdown",
+          "options": [
+            "A. with planes.",
+            "B. on a bridge.",
+            "C. in an office."
+          ]
+        },
+        {
+          "number": 22,
+          "prompt": "Ross’ engineering placement will be",
+          "input_type": "dropdown",
+          "options": [
+            "A. in his family’s firm.",
+            "B. with the local government.",
+            "C. on an oil rig."
+          ]
+        },
+        {
+          "number": 23,
+          "prompt": "Derek was refused an engineering placement in the Antarctic, because",
+          "input_type": "dropdown",
+          "options": [
+            "A. of the extreme cold.",
+            "B. his father had to go to hospital.",
+            "C. of a previous health problem."
+          ]
+        },
+        {
+          "number": 24,
+          "prompt": "Tanya’s engineering placement will involve working with her",
+          "input_type": "dropdown",
+          "options": [
+            "A. tutor’s contacts.",
+            "B. cousin.",
+            "C. boyfriend."
+          ]
+        },
+        {
+          "number": 25,
+          "prompt": "The students must send their engineering placement notifications to their department",
+          "input_type": "dropdown",
+          "options": [
+            "A. verbally.",
+            "B. by email.",
+            "C. by hand."
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "diagram_completion",
+      "instructions": "Complete the diagram below on the gas drilling station where Tanya will do her engineering placement. Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "image": "diagram.png",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 27,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 28,
+          "prompt": "",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "sentence_completion",
+      "instructions": "Answer the questions below. Use NO MORE THAN TWO WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 29,
+          "prompt": "How will Tanya’s team in the desert be in contact with their head office?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "How long will Tanya spend in the desert at any one time?",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "summary_completion",
+      "instructions": "Complete the summary below on the lecture on hypnosis, hypnotism and hypnotherapy. Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "Hypnosis - a different psychological state of consciousness with increased potential for ",
+          "input_type": "short_text"
+        },
+        {
+          "number": 32,
+          "prompt": "Discussion: Hypnosis creates such relaxation that certain suggestions may be made to the ___________, bypassing the awake and logical part of the brain, so that therapy is possible.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 33,
+          "prompt": "The hypnotic trance allows increased ___________ to create beneficial changes.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt": "This condition is different to normal states of consciousness, as alpha waves signify a special ___________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 35,
+          "prompt": "This area receives stimuli from the ________ and passes on messages to the rest of the brain. ",
+          "input_type": "short_text"
+        },
+        {
+          "number": 36,
+          "prompt": "Using hypnotherapy can exploit people’s unknown ________ and help solve problems.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 37,
+          "prompt": "Some hypnotherapy requires little change in a patient, but more complicated behaviours require deeper therapy and psychological __________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 38,
+          "prompt": "Choose THREE letters, A - G. According to the listening, why has hypnotherapy been criticised?",
+          "input_type": "checkbox",
+          "max_choices": 3,
+          "options": [
+            "A. Because any practitioners are not properly qualified.",
+            "B. Because not enough research has been done to back up the results.",
+            "C. Because the relationship between hypnotherapy and improved patient results is not easy to prove.",
+            "D. Because current tests do not use a big enough sample of the population.",
+            "E. Because some tests have shown that hypnotherapy has only had an effect because the patients thought it would.",
+            "F. Because patients give positive responses when questioned in tests because they think they ought to.",
+            "G. Because of ignorance of hypnotherapy in the critics."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Eco-Resort Management Practices",
+      "text": "<b>A.</b> Ecotourism is often regarded as a form of nature-based tourism and has become an important alternative source of tourists. In addition to providing the traditional resort-leisure product, it has been argued that ecotourism resort management should have a particular focus on best-practice environmental management, an educational and interpretive component, and direct and indirect contributions to the conservation of the natural and cultural environment (Ayala, 1996).\n\n<b>B.</b> Couran Cove Island Resort is a large integrated ecotourism-based resort located south of Brisbane on the Gold Coast, Queensland, and Australia. As the world's population becomes increasingly urbanised, the demand for tourist attractions which are environmentally friendly, serene and offer amenities of a unique nature, has grown rapidly. Couran Cove Resort, which is one such tourist attractions, is located on South Stradbroke Island, occupying approximately 150 hectares of the island. South Stradbroke Island is separated from the mainland by the Broadwater, a stretch of sea 3 kilometers wide More than a century ago, there was only one Stradbroke Island, and there were at least four aboriginal tribes living and hunting on the island. Regrettably, most of the original island dwellers were eventually killed by diseases such as tuberculosis, smallpOx and influenza by the end of the 19th century. The second ship wreak on the island in 1894, and the subsequent destruction of the ship (the Cambus Wallace) because it contained dynamite, caused a large crater in the sandhills on Stradbroke Island. Eventually, the ocean broke through the weakened land form and Stradbroke became two islands. Couran Cove Island Resort is built on one of the world's few naturally-occurring sand lands, which is home to a wide range of plant communities and one of the largest remaining remnants of the rare livistona Rainforest left on the Gold Coast. Many mangrove and rainforest areas and Malaleuca Wetlands on South Stradbroke Island (and in Queensland), have been cleared, drained or filled for residential, industrial, agricultural or urban development in the first half of the 20th century. Farmers and graziers finally abandoned South Stradbroke Island in 1939 because the vegetation and the soil conditions there were not suitable for agricultural activities.\n\nSUSTAINABLE PRACTICES OF COURAN COVE RESORT\nBeing located on an offshore island, the resort is only accessible by means of water transportation. The resort provides hourly ferry service from the marina on the mainland to and from the island. Within the resort, transport modes include walking trails, bicycle tracks and the beach train.\n\nThe reception area is the counter of the shop which has not changed in 8 years at least. The accommodation is an octagonal \"Bure\". These are large rooms that are clean but! The equipment is tired and in some cases just working. Our ceiling fan only worked on high speed for example. Beds are hard but clean, there is television, radio, an old air conditioner and a small fridge. These \"Bures\" are right on top of each other and night noises do carry so be careful what you say and do. The only thing is the mosquitos but if you forget to bring mosquito repellant they sell some on the island.\n\nAs an ecotourism-based resort, most of the planning and development of the attraction has been concentrated on the need to co-exist with the fragile natural environment of South Stradbroke Island to achieve sustainable development.\n\nWATER AND ENERGY MANAGEMENT\n<b>C.</b> South Stradbroke Island has groundwater at the centre of the island, which has a maximum height of 3 metres above sea level. The water supply is recharged by rainfall and is commonly known as an unconfined freshwater aquifer (StK/1-) . Couran Cove Island Resort obtains its water supply by tapping into this aquifer and extracting it via a bore system. Some of the problems which have threatened the island's freshwater supply include pollution, contamination and over-consumption. In order to minimise some of these problems, all laundry activities are carried out on the mainland. The resort considers washing machines as onerous to the island's freshwater supply, and that the detergents contain a high level of phosphates which are a major source of water pollution. The resort uses LPG-power generation rather than a diesel-powered plant for its energy supply, supplemented by wind turbine, which has reduced greenhouse emissions by 70% of diesel-equivalent generation methods. Excess heat recovered from the generator is used to heat the swimming pool. Hot water in the eco-cabins and for some of the resort's vehicles are solar-powered. Water efficient fittings are also installed in showers and toilets. However, not all the appliances used by the resort are energy efficient, such as refrigerators. Visitors who stay at the resort are encouraged to monitor their water and energy usage via the in-house television systems, and are rewarded with prizes (such as a free return trip to the resort) accordingly if their usage level is low.\n\nCONCLUDING REMARKS\n<b>D.</b> We examined a case study of good management practice and a pro-active sustainable tourism stance of an eco-resort. In three years of operation, Couran Cove Island Resort has won 23 international and national awards, including the 2001 Australian Tourism Award in the 4-Star Accommodation category. The resort has embraced and has effectively implemented contemporary environmental management practices. It has been argued that the successful implementation of the principles of sustainability should promote long-term social, economic and environmental benefits, while ensuring and enhancing the prospects of continued viability for the tourism enterprise. Couran Cove Island Resort does not conform to the characteristics of the Resort DevelopmentSpectrum, as proposed by Prideaux (2000). According to Prideaux, the resort should be at least at Phase 3 of the model (the National tourism phase), which describes an integrated resort providing 3-4 star hotel-type accommodation. The primary tourist market in Phase 3 of the model consists mainly of interstate visitors. However, the number of interstate and international tourists visiting the resort is small, with the principal locals and residents from nearby towns and the Gold Coast region. The carrying capacity of Couran Cove does not seem to be of any concern to the Resort management. Given that it is a private commercial ecotourist enterprise, regulating the number of visitors to the resort to minimize damage done to the natural environment on South Stradbroke Island is not a binding constraint. However, the Resort's growth will eventually be constrained by its carrying capacity, and quantity control should be incorporated in the management strategy of the resort.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1 -4 on your answer sheet.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "the Stradbroke became two islands",
+              "input_type": "radio",
+              "options": [
+                "by an intended destruction of the ship of the Cambus Wallace",
+                "by an explosion of dynamite on a ship and following nature erosion",
+                "by the movement sandhills on Stradbroke Island",
+                "by the volcanic eruption on island"
+              ]
+            },
+            {
+              "number": 2,
+              "prompt": "Why are laundry activities for the resort carried out on the mainland.",
+              "input_type": "radio",
+              "options": [
+                "In order to obtain its water supply via a bore system",
+                "In order to preserve the water and anti-pollution",
+                "In order to save the cost of installing onerous washing machines",
+                "In order to reduce the level of phosphates in water around"
+              ]
+            },
+            {
+              "number": 3,
+              "prompt": "What is the major water supplier in South Stradbroke Island is by",
+              "input_type": "radio",
+              "options": [
+                "desalining the sea water",
+                "collecting the rainfall",
+                "transporting from the mainland",
+                "boring ground water"
+              ]
+            },
+            {
+              "number": 4,
+              "prompt": "What is applied for heating water on Couran Cove Island Resort",
+              "input_type": "radio",
+              "options": [
+                "the LPG-power",
+                "a diesel-powered plant",
+                "the wind power",
+                "the solar-power"
+              ]
+            },
+            {
+              "number": 5,
+              "prompt": "what does, as the managers of resorts believe, the prospective future focus on",
+              "input_type": "radio",
+              "options": [
+                "more awards of for resort's accommodation",
+                "sustainable administration and development in a long run",
+                "Economic and environmental benefits for the tourism enterprise",
+                "successful implementation the Resort Development Spectrum"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage, using no more than two words from the Reading Passage for each answer. Write your answers in boxes 6-10 on your answer sheet.",
+          "questions": [
+            {
+              "number": 6,
+              "prompt": "Being located away from the mainland, tourists can attain the resort only by _________ in a regular service.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 7,
+              "prompt": "Within the resort, transports include trails for walking or tracks for both _________ and the beach train.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 8,
+              "prompt": "The on-island equipment is old-fashioned which is barely working such as the _________ overhead.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 9,
+              "prompt": "There is television, radio, an old _________ and a small fridge.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 10,
+              "prompt": "And you can buy the repellant for _________ if you forget to bring some.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose three correct letters among A-E. Write your answers in boxes 11-13 on your answer sheet.",
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "What is true as to the contemporary situation of Couran Cove Island Resort in the last paragraph?",
+              "input_type": "checkbox",
+              "max_choices": 3,
+              "options": [
+                "Couran Cove Island Resort goes for more eco-friendly practices",
+                "the accommodation standard only conforms to the Resort Development Spectrum of Phase 3",
+                "Couran Cove Island Resort should raise the accommodation build more standard and build more facilities",
+                "the principal group visiting the resort is international tourists",
+                "its carrying capacity will restrict the future business’ expansion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "TV Addiction",
+      "text": "<b>A.</b> The amount of time people spend watching television is astonishing. On average, individuals in the industrialized world devote three hours a day to the pursuit —fully half of their leisure time, and more than on any single activity save work and sleep. At this rate, someone who lives to 75 would spend nine years in front of the tube. To some commentators, this devotion means simply that people enjoy TV and make a conscious decision to watch it. But if that is the whole story, why do so many people experience misgivings about how much they view? In Gallup polls in 1992 and 1999, two out of five adult respondents and seven out of 10 teenagers said they spent too much time watching TV. Other surveys have consistently shown that roughly 10 percent of adults call themselves TV addicts\n\n<b>B.</b> To study people's reactions to TV, researchers have experiments in which they have monitored the brain waves (using an electroencephalograph, or EEG) to track behavior and emotion in the normal course of life, as opposed to the artificial conditions of the lab. Participants carried a beeper, and we signaled them six to eight times a day, at random, over the period of a week; whenever they heard the beep, they wrote down what they were doing and how they were feeling using a standardized scorecard.\n\n<b>C.</b> As one might expect, people who were watching TV when we beeped them reported feeling relaxed and passive. The EEG studies similarly show less mental stimulation, as measured by alpha brain-wave production, during viewing than during reading. What is more surprising is that the sense of relaxation ends when the set is turned off, but the feelings of passivity and lowered alertness continue. Survey participants say they have more difficulty concentrating after viewing than before. In contrast, they rarely indicate such difficulty after reading. After playing sports or engaging in hobbies, people report improvements in mood. After watching TV, people's moods are about the same or worse than before. That may be because viewers' vague learned sense that they will feel less relaxed if they stop viewing. So they tend not to turn the set off. Viewing begets more viewing which is the same as the experience of habit-forming drugs. Thus, the irony of TV: people watch a great deal longer than they plan to, even though prolonged viewing is less rewarding. In our ESM studies the longer people sat in front of the set, the less satisfaction they said they derived from it. For some, a twinge of unease or guilt that they aren't doing something more productive may also accompany and depreciate the enjoyment of prolonged viewing. Researchers in Japan, the U.K. and the U.S. have found that this guilt occurs much more among middle-class viewers than among less affluent ones.\n\n<b>D.</b> What is it about TV that has such a hold on us? In part, the attraction seems to spring from our biological 'orienting response/ First described by Ivan Pavlov in 1927, the orienting response is our instinctive visual or auditory reaction to any sudden or novel stimulus. It is part of our evolutionary heritage, a built-in sensitivity to movement and potential predatory threats. In 1986 Byron Reeves of Stanford University, Esther Thorson of the University of Missouri and their colleagues began to study whether the simple formal features of television—cuts, edits, zooms, pans, sudden noises — activate the orienting response, thereby keeping attention on the screen. By watching how brain waves were affected by formal features, the researchers concluded that these stylistic tricks can indeed trigger involuntary responses and 'derive their attentional value through the evolutionary significance of detecting movement.... It is the form, not the content, of television that is unique.\n\n<b>E.</b> The natural attraction to television's sound and light starts very early in life. Dafna Lemish of Tel Aviv University has described babies at six to eight weeks attending to television. We have observed slightly older infants who, when lying on their backs on the floor, crane their necks around 180 degrees to catch what light through yonder window breaks. This inclination suggests how deeply rooted the orienting response is.\n\n<b>F.</b> The Experience Sampling Method permitted us to look closely at most every domain of everyday life: working, eating, reading, talking to friends, playing a sport, and so on. We found that heavy viewers report feeling significantly more anxious and less happy than light viewers do in unstructured situations, such as doing nothing, daydreaming or waiting in line. The difference widens when the viewer is alone. Subsequently, Robert D. Mcllwraith of the University of Manitoba extensively studied those who called themselves TV addicts on surveys. On a measure called the Short Imaginal Processes Inventory (SIPI), he found that the self-described addicts are more easily bored and distracted and have poorer attentional control than the non-addicts. The addicts said they used TV to distract themselves from unpleasant thoughts and to fill time. Other studies over the years have shown that heavy viewers are less likely to participate in community activities and sports and are more likely to be obese than moderate viewers or non-viewers.\n\n<b>G.</b> More than 25 years ago psychologist Tannis M. MacBeth Williams of the University of British Columbia studied a mountain community that had no television until cable finally arrived. Over time, both adults and children in the town became less creative in problem solving, less able to persevere at tasks, and less tolerant of unstructured time.\n\n<b>H.</b> Nearly 40 years ago Gary A. Steiner of the University of Chicago collected fascinating individual accounts of families whose set had broken. In experiments, families have volunteered or been paid to stop viewing, typically for a week or a month. Some fought, verbally and physically. In a review of these cold-turkey studies, Charles Winick of the City University of New York concluded: 'The first three or four days for most persons were the worst, even in many homes where viewing was minimal and where there were other ongoing activities. In over half of all the households, during these first few days of loss, the regular routines were disrupted, family members had difficulties in dealing with the newly available time, anxiety and aggressions were expressed By the second week, a move toward adaptation to the situation was common.' Unfortunately, researchers have yet to flesh out these anecdotes; no one has systematically gathered statistics on the prevalence of these withdrawal symptoms.\n\n<b>I.</b> Even though TV does seem to meet the criteria for substance dependence, not all researchers would go so far as to call TV addictive. Mcllwraith said in 1998 that 'displacement of other activities by television may be socially significant but still fall short of the clinical requirement of significant impairment.' He argued that a new category of 'TV addiction' may not be necessary if heavy viewing stems from conditions such as depression and social phobia. Nevertheless, whether or not we formally diagnose someone as TV-dependent, millions of people sense that they cannot readily control the amount of television they watch.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "<b>PASSAGE 2</b> \n\n Do the following statements agree with the claims of the writer in Reading Passage? In boxes 14-18 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Study shows that males are more likely to be addicted to TV than females.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 15,
+              "prompt": "Greater improvements in mood are experienced after watching TV than playing sports.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 16,
+              "prompt": "TV addiction works in similar ways as drugs.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 17,
+              "prompt": "It is reported that people's satisfaction is in proportion to the time they spend watching TV.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 18,
+              "prompt": "Middle-class viewers are more likely to feel guilty about watching TV than the poor.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Matching Features",
+          "instruction": "Look at the following researchers (Questions 19-23) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 19-23 on your answer sheets.",
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Byron Reeves and Esther Thorson",
+              "input_type": "dropdown",
+              "options": [
+                "A. Audiences would get hypnotized from viewing too much television.",
+                "B. People have been sensitive to the TV signals since a younger age.",
+                "C. People are less likely to accomplish their work with television.",
+                "D. A handful of studies have attempted to study other types of media addiction.",
+                "E. The addictive power of television could probably minimize the problems.",
+                "F. Various media formal characters stimulate people’s reaction on the screen.",
+                "G. People who believe themselves to be TV addicts are less likely to join in the group activities.",
+                "H. It is hard for people to accept the life without TV at the beginning."
+              ]
+            },
+            {
+              "number": 20,
+              "prompt": "Dafna Lemish",
+              "input_type": "dropdown",
+              "options": [
+                "A. Audiences would get hypnotized from viewing too much television.",
+                "B. People have been sensitive to the TV signals since a younger age.",
+                "C. People are less likely to accomplish their work with television.",
+                "D. A handful of studies have attempted to study other types of media addiction.",
+                "E. The addictive power of television could probably minimize the problems.",
+                "F. Various media formal characters stimulate people’s reaction on the screen.",
+                "G. People who believe themselves to be TV addicts are less likely to join in the group activities.",
+                "H. It is hard for people to accept the life without TV at the beginning."
+              ]
+            },
+            {
+              "number": 21,
+              "prompt": "Robert D. Mcllwraith",
+              "input_type": "dropdown",
+              "options": [
+                "A. Audiences would get hypnotized from viewing too much television.",
+                "B. People have been sensitive to the TV signals since a younger age.",
+                "C. People are less likely to accomplish their work with television.",
+                "D. A handful of studies have attempted to study other types of media addiction.",
+                "E. The addictive power of television could probably minimize the problems.",
+                "F. Various media formal characters stimulate people’s reaction on the screen.",
+                "G. People who believe themselves to be TV addicts are less likely to join in the group activities.",
+                "H. It is hard for people to accept the life without TV at the beginning."
+              ]
+            },
+            {
+              "number": 22,
+              "prompt": "Tannis M. MacBeth Williams",
+              "input_type": "dropdown",
+              "options": [
+                "A. Audiences would get hypnotized from viewing too much television.",
+                "B. People have been sensitive to the TV signals since a younger age.",
+                "C. People are less likely to accomplish their work with television.",
+                "D. A handful of studies have attempted to study other types of media addiction.",
+                "E. The addictive power of television could probably minimize the problems.",
+                "F. Various media formal characters stimulate people’s reaction on the screen.",
+                "G. People who believe themselves to be TV addicts are less likely to join in the group activities.",
+                "H. It is hard for people to accept the life without TV at the beginning."
+              ]
+            },
+            {
+              "number": 23,
+              "prompt": "Charles Winick",
+              "input_type": "dropdown",
+              "options": [
+                "A. Audiences would get hypnotized from viewing too much television.",
+                "B. People have been sensitive to the TV signals since a younger age.",
+                "C. People are less likely to accomplish their work with television.",
+                "D. A handful of studies have attempted to study other types of media addiction.",
+                "E. The addictive power of television could probably minimize the problems.",
+                "F. Various media formal characters stimulate people’s reaction on the screen.",
+                "G. People who believe themselves to be TV addicts are less likely to join in the group activities.",
+                "H. It is hard for people to accept the life without TV at the beginning."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 24-26 on your answer sheet.",
+          "questions": [
+            {
+              "number": 24,
+              "prompt": "People in the industrialized world",
+              "input_type": "radio",
+              "options": [
+                "devote ten hours watching TV on average.",
+                "spend more time on TV than other entertainment.",
+                "call themselves TV addicts.",
+                "working best."
+              ]
+            },
+            {
+              "number": 25,
+              "prompt": "When compared with light viewers, heavy viewers",
+              "input_type": "radio",
+              "options": [
+                "like playing sport more than reading.",
+                "feel relaxed after watching TV.",
+                "spend more time in daydreaming.",
+                "are more easily bored while waiting in line."
+              ]
+            },
+            {
+              "number": 26,
+              "prompt": "Which of the following statements is true about the family experiment?",
+              "input_type": "radio",
+              "options": [
+                "Not all the subjects participate in the experiment for free.",
+                "There has been a complete gathered data.",
+                "People are prevented from other activities during the experiment.",
+                "People cannot adapt to the situation until the end"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Music: Language We All Speak",
+      "text": "Section A: Music is one of the human specie's relatively few universal abilities. Without formal training, any individual, from Stone Age tribesman to suburban teenager has the ability to recognize music and, in some fashion, to make it. Why this should be so is a mystery. After all, music isn't necessary for getting through the day, and if it aids in reproduction, it does so only in highly indirect ways. Language, by contrast, is also everywhere- but for reasons that are more obvious. With language, you and the members of your tribe can organize a migration across Africa, build reed boats and cross the seas, and communicate at night even when you can't see each other. Modem culture, in all its technological extravagance, springs directly from the human talent for manipulating symbols and syntax. Scientists have always been intrigued by the connection between music and language. Yet over the years, words and melody have acquired a vastly different status in the lab and the seminar room. While language has long been considered essential to unlocking the mechanisms of human intelligence, music is generally treated as an evolutionary frippery-mere \"auditory cheesecake,\" as the Harvard cognitive scientist Steven Pinker puts it.\n\nSection B: But thanks to a decade-long wave of neuroscience research, that tune is changing. A flurry of recent publications suggests that language and music may equally be able to tell us who we are and where we're from - not just emotionally, but biologically. In July, the journal Nature Neuroscience devoted a special issue to the topic. And in an article in the August 6 issue of the Journal of Neuroscience, David Schwartz, Catherine Howe, and Dale Purves of Duke University argued that the sounds of music and the sounds of language are intricately connected. To grasp the originality of this idea, it's necessary to realize two things about how music has traditionally been understood. First, musicologists have long emphasized that while each culture stamps a special identity onto its music; music itself has some universal qualities. For example, in virtually all cultures sound is divided into some or all of the 12 intervals that make up the chromatic scale - that is, the scale represented by the keys on a piano. For centuries, observers have attributed this preference for certain combinations of tones to the mathematical properties of sound itself. Some 2,500 years ago, Pythagoras was the first to note a direct relationship between the harmoniousness of a tone combination and the physical dimensions of the object that produced it. For example, a plucked string will always play an octave lower than a similar string half its size, and a fifth lower than a similar string two-thirds its length. This link between simple ratios and harmony has influenced music theory ever since.\n\nSection C: This music-is-moth idea is often accompanied by the notion that music formally speaking at least, exists apart from the world in which it was created. Writing recently in The New York Review of Books, pianist and critic Charles Rosen discussed the long-standing notion that while painting and sculpture reproduce at least some aspects of the natural world, and writing describes thoughts and feelings we are all familiar with, music is entirely abstracted from the world in which we live. Neither idea is right, according to David Schwartz and his colleagues. Human musical preferences are fundamentally shaped not by elegant algorithms or ratios but by the messy sounds of real life, and of speech in particular -which in turn is shaped by our evolutionary heritage.\"The explanation of music, like the explanation of any product of the mind, must be rooted in biology, not in numbers per se,\" says Schwartz.\n\nSchwartz, Howe, and Purves analyzed a vast selection of speech sounds from a variety of languages to reveal the underlying patterns common to all utterances. In order to focus only on the raw sound, they discarded all theories about speech and meaning and sliced sentences into random bites. Using a database of over 100,000 brief segments of speech, they noted which frequency had the greatest emphasis in each sound. The resulting set of frequencies, they discovered, corresponded closely to the chromatic scale. In short, the building blocks of music are to be found in speech\n\nFar from being abstract, music presents a strange analog to the patterns created by the sounds of speech. \"Music, like the visual arts, is rooted in our experience of the natural world,\" says Schwartz. “It emulates our sound environment in the way that visual arts emulate the visual environment. \" In music we hear the echo of our basic sound-making instrument- the vocal tract. The explanation for human music is simple; still than Pythagoras's mathematical equations. We like the sounds that are familiar to us—specifically, we like sounds that remind us of us.\n\nThis brings up some chicken-or-egg evolutionary questions. It may be that music imitates speech directly, the researchers say, in which case it would seem that language evolved first. It's also conceivable that music came first and language is in effect an Imitation of song - that in everyday speech we hit the musical notes we especially like. Alternately, it may be that music imitates the general products of the human sound-making system, which just happens to be mostly speech. \"We can't know this,\" says Schwartz. \"What we do know is that they both come from the same system, and it is this that shapes our preferences.\"\n\nSection D: Schwartz's study also casts light on the long-running question of whether animals understand or appreciate music. Despite the apparent abundance of \"music\" in the natural world- birdsong, whalesong, wolf howls, synchronized chimpanzee hooting previous studies have found that many laboratory animals don't show a great affinity for the human variety of music making. Marc Hauser and Josh McDermott of Harvard argued in the July issue of Nature Neuroscience that animals don't create or perceive music the way we do. The act that laboratory monkeys can show recognition of human tunes is evidence, they say, of shared general features of the auditory system, not any specific chimpanzee musical ability. As for birds, those most musical beasts, they generally recognize their own tunes - a narrow repertoire - but don't generate novel melodies like we do. There are no avian Mozarts.\n\nBut what's been played to the animals, Schwartz notes, is human music. If animals evolve preferences for sound as we do - based upon the soundscape in which they live - then their \"music\" would be fundamentally different from ours. In the same way our scales derive from human utterances, a cat's idea of a good tune would derive from yowls and meows. To demonstrate that animals don't appreciate sounds the way we do, we'd need evidence that they don't respond to \"music\" constructed from their own sound environment.\n\nSection E: No matter how the connection between language and music is parsed, what is apparent is that our sense of music, even our love for it, is as deeply rooted in our biology and in our brains as language is. This is most obvious with babies, says Sandra Trehub at the University of Toronto, who also published a paper in the Nature Neuroscience special issue.\n\nFor babies, music and speech are on a continuum. Mothers use musical speech to \"regulate infants' emotional states.\" Trehub says. Regardless of what language they speak, the voice all mothers use with babies is the same: \"something between speech and song.\" This kind of communication \"puts the baby in a trance-like state, which may proceed to sleep or extended periods of rapture.\" So if the babies of the world could understand the latest research on language and music, they probably wouldn't be very surprised. The upshot, says Trehub, is that music may be even more of a necessity than we realize.",
+      "questions": [
+        {
+          "group_type": "Matching Headings",
+          "instruction": "<b>PASSAGE 3</b> \n\n Reading Passage 3 has five sections A-E. Choose the correct heading for each section from the list of headings below. Write the correct number i-viii in boxes 27-31 on your answer sheet.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Section A",
+              "input_type": "dropdown",
+              "options": [
+                "i. Animal sometimes make music.",
+                "ii. Recent research on music",
+                "iii. Culture embedded in music",
+                "iv. Historical theories review",
+                "v. Communication in music with animals",
+                "vi. Contrast between music and language",
+                "vii. Questions on a biological link with human and music",
+                "viii. Music is good for babies."
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "Section B",
+              "input_type": "dropdown",
+              "options": [
+                "i. Animal sometimes make music.",
+                "ii. Recent research on music",
+                "iii. Culture embedded in music",
+                "iv. Historical theories review",
+                "v. Communication in music with animals",
+                "vi. Contrast between music and language",
+                "vii. Questions on a biological link with human and music",
+                "viii. Music is good for babies."
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "Section C",
+              "input_type": "dropdown",
+              "options": [
+                "i. Animal sometimes make music.",
+                "ii. Recent research on music",
+                "iii. Culture embedded in music",
+                "iv. Historical theories review",
+                "v. Communication in music with animals",
+                "vi. Contrast between music and language",
+                "vii. Questions on a biological link with human and music",
+                "viii. Music is good for babies."
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "Section D",
+              "input_type": "dropdown",
+              "options": [
+                "i. Animal sometimes make music.",
+                "ii. Recent research on music",
+                "iii. Culture embedded in music",
+                "iv. Historical theories review",
+                "v. Communication in music with animals",
+                "vi. Contrast between music and language",
+                "vii. Questions on a biological link with human and music",
+                "viii. Music is good for babies."
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Section E",
+              "input_type": "dropdown",
+              "options": [
+                "i. Animal sometimes make music.",
+                "ii. Recent research on music",
+                "iii. Culture embedded in music",
+                "iv. Historical theories review",
+                "v. Communication in music with animals",
+                "vi. Contrast between music and language",
+                "vii. Questions on a biological link with human and music",
+                "viii. Music is good for babies."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Matching Features",
+          "instruction": "Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-G in boxes 32-38 on your answer sheet.",
+          "questions": [
+            {
+              "number": 32,
+              "prompt": "Steven Pinker",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 33,
+              "prompt": "Musicologists",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 34,
+              "prompt": "Greek philosopher Pythagoras",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 35,
+              "prompt": "Schwartz, Howe, and Purves",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 36,
+              "prompt": "Marc Hauser and Josh McDermott",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 37,
+              "prompt": "Charles Rosen",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            },
+            {
+              "number": 38,
+              "prompt": "Sandra Trehub",
+              "input_type": "dropdown",
+              "options": [
+                "A. Music exists outside of the world in which it is created",
+                "B. Music has a common feature though cultural influences affect",
+                "C. Humans need music",
+                "D. Music priority connects to the disordered sound around",
+                "E. Discovery of mathematical musical foundation",
+                "F. Music is not treat equally well compared with language",
+                "G. Humans and monkeys have similar traits in perceiving sound"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 39-40 on your answer sheet.",
+          "questions": [
+            {
+              "number": 39,
+              "prompt": "Why was the study of animal's music uncertain?",
+              "input_type": "radio",
+              "options": [
+                "Animals don't have the same auditory system as humans.",
+                "Experiments on animal's music are limited.",
+                "tunes are impossible for animal to make up.",
+                "Animals don't have spontaneous ability for the tests."
+              ]
+            },
+            {
+              "number": 40,
+              "prompt": "What is the main subject of this passage?",
+              "input_type": "radio",
+              "options": [
+                "Language and psychology.",
+                "Music formation.",
+                "Role of music in human society.",
+                "Music experiments for animals."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

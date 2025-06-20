@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe pie chart shows the amount of money that a children's charity located in the USA spent and received in one year, 2016.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nFor schoolchildren, their teachers have more influence on their intelligence and social development than their parents. To what extent do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nYou should write at least 250 words."
+}
