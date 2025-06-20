@@ -1,0 +1,385 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Animal Minds: Parrot Alex",
+      "text": "In 1977 Irene Pepperberg, a recent graduate of Harvard University, did something very bold. At a time when animals still were considered automatons, she set out to find what was on another creature’s mind by talking to it. She brought a one-year-old African gray parrot she named Alex into her lab to teach him to reproduce the sounds of the English language. “I thought if he learned to communicate, I could ask him questions about how he sees the world.”\n\nWhen Pepperberg began her dialogue with Alex, who died last September at the age of 31, many scientists believed animals were incapable of any thought. They were simply machines, robots programmed to react to stimuli but lacking the ability to think or feel. Any pet owner would disagree. We see the love in our dogs’ eyes and know that, of course, they has thoughts and emotions. But such claims remain highly controversial. Gut instinct is not science, and it is all too easy to project human thoughts and feelings onto another creature. How, then, does a scientist prove that an animal is capable of thinking – that it is able to acquire information about the world and act on it? “That’s why I started my studies with Alex,” Pepperberg said. They were seated – she at her desk, he on top of his cage – in her lab, a windowless room about the size of a boxcar, at Brandeis University. Newspapers lined the floor; baskets of bright toys were stacked on the shelves. They were clearly a team – and because of their work, the notion that animals can think is no longer so fanciful.\n\nCertain skills are considered key signs of higher mental abilities: good memory, a grasp of grammar and symbols, self-awareness, understanding others’ motives, imitating others, and being creative. Bit by bit, in ingenious experiments, researchers have documented these talents in other species, gradually chipping away at what we thought made human beings distinctive while offering a glimpse of where our own abilities came from. Scrub jays know that other jays are thieves and that stashed food can spoil; sheep can recognize faces; chimpanzees use a variety of tools to probe termite mounds and even use weapons to hunt small mammals; dolphins can imitate human postures; the archerfish, which stuns insects with a sudden blast of water, can learn how to aim its squirt simply by watching an experienced fish perform the task. And Alex the parrot turned out to be a surprisingly good talker.\n\nThirty years after the Alex studies began; Pepperberg and a changing collection of assistants were still giving him English lessons. The humans, along with two younger parrots, also served as Alex’s flock, providing the social input all parrots crave. Like any flock, this one – as small as it was – had its share of drama. Alex dominated his fellow parrots, acted huffy at times around Pepperberg, tolerated the other female humans, and fell to pieces over a male assistant who dropped by for a visit. Pepperberg bought Alex in a Chicago pet store where she let the store’s assistant pick him out because she didn’t want other scientists saying later that she’d particularly chosen an especially smart bird for her work. Given that Alex’s brain was the size of a shelled walnut, most researchers thought Pepperberg’s interspecies communication study would be futile.\n\n“Some people actually called me crazy for trying this,” she said. “Scientists thought that chimpanzees were better subjects, although, of course, chimps can’t speak.” Chimpanzees, bonobos, and gorillas have been taught to use sign language and symbols to communicate with us, often with impressive results. The bonobo Kanzi, for instance, carries his symbol-communication board with him so he can “talk” to his human researchers, and he has invented combinations of symbols to express his thoughts. Nevertheless, this is not the same thing as having an animal look up at you, open his mouth, and speak. Under Pepperberg’s patient tutelage, Alex learned how to use his vocal tract to imitate almost one hundred English words, including the sounds for various foods, although he calls an apple a “beanery.” “Apples taste a little bit like bananas to him, and they look a little bit like cherries, Alex made up that word for them,” Pepperberg said.\n\nIt sounded a bit mad, the idea of a bird having lessons to practice, and willingly doing it. But after listening to and observing Alex, it was difficult to argue with Pepperberg’s explanation for his behaviors. She wasn’t handing him treats for the repetitious work or rapping him on the claws to make him say the sounds. “He has to hear the words over and over before he can correctly imitate them,” Pepperberg said, after pronouncing “seven” for Alex a good dozen times in a row. “I’m not trying to see if Alex can learn a human language,” she added. “That’s never been the point. My plan always was to use his imitative skills to get a better understanding of avian cognition.”\n\nIn other words, because Alex was able to produce a close approximation of the sounds of some English words, Pepperberg could ask him questions about a bird’s basic understanding of the world. She couldn’t ask him what he was thinking about, but she could ask him about his knowledge of numbers, shapes, and colors. To demonstrate, Pepperberg carried Alex on her arm to a tall wooden perch in the middle of the room. She then retrieved a green key and a small green cup from a basket on a shelf. She held up the two items to Alex’s eye. “What’s same?” she asked. Without hesitation, Alex’s beak opened: “Co-lor.” “What’s different?” Pepperberg asked. “Shape,” Alex said. His voice had the digitized sound of a cartoon character. Since parrots lack lips (another reason it was difficult for Alex to pronounce some sounds, such as ba), the words seemed to come from the air around him, as if a ventriloquist were speaking. But the words – and what can only be called the thoughts – were entirely his.\n\nFor the next 20 minutes, Alex ran through his tests, distinguishing colors, shapes, sizes, and materials (wool versus wood versus metal). He did some simple arithmetic, such as counting the yellow toy blocks among a pile of mixed hues. And, then, as if to offer final proof of the mind inside his bird’s brain, Alex spoke up. “Talk clearly!” he commanded, when one of the younger birds Pepperberg was also teaching talked with wrong pronunciation. “Talk clearly!” “Don’t be a smart aleck,” Pepperberg said, shaking her head at him. “He knows all this, and he gets bored, so he interrupts the others, or he gives the wrong answer just to be obstinate. At this stage, he’s like a teenager; he’s moody, and I’m never sure what he’ll do.”",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Firstly, Alex has grasped quite a lot of vocabulary.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 2,
+              "prompt": "At the beginning of study, Alex felt frightened in the presence of humans.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 3,
+              "prompt": "Previously, many scientists realized that animals possess the ability of thinking.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 4,
+              "prompt": "It has taken a long time before people get to know cognition existing in animals.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 5,
+              "prompt": "As Alex could approximately imitate the sounds of English words, he was capable of roughly answering Irene’s questions regarding the world.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 6,
+              "prompt": "By breaking in other parrots as well as producing the incorrect answers, he tried to be focused.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN THREE WORDS from the Reading Passage for each answer. Write your answers in boxes 7-10 on your answer sheet.",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "After the training of Irene, Parrot Alex can use his vocal tract to pronounce more than __________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 8,
+              "prompt": "while other scientists believe that animals have no this advanced ability of thinking, they would rather teach __________.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 9,
+              "prompt": "Pepperberg clarified that she wanted to conduct a study concerning __________ but not to teach him to talk.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 10,
+              "prompt": "The store’s assistant picked out a bird at random for her for the sake of avoiding other scientists saying that the bird is __________ afterwards.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Short Answer",
+          "instruction": "Answer the questions 11-13 below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+          "questions": [
+            {
+              "number": 11,
+              "prompt": "What did Alex reply regarding the similarity of the subjects showed to him?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 12,
+              "prompt": "What is the problem of the young parrots except Alex?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 13,
+              "prompt": "To some extent, through the way he behaved what we can call him",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Developing Countries",
+      "text": "The Ecotourism Society defines ecotourism as “a responsible travel to natural areas which conserves the environment and improves the welfare of local people”. It is recognised as being particularly conducive to enriching and enhancing the standing of tourism, on the basis that this form of tourism respects the natural heritage and local populations and are in keeping with the carrying capacity of the sites.\n\nCuba is undoubtedly an obvious site for ecotourism, with its picturesque beaches, underwater beauty, countryside landscapes, and ecological reserves. An educated population and improved infrastructure of roads and communications adds to the mix. In the Caribbean region, Cuba is now the second most popular tourist destination. Ecotourism is also seen as an environmental education opportunity to heighten both visitors’ and residents’ awareness of environmental and conservation issues, and even to inspire conservation action. Ecotourism has also been credited with promoting peace, by providing opportunities for educational and cultural exchange. Tourists’ safety and health are guaranteed. Raul Castro, brother of the Cuban president, started this initiative to rescue the Cuban tradition of herbal medicine and provide natural medicines for its healthcare system. The school at Las Terrazas Eco-Tourism Community teaches herbal healthcare and children learn not only how to use medicinal herbs, but also to grow them in the school garden for teas, tinctures, ointments and creams. In Cuba, ecotourism has the potential to alleviate poverty by bringing money into the economy and creating jobs. In addition to the environmental impacts of these efforts, the area works on developing community employment opportunities for locals, in conjunction with ecotourism.\n\nIn terms of South America, it might be the place which shows the shortcoming of ecotourism. Histoplasma capsulatum, a dimorphic fungus, is the most common endemic mycosis in the United States, and is associated with exposure to bat or bird droppings. Most recently, outbreaks have been reported in healthy travelers who returned from Central and South America after engaging in recreational activities associated with spelunking, adventure tourism, and ecotourism. It is quite often to see tourists neglected sanitation while travelling. After engaging in high-risk activities, boots should be hosed off and clothing placed in airtight plastic bags for laundering. HIV-infected travelers should avoid risky behaviors or environments, such as exploring caves, particularly those that contain bat droppings.\n\nNowhere is the keen eye and intimate knowledge of ecotourism is more amidst this fantastic biodiversity, as we explore remote realms rich in wildlife rather than a nature adventure. A sustainable tour is significant for ecotourism, one in which we can grow hand in hand with nature and our community, respecting everything that makes us privileged. Travelers get great joy from every step that take forward on this endless but exciting journey towards sustainability. The primary threats to South America’s tropical forests are deforestation caused by agricultural expansion, cattle ranching, fagging, oil extraction and spills, mining, illegal coca farming, and colonization initiatives. Deforestation has shrunk territories belonging to indigenous peoples and wiped out more than 90% of the population. Many are taking leading roles in sustainable tourism even as they introduce protected regions to more travelers.\n\nIn East Africa, significantly reducing such illegal hunting and allowing wildlife populations to recover would allow the generation of significant economic benefits through trophy hunting and potentially ecotourism. “Illegal hunting is an extremely inefficient use of wildlife resources because it fails to capture the value of wildlife achievable through alternative forms of use such as trophy hunting and ecotourism,” said Peter Lindsey, author of the new study. Most residents believed that ecotourism could solve this circumstance. They have passion for local community empowerment, loves photography and writes to laud current local conservation efforts, create environmental awareness and promote ecotourism.\n\nIn Indonesia, ecotourism started to become an important concept from 1995, in order to strengthen the domestic travelling movement, the local government targeting the right markets is a prerequisite for successful ecotourism. The market segment for Indonesian ecotourism consists of: (i) “The silent generation”, 55-64 year-old people who are wealthy enough, generally well-educated and have no dependent children, and can travel for four weeks; (ii) “The baby boom generation”, junior successful executives aged 35-54 years, who are likely to be travelling with their family and children (spending 2-3 weeks on travel) – travelling for them is a stress reliever; and (iii) the “X generation”, aged 18-29 years, who love to do ecotours as backpackers – they are generally students who can travel for 3-12 months with monthly expenditure of US$300-500. It is suggested that promotion of Indonesian ecotourism products should aim to reach these various cohorts of tourists. The country welcomes diverse levels of travelers.\n\nOn the other hand, ecotourism provide as many services as traditional tourism. Nestled between Mexico, Guatemala and the Caribbean Sea is the country of Belize. It is the wonderful place for Hamanasi honeymoon, bottle of champagne upon arrival, three meals daily, a private service on one night of your stay and a choice of adventures depending on the length of your stay. It also offers six-night and seven-night honeymoon packages. A variety of specially tailored tours, including the Brimstone Hill Fortress, and a trip to a neighboring island. Guided tours include rainforest, volcano and off-road plantation tours. Gregory Pereira, an extremely knowledgeable and outgoing hiking and tour guide, says the following about his tours: “All of our tours on St. Kitts include transportation by specially modified Land Rovers, a picnic of island pastries and local fruit, fresh tropical juices, CSR, a qualified island guide and a full liability insurance coverage for participants.\n\nKodai is an ultimate splendor spot for those who love being close to mother nature. They say every bird must sing its own throat while we say every traveller should find his own way out of variegated and unblemished paths of deep valleys and steep mountains. The cheese factory here exports great quantity of cheese to various countries across the globe. It is located in the center of forest. Many travelers are attracted by the delicious cheese. The ecotourism is very famous of this different eating experience.",
+      "questions": [
+        {
+          "group_type": "Matching",
+          "instruction": "<b>PASSAGE 2</b> \n\n Use the information in the passage to match the place (listed A-D) with opinions or deeds below. Write the appropriate letters, A-D, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "a place to improve local education as to help tourists",
+              "input_type": "dropdown",
+              "options": [
+                "A. Cuba",
+                "B. East Africa",
+                "C. South America",
+                "D. Indonesia"
+              ]
+            },
+            {
+              "number": 15,
+              "prompt": "a place suitable for both rich and poor travelers",
+              "input_type": "dropdown",
+              "options": [
+                "A. Cuba",
+                "B. East Africa",
+                "C. South America",
+                "D. Indonesia"
+              ]
+            },
+            {
+              "number": 16,
+              "prompt": "a place where could be easily get fungus",
+              "input_type": "dropdown",
+              "options": [
+                "A. Cuba",
+                "B. East Africa",
+                "C. South America",
+                "D. Indonesia"
+              ]
+            },
+            {
+              "number": 17,
+              "prompt": "a place taking a method to stop unlawful poaching",
+              "input_type": "dropdown",
+              "options": [
+                "A. Cuba",
+                "B. East Africa",
+                "C. South America",
+                "D. Indonesia"
+              ]
+            },
+            {
+              "number": 18,
+              "prompt": "a place where the healthcare system is developed",
+              "input_type": "dropdown",
+              "options": [
+                "A. Cuba",
+                "B. East Africa",
+                "C. South America",
+                "D. Indonesia"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Matching",
+          "instruction": "Use the information in the passage to match the companies (listed A-D) with deeds below. Write the appropriate letters A, B, C or D in boxes 19-22 on your answer sheet.",
+          "questions": [
+            {
+              "number": 19,
+              "prompt": "Visiting the cheese factory",
+              "input_type": "dropdown",
+              "options": [
+                "A. eating the local fruits at the same time",
+                "B. find job opportunities in community",
+                "C. which is situated on the heart of jungle",
+                "D. with private and comfortable service"
+              ]
+            },
+            {
+              "number": 20,
+              "prompt": "Enjoying the honeymoon",
+              "input_type": "dropdown",
+              "options": [
+                "A. eating the local fruits at the same time",
+                "B. find job opportunities in community",
+                "C. which is situated on the heart of jungle",
+                "D. with private and comfortable service"
+              ]
+            },
+            {
+              "number": 21,
+              "prompt": "Having the picnic while",
+              "input_type": "dropdown",
+              "options": [
+                "A. eating the local fruits at the same time",
+                "B. find job opportunities in community",
+                "C. which is situated on the heart of jungle",
+                "D. with private and comfortable service"
+              ]
+            },
+            {
+              "number": 22,
+              "prompt": "The residents in Cuba could",
+              "input_type": "dropdown",
+              "options": [
+                "A. eating the local fruits at the same time",
+                "B. find job opportunities in community",
+                "C. which is situated on the heart of jungle",
+                "D. with private and comfortable service"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN TWO WORDS from the Reading Passage for each answer. Write your answers in boxes 23-26 on your answer sheet.",
+          "questions": [
+            {
+              "number": 23,
+              "prompt": "Ecotourism is not a nature __________ but a",
+              "input_type": "short_text"
+            },
+            {
+              "number": 24,
+              "prompt": "__________ tour. The reason why South America promotes ecotourism is due to the destruction of",
+              "input_type": "short_text"
+            },
+            {
+              "number": 25,
+              "prompt": "__________. In addition, East Africa also encourages this kind of tourism for cutting the",
+              "input_type": "short_text"
+            },
+            {
+              "number": 26,
+              "prompt": "__________ in order to save wild animals.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ancient Societies Classification",
+      "text": "Although humans have established many types of societies throughout history sociologists and anthropologists tend to classify different societies according to the degree to which different groups within a society have unequal access to advantages such as resources, prestige or power, and usually refer to four basic types of societies. From least to most socially complex, they are: clans, tribes, chiefdoms and states.\n\nThese are small-scale societies of hunters and gatherers, generally of fewer than 100 people, who move seasonally to exploit wild (undomesticated) food resources. Most surviving hunter – gatherer groups are of this kind, such as the Hadza of Tanzania or the San of southern Africa. Clan members are generally kinsfolk, related by descent or marriage. Clans lack formal leaders, so there are no marked economic differences or disparities in status among their members.\n\nBecause clans are composed of mobile groups of hunter-gatherers, their sites consist mainly of seasonally occupied camps, and other smaller and more specialised sites. Among the latter are kill or butchery sites – locations where large mammals are killed and sometimes butchered – and work sites, where tools are made or other specific activities carried out. The base camp of such a group may give evidence of rather insubstantial dwellings or temporary shelters, along with the debris of residential occupation.\n\nThese are generally larger than mobile hunter – gatherer groups, but rarely number more than a few thousand, and their diet or subsistence is based largely on cultivated plants and domesticated animals. Typically, they are settled farmers, but they may be nomadic with a very different, mobile economy based on the intensive exploitation of livestock. These are generally multi-community societies, with the individual communities integrated into the large society through kinship ties. Although some tribes have officials and even a “capital” or seat of government, such officials lack the economic base necessary for effective use of power.\n\nThe typical settlement pattern for tribes is one of settled agricultural homesteads or villages. Characteristically, no one settlement dominates any of the others in the region. Instead, the archaeologist finds evidence for isolated, permanently occupied houses or for permanent villages. Such villages may be made up of a collection of free-standing houses, like those of the first farms of the Danube valley in Europe. Or they may be clusters of buildings grouped together, for example, the pueblos of the American Southwest, and the early farming village or small town of Catalhoyuk in modern Turkey.\n\nThese operate on the principle of ranking-differences in social status between people. Different lineages (a lineage is a group claiming descent from a common ancestor) are graded on a scale of prestige, and the senior lineage, and hence the society as a whole, is governed by a chief. Prestige and rank are determined by how closely related one is to the chief, and there is no true stratification into classes. The role of the chief is crucial.\n\nOften, there is local specialisation in craft products, and surpluses of these and of foodstuffs are periodically paid as obligation to the chief. He uses these to maintain his retainers, and may use them for redistribution to his subjects. The chiefdom generally has a center of power, often with temples, residences of the chief and his retainers, and craft specialists. Chiefdoms vary greatly in size, but the range is generally between about 5000 and 20,000 persons.\n\nThese preserve many of the features of chiefdoms, but the ruler (perhaps a king or sometimes a queen) has explicit authority to establish laws and also to enforce them by the use of a standing army. Society no longer depends totally upon kin relationships: it is now stratified into different classes. Agricultural workers and the poorer urban dwellers form the lowest classes, with the craft specialists above, and the priests and kinsfolk of the ruler higher still. The functions of the ruler are often separated from those of the priest: palace is distinguished from temple. The society is viewed as a territory owned by the ruling lineage and populated by tenants who have an obligation to pay taxes. The central capital houses a bureaucratic administration of officials; one of their principal purposes is to collect revenue (often in the form of taxes and tolls) and distribute it to government, army and craft specialists. Many early states developed complex redistribution systems to support these essential services.\n\nThis rather simple social typology, set out by Elman Service and elaborated by William Sanders and Joseph Marino, can be criticised, and it should not be used unthinkingly. Nevertheless, if we are seeking to talk about early societies, we must use words and hence concepts to do so. Service’s categories provide a good framework to help organise our thoughts.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "<b>PASSAGE 3</b> \n\n Do the following statements agree with the information given in Reading Passage? In boxes 27-33 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "There’s little economic difference between members of a clan.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 28,
+              "prompt": "The farmers of a tribe grow a wide range of plants.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "One settlement is more important than any other settlements in a tribe.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "A member’s status in a chiefdom is determined by how much land he owns.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "There are people who craft goods in chiefdoms.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "The king keeps the order of a state by keeping a military.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            },
+            {
+              "number": 33,
+              "prompt": "Bureaucratic officers receive higher salaries than other members.",
+              "input_type": "radio",
+              "options": [
+                "TRUE",
+                "FALSE",
+                "NOT GIVEN"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Short Answer",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 34-39 on your answer sheet.",
+          "questions": [
+            {
+              "number": 34,
+              "prompt": "What are made at the clan work sites?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 35,
+              "prompt": "What is the other way of life for tribes besides settled farming?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 36,
+              "prompt": "How are Catalhoyuk’s housing units arranged?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 37,
+              "prompt": "What does a chief give to his subjects as rewards besides crafted goods?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 38,
+              "prompt": "What is the largest possible population of a chiefdom?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 39,
+              "prompt": "Which group of people is at the bottom of an early state but higher than the farmers?",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

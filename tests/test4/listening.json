@@ -1,0 +1,273 @@
+{
+  "test_id": "test4",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "form_completion",
+      "instructions": "Complete Jake’s reservation change form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Customer’s Name: Mrs. Jane ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "Address: ________ Richmond Rise Birkdale, Auckland",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Date of Birth: 14th ________ 1985",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "Reservation Website Used: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "________ not charged by the website!",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "summary_completion",
+      "instructions": "Complete Jake’s summary email confirming the change in hotel reservation. Write NO MORE THAN THREE WORDS AND/OR SOME NUMBERS for each answer.",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "The two adults in the booking have not changed. Two children have been added: Mark (________ years) + Max (eight years)",
+          "input_type": "short_text"
+        },
+        {
+          "number": 7,
+          "prompt": "The boys will have a twin room with no ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 8,
+          "prompt": "Old price NZ$1200; new price NZ$________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 9,
+          "prompt": "The booking is held by a VISA card with the last four numbers 8537. Previous ________ paid does not need to be increased",
+          "input_type": "short_text"
+        },
+        {
+          "number": 10,
+          "prompt": "________ is included for all guests in the booking.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "mixed_completion",
+      "instructions": "Use NO MORE THAN THREE WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "When was the chocolate factory built?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 12,
+          "prompt": "How many full-time employees work at the factory?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 13,
+          "prompt": "Use no more than three words \n Meet in reception area - orientation, visitors badges, sterile net, talk on  ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 14,
+          "prompt": "Various ________ added depending on product",
+          "input_type": "short_text"
+        },
+        {
+          "number": 15,
+          "prompt": "________ - foil and paper combination - foil keeps the cocoa butter in and the paper is decorative.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 16,
+          "prompt": "Use no more than two words and/or a number \n A ________ on the company’s marketing + sales strategies",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "The ________ will help you choose from all our products; (don’t eat too much - especially children)",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "Individuals and Small Groups: One tour in morning starting at ________ a.m.; one tour in afternoon starting at 2 p.m.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "Larger and School Tours: Adults - $________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "Complete ________ access",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "table_completion",
+      "instructions": "Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "Tina: Misses linguistics in her 2nd year. Liked history, but finds she has to study too many ________ she doesn’t want to.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 22,
+          "prompt": "Even with 3rd year ________, she will still have too many compulsory things to study.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 23,
+          "prompt": "Edward: Studied Earth Sciences in year 1, as he wanted something different; had no problem in the 1st year. Likes History and English, but finds he has too many ________ in these subjects.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 24,
+          "prompt": "Did additional summer ________ and discussed it with his family.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 25,
+          "prompt": "In Earth Sciences, students are assessed by smaller assignments, ________, and shorter exams.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_checkbox",
+      "instructions": "Choose THREE letters A–G. Which THREE people need to sign Edward’s form?",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "Choose THREE letters (Q26–28)",
+          "input_type": "checkbox",
+          "max_choices": 3,
+          "options": [
+            "A. Professor Holden",
+            "B. Doctor Flynn",
+            "C. Mr Thomas",
+            "D. Professor Atkins",
+            "E. Mr Morton",
+            "F. Miss Morgan",
+            "G. Professor Evans"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {
+          "number": 29,
+          "prompt": "Other than taking the forms to the registrar’s office, Professor Holden says that the only other way to get the forms to the registrar’s office is",
+          "input_type": "dropdown",
+          "options": [
+            "A. to give the completed forms to him.",
+            "B. to email the completed forms.",
+            "C. to post their completed forms"
+          ]
+        },
+        {
+          "number": 30,
+          "prompt": "The registrar’s office is found",
+          "input_type": "dropdown",
+          "options": [
+            "A. On the third floor of the offices above the post office",
+            "B. On the third floor of the administrative building opposite the post office",
+            "C. On the second floor of the administrative building opposite the post office"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "diagram_labeling",
+      "instructions": "Label the diagram of the Great Artesian Basin. Use NO MORE THAN THREE WORDS from the listening for each answer.",
+      "image": "map.png",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "Gondwana, a land mass created in the Triassic age, had a ________ in its north west corner",
+          "input_type": "short_text"
+        },
+        {
+          "number": 32,
+          "prompt": "The natural dip filled with water, which left deposits of ________ that created the impermeable stone strata that would hold the Great Artesian Basin’s water reservoir.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 33,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt": "",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "note_completion",
+      "instructions": "Complete the notes below. Use NO MORE THAN THREE WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 35,
+          "prompt": "It brings life to arid areas in Australia - various flora and fauna survive in these unique ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 36,
+          "prompt": "Man-made bore holes create artesian wells - these support agriculture and ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 37,
+          "prompt": "95% of water from these running bore holes ________ or soaks away.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 38,
+          "prompt": "Capping - putting lids on bores (water accessed by using a ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 39,
+          "prompt": "Piping - replaces channels / drains; water goes to ________ preventing wastage.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "the effect on Australia’s food production system would mean that more food would have to be imported (this would affect Australia’s ________ and whole economy).",
+          "input_type": "short_text"
+        }
+      ]
+    }
+  ]
+}
