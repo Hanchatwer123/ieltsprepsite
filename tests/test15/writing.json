@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe chart shows components of GDP in the UK from 1992 to 2000.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nPrison is the common way in most countries to solve the problem of crime. However, a more effective solution is to provide people a better education. Do you agree or disagree?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nYou should write at least 250 words."
+}

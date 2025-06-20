@@ -1,0 +1,364 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Natural Pesticide in India",
+      "text": "<b>A.</b> A dramatic story about cotton farmers in India shows how destructive pesticides can be for people and the environment; and why today's agriculture is so dependent on pesticides. This story also shows that it's possible to stop using chemical pesticides without losing a crop to ravaging insects, and it explains how to do it.\n\n<b>B.</b> The story began about 30 years ago, a handful of families migrated from the Guntur district of Andhra Pradesh, southeast India, into Punukula, a community of around 900 people farming plots of between two and 10 acres. The outsiders from Guntur brought cotton-culture with them. Cotton wooed farmers by promising to bring in more hard cash than the mixed crops they were already growing to eat and sell: millet, sorghum, groundnuts, pigeon peas, mung beans, chilli and rice. But raising cotton meant using pesticides and fertilisers - until then a mystery to the mostly illiterate farmers of the community. When cotton production started spreading through Andhra Pradesh state. The high value of cotton made it an exceptionally attractive crop, but growing cotton required chemical fertilizers and pesticides. As most of the farmers were poor, illiterate, and without previous experience using agricultural chemicals, they were forced to rely on local, small-scale agricultural dealers for advice. The dealers sold them seeds, fertilizers, and pesticides on credit and also guaranteed purchase of their crop. The dealers themselves had little technical knowledge about pesticides. They merely passed on promotional information from multinational chemical companies that supplied their products.\n\n<b>C.</b> At first, cotton yields were high, and expenses for pesticides were low because cotton pests had not yet moved in. The farmers had never earned so much! But within a few years, cotton pests like bollworms and aphids plagued the fields, and the farmers saw how rapid insect evolution can be. Repeated spraying killed off the weaker pests, but left the ones most resistant to pesticides to multiply. As pesticide resistance mounted, the farmers had to apply more and more of the pesticides to get the same results. At the same time, the pesticides killed off birds, wasps, beetles, spiders, and other predators that had once provided natural control of pest insects. Without these predators, the pests could destroy the entire crop if pesticides were not used. Eventually, farmers were mixing pesticide \"cocktails\" containing as many as ten different brands and sometimes having to spray their cotton as frequently as two times a week. They were really hooked!\n\n<b>D.</b> The villagers were hesitant, but one of Punukula's village elders decided to risk trying the natural methods instead of pesticides. His son had collapsed with acute pesticide poisoning and survived but the hospital bill was staggering. SECURE's staff coached this villager on how to protect his cotton crop by using a toolkit of natural methods chat India's Center for Sustainable Agriculture put together in collaboration with scientists at Andhra Pradesh's state university. They called the toolkit \"Non-Pesticide Management\" — or\" NPM.\"\n\n<b>E.</b> The most important resource in the NPM toolkit was the neem tree (Azadirachta indica) which is common throughout much of India. Neem tree is a broad-leaved evergreen tree related to mahogany. It protects itself against insects by producing a multitude of natural pesticides that work in a variety of ways: with an arsenal of chemical defenses that repel egg-laying, interfere with insect growth, and most important, disrupt the ability of crop-eating insects to sense their food.\n\n<b>F.</b> In fact, neem has been used traditionally in India to protect stored grains from insects and to produce soaps, skin lotions, and other health products. To protect crops from insects, neem seeds are simply ground into a powder that is soaked overnight in water. The solution is then sprayed onto the crop. Another preparation, neem cake, can be mixed into the soil to kill pests and diseases in the soil, and it doubles as an organic fertiliser high in nitrogen. Neem trees grow locally, so the only \"cost\" is the labor to prepare neem for application to fields.\n\n<b>G.</b> The first farmer's trial with NPM was a complete success! His harvest was as good as the harvests of farmers that were using pesticides, and he earned much more because he did not spend a single rupee on pesticides. Inspired by this success, 20 farmers tried NPM the next year. SECURE posted two well-trained staff in Punukula to teach and help everyone in the village, and the village women put pressure on their husbands to stop using toxic chemicals. Families that were no longer exposing themselves to pesticides began to feel much better, and the rapid improvements in income, health, and general wellbeing quickly sold everyone on the value of NPM. By 2000, all the farmers in Punukula were using NPM, not only for cotton, but for their other crops as well.\n\n<b>H.</b> The suicide epidemic came to an end. And with the cash, health, and energy that returned when they stopped poisoning themselves with pesticides, the villagers were inspired to start more community and business projects. The women of Punukula created a new source of income by collecting, grinding, and selling neem seeds for NPM in other villages. The villagers rescued their indentured children and gave them special six-month “catch-up' courses to return to school.\n\n<b>I.</b> Fighting against pesticides, and winning, increased village solidarity, self-confidence, and optimism about the future.When dealers tried to punish NPM users by paying less for NPM cotton, the farmers united to form a marketing cooperative that found fairer prices elsewhere. The leadership and collaboration skills that the citizens of Punukula developed in the NPM struggle have helped them to take on other challenges, like water purification, building a cotton gin to add value to the cotton before they sell it, and convincing the state government to support NPM over the objection of multi-national pesticide corporations.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Cotton in Andhra Pradesh state could really bring more income to the bcal farmers than traditional farming.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 2,
+              "prompt": "The majority of farmers had used the agricultural pesticides before 30 years ago.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 3,
+              "prompt": "The yield of cotton is relatively tower than that of other agricultural crops.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 4,
+              "prompt": "The farmers didn’t realize the spread of the pests was so fast.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer, Write your answers in boxes 5-10 on your answer sheet.",
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "The broad-leaved neem tree was chosen, it is a fast-growing and ___________________ tree and produces amount of ___________(6)_________ for itself that can be effective like insects repellent.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 6,
+              "prompt": "and produces amount of ____________________ for itself that can be effective like insects repellent.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 7,
+              "prompt": "Firstly, neem seeds need to be crushed into ______________________ form, which is left behind _____________(8)___________ in water.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 8,
+              "prompt": "which is left behind ________________________ in water.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 9,
+              "prompt": "Then we need to spray the solution onto the crop. A special _______________________ is used when mix with soil in order to eliminate bugs and bacteria, and its effect ________(10)______ when it adds the level of _____(11)______in this organic fertilizer meanwhile.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 10,
+              "prompt": "and its effect ______________________ when it adds the level of _____(11)______in this organic fertilizer meanwhile.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 11,
+              "prompt": "when it adds the level of ____________________in this organic fertilizer meanwhile.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Short Answer Questions",
+          "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer Write your answers in boxes 12-14 on your answer sheet.",
+          "questions": [
+            {
+              "number": 12,
+              "prompt": "In which year did all the farmers use NPM for their crops in Punukula?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 13,
+              "prompt": "What gave the women of Punukula a business opportunity to NPMs?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 14,
+              "prompt": "Name one project that the citizens of Punukula decide to develope in the NPM.",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Numeracy: Can animals tell numbers?",
+      "text": "<b>A.</b> Prime among basic numerical faculties is the ability to distinguish between a larger and a smaller number, says psychologist Elizabeth Brannon. Humans can do this with ease -providing the ratio is big enough - but do other animals share this ability? In one experiment, rhesus monkeys and university students examined two sets of geometrical objects that appeared briefly on a computer monitor. They had to decide which set contained more objects. Both groups performed successfully but, importantly, Brannon's team found that monkeys, like humans, make more errors when two sets of objects are close in number. The students' performance ends up looking just like a monkey's. It's practically identical, 'she says.\n\n<b>B.</b> Humans and monkeys are mammals, in the animal family known as primates. These are not the only animals whose numerical capacities rely on ratio, however. The same seems to apply to some amphibians. Psychologist Claudia Uller's team tempted salamanders with two sets of fruit flies held in clear tubes. In a series of trials, the researchers noted which tube the salamanders scampered towards, reasoning that if they had a capacity to recognise number, they would head for the larger number. The salamanders successfully discriminated between tubes containing 8 and 16 flies respectively, but not between 3 and 4, 4 and 6, or 8 and 12. So it seems that for the salamanders to discriminate between two numbers, the larger must be at least twice as big as the smaller. However, they could differentiate between 2 and 3 flies just as well as between 1 and 2 flies, suggesting they recognise small numbers in a different way from larger numbers.\n\n<b>C.</b> Further support for this theory comes from studies of mosquitofish, which instinctively join the biggest shoal they can. A team at the University of Padova found that while mosquitofish can tell the difference between a group containing 3 shoal-mates and a group containing 4, they did not show a preference between groups of 4 and 5. The team also found that mosquitofish can discriminate between numbers up to 16, but only if the ratio between the fish in each shoal was greater than 2:1. This indicates that the fish, like salamanders, possess both the approximate and precise number systems found in more intelligent animals such as infant humans and other primates.\n\n<b>D.</b> While these findings are highly suggestive, some critics argue that the animals might be relying on other factors to complete the tasks, without considering the number itself. 'Any study that's claiming an animal is capable of representing number should also be controlling for other factors, ' says Brannon. Experiments have confirmed that primates can indeed perform numerical feats without extra clues, but what about the more primitive animals?\n\n<b>E.</b> To consider this possibility, the mosquito fish tests were repeated, this time using varying geometrical shapes in place of fish. The team arranged these shapes so that they had the same overall surface area and luminance even though they contained a different number of objects. Across hundreds of trials on 14 different fish, the team found they consistently discriminated 2 objects from 3. The team is now testing whether mosquitofish can also distinguish 3 geometric objects from 4.\n\n<b>F.</b> Even more primitive organisms may share this ability. Entomologist Jurgen Tautz sent a group of bees down a corridor, at the end of which lay two chambers - one which contained sugar water, which they like, while the other was empty. To test the bees' numeracy, the team marked each chamber with a different number of geometrical shapes - between 2 and 6. The bees quickly learned to match the number of shapes with the correct chamber. Like the salamanders and fish, there was a limit to the bees' mathematical prowess - they could differentiate up to 4 hapes, but failed with 5 or 6 shapes.\n\n<b>G.</b> These studies still do not show whether animals learn to count through training, or whether they are born with the skills already intact. If the latter is true, it would suggest there was a strong evolutionary advantage to a mathematical mind. Proof that this may be the case has emerged from an experiment testing the mathematical ability of three- and four-day-old chicks. Like mosquitofish, chicks prefer to be around as many of their siblings as possible, so they will always head towards a larger number of their kin. If chicks spend their first few days surrounded by certain objects, they become attached to these objects as if they were family. Researchers placed each chick in the middle of a platform and showed it two groups of balls of paper. Next, they hid the two piles behind screens, changed the quantities and revealed them to the chick. This forced the chick to perform simple computations to decide which side now contained the biggest number of its \"brothers\". Without any prior coaching, the chicks scuttled to the larger quantity at a rate well above chance. They were doing some very simple arithmetic, claim the researchers.\n\n<b>H.</b> Why these skills evolved is not hard to imagine, since it would help almost any animal forage for food. Animals on the prowl for sustenance must constantly decide which tree has the most fruit, or which patch of flowers will contain the most nectar. There are also other, less obvious, advantages of numeracy. In one compelling example, researchers in America found that female coots) appear to calculate how many eggs they have laid – and add any in the nest laid by an intruder - before making any decisions about adding to them. Exactly how ancient these skills are is difficult to determine, however. Only by studying the numerical abilities of more and more creatures using standardized procedures can we hope to understand the basic preconditions for the evolution of number.",
+      "questions": [
+        {
+          "group_type": "Table Completion",
+          "instruction": "<b>PASSAGE 2</b> \n\n Answer the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 15-21 on your answer sheet",
+          "questions": [
+            {
+              "number": 15,
+              "prompt": "rhesus monkeys and humans: performance of two groups is almost ___________________________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 16,
+              "prompt": "Chicks: chose between two sets of ________________________ which are altered",
+              "input_type": "short_text"
+            },
+            {
+              "number": 17,
+              "prompt": "Coots: bird seems to have ability to _________________________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 18,
+              "prompt": "Salamanders : offered clear tubes containing different quantities of _________________________",
+              "input_type": "short_text"
+            },
+            {
+              "number": 19,
+              "prompt": "__________________________: shown real shoals and later artificial ones of geometrical shapes;",
+              "input_type": "short_text"
+            },
+            {
+              "number": 20,
+              "prompt": "_____________(19)_____________: shown real shoals and later artificial ones of geometrical shapes; these are used to check influence of total ________________________ and brightness",
+              "input_type": "short_text"
+            },
+            {
+              "number": 21,
+              "prompt": "Bees: had to learn where __________________________ was stored",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 22-27 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "Primates are better at identifying the larger of two numbers if one is much bigger than the other.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 23,
+              "prompt": "Jurgen Tautz trained the insects in his experiment to recognise the shapes of individual numbers.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 24,
+              "prompt": "The research involving young chicks took place over two separate days.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 25,
+              "prompt": "The experiment with chicks suggests that some numerical ability exists in newborn animals.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 26,
+              "prompt": "Researchers have experimented by altering quantities of nectar or fruit available to certain wild animals.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 27,
+              "prompt": "When assessing the number of eggs in their nest, coots take into account those of other birds.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Multitasking Debate",
+      "text": "<b>A.</b> Talking on the phone while driving isn't the only situation where we're worse at multitasking than we might like to think we are. New studies have identified a bottleneck in our brains that some say means we are fundamentally incapable of true multitasking If experimental findings reflect real-world performance, people who think they are multitasking are probably just underperforming in all - or at best, all but one - of their parallel pursuits. Practice might improve your performance, but you will never be as good as when focusing on one task at a time.\n\n<b>B.</b> The problem, according to Rene Marois, a psychologist at Vanderbilt University in Nashville, Tennessee, is that there’s a sticking point in the brain. To demonstrate this, Marois devised an experiment to locate it. Volunteers watch a screen and when a particular image appears, a red circle, say, they have to press a key with their index finger. Different coloured circles require presses from different fingers. Typical response time is about half a second, and the volunteers quickly reach their peak performance. Then they learn to listen to different recordings and respond by making a specific sound. For instance, when they hear a bird chirp, they have to say \"ba”; an electronic sound should elicit a \"ko\", and so on. Again, no problem. A normal person can do that in about half a second, with almost no effort.\n\n<b>C.</b> The trouble comes when Marois shows the volunteers an image, and then almost immediately plays them a sound. Now they’re flummoxed. “If you show an image and play a sound at the same time, one task is postponed, ” he says. In fact, if the second task is introduced within the half-second or so it takes to process and react to the first, it will simply be delayed until the first one is done. The largest dual-task delays occur when the two tasks are presented simultaneously; delays progressively shorten as the interval between presenting the tasks lengthens.\n\n<b>D.</b> There are at least three points where we seem to get stuck, says Marois. The first is in simply identifying what I we’re looking at. This can take a few tenths of a second, during which time we are not able to see and recognise second item. This limitation is known as the \"attentional blink\": experiments have shown that if you’re watching out for a particular event and a second one shows up unexpectedly any time within this crucial window of concentration, it may register in your visual cortex but you will be unable to act upon it. Interestingly, if you don’t expect the first event, you have no trouble responding to the second. What exactly causes the attentional blink is still a matter for debate.\n\n<b>E.</b> A second limitation is in our short-term visual memory. It’s estimated that we can keep track of about four items at a time, fewer if they are complex. This capacity shortage is thought to explain, in part, our astonishing inability to detect even huge changes in scenes that are otherwise identical, so-called “change blindness”. Show people pairs of near-identical photos - say, aircraft engines in one picture have disappeared in the other - and they will fail to spot the differences. Here again, though, there is disagreement about what the essential limiting factor really is. Does it come down to a dearth of storage capacity, or is it about how much attention a viewer is paying?\n\n<b>F.</b> A third limitation is that choosing a response to a stimulus - braking when you see a child in the road, for instance, or replying when your mother tells you over the phone that she’s thinking of leaving your dad - also takes brainpower. Selecting a response to one of these things will delay by some tenths of a second your ability to respond to the other. This is called the “response selection bottleneck” theory, first proposed in 1952.\n\n<b>G.</b> But David Meyer, a psychologist at the University of Michigan, Ann Arbor, doesn't buy the bottleneck idea. He thinks dual-task interference is just evidence of a strategy used by the brain to prioritise multiple activities. Meyer is known as something of an optimist by his peers. He has written papers with titles like \"Virtually perfect time-sharing in dual-task performance: Uncorking the central cognitive bottleneck\". His experiments have shown that with enough practice - at least 2000 tries - some people can execute two tasks simultaneously as competently as if they were doing them one after the other. He suggests that there is a central cognitive processor that coordinates all this and, what’s more, he thinks it uses discretion sometimes it chooses to delay one task while completing another.\n\n<b>H.</b> Marois agrees that practice can sometimes erase interference effects. He has found that with just 1 hour of practice each day for two weeks, volunteers show a huge improvement at managing both his tasks at once. Where he disagrees with Meyer is in what the brain is doing to achieve this. Marois speculates that practice might give us the chance to find less congested circuits to execute a task - rather like finding trusty back streets to avoid heavy traffic on main roads - effectively making our response to the task subconscious. After all, there are plenty of examples of subconscious multitasking that most of us routinely manage: walking and talking, eating and reading, watching TV and folding the laundry.\n\n<b>I.</b> It probably comes as no surprise that, generally speaking, we get worse at multitasking as we age. According to Art Kramer at the University of Illinois at Urbana- Champaign, who studies how ageing affects our cognitive abilities, we peak in our 20s. Though the decline is slow through our 30s and on into our 50s, it is there; and after 55, it becomes more precipitous. In one study, he and his colleagues had both young and old participants do a simulated driving task while carrying on a conversation. He found that while young drivers tended to miss background changes, older drivers failed to notice things that were highly relevant. Likewise, older subjects had more trouble paying attention to the more important parts of a scene than young drivers.\n\n<b>J.</b> It’s not all bad news for over-55s, though. Kramer also found that older people can benefit from practice. Not only did they learn to perform better, brain scans showed that underlying that improvement was a change in the way their brains become active. While it’s clear that ractice can often make a difference, especially as we age, the basic facts remain sobering. \"We have this impression of an almighty complex brain,\" says Marois, \"and yet we have very humbling and crippling limits.\" For most of our history, we probably never needed to do more than one thing at a time, he says, and so we haven’t evolved to be able to. Perhaps we will in future, though. We might yet look back one day on people like Debbie and Alun as ancestors of a new breed of true multitasker.",
+      "questions": [
+        {
+          "group_type": "Matching Information",
+          "instruction": "<b>PASSAGE 3</b> \n\n The reading Passage has ten paragraphs A-J. Which paragraph contains the following information? Write the correct letter in boxes 28-32 on your answer sheet.",
+          "questions": [
+            {
+              "number": 28,
+              "prompt": "A theory explained delay happens when selecting one reaction",
+              "input_type": "dropdown",
+              "options":[
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J"
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "Different age group responds to important things differently",
+              "input_type": "dropdown",
+              "options":[
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "Conflicts happened when visual and audio element emerge simultaneously",
+              "input_type": "dropdown",
+              "options":[
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "An experiment designed to demonstrates the critical part in brain for multitasking",
+              "input_type": "dropdown",
+              "options":[
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "An viewpoint favors optimistic side of multitask performance",
+              "input_type": "dropdown",
+              "options":[
+                "A",
+                "B",
+                "C",
+                "D",
+                "E",
+                "F",
+                "G",
+                "H",
+                "I",
+                "J"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 33-35 on your answer sheet.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "Which one is correct about experiment conducted by Ren6 Marois?",
+              "input_type": "radio",
+              "options": [
+                "participants performed poorly on listening task solely",
+                "volunteers press different key on different color",
+                "participants need use different fingers on different colored object",
+                "they did a better job on Mixed image and sound information"
+              ]
+            },
+            {
+              "number": 34,
+              "prompt": "Which statement is correct about the first limitation of Marois's experiment?",
+              "input_type": "radio",
+              "options": [
+                "“attentional blink” takes about ten seconds",
+                "lag occurs if we concentrate on one object while second one appears",
+                "we always have trouble in reacting the second one",
+                "first limitation can be avoid by certain measures"
+              ]
+            },
+            {
+              "number": 35,
+              "prompt": "Which one is NOT correct about Meyer's experiments and statements?",
+              "input_type": "radio",
+              "options": [
+                "just after failure in several attempts can people execute dual-task",
+                "Practice can overcome dual-task interference",
+                "Meyer holds a different opinion on Marois's theory",
+                "an existing processor decides whether delay another task or not"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Yes/No/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 36-40 on your answer sheet, write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 36,
+              "prompt": "Longer gap between two presenting tasks means shorter delay toward the second one.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 37,
+              "prompt": "Incapable in human memory cause people sometimes miss the differences when presented two similar images.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 38,
+              "prompt": "Marois has different opinion on the claim that training removes bottleneck effect.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 39,
+              "prompt": "Art Kramer proved there is a correlation between multitasking performance and genders",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 40,
+              "prompt": "The author doesn't believe that effect of practice could bring any variation.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

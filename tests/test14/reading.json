@@ -1,0 +1,318 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "California’s age of Megafires",
+      "text": "<b>A.</b> There's a reason fire squads now battling more than a dozen blazes in southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the notorious Santa Ana winds. The wildfires themselves, experts say, generally are hotter, move faster, and spread more erratically than in the past.\n\n<b>B.</b> The short-term explanation is that the region, which usually has dry summers, has had nine inches less rain than normal this year. Longer term, climate change across the West is leading to hotter days on average and longer fire seasons. Experts say this is likely to yield more megafires like the conflagrations that this week forced evacuations of at least 300,000 resident in California's southland and led President Bush to declare a disaster emergency in seven counties on Tuesday.\n\n<b>C.</b> Megafires, also called \"siege fires,\" are the increasingly frequent blazes that bum 500,000 acres or more - 10 times the size of the average forest fire of 20 years ago. One of the current wildfires is the sixth biggest in California ever, in terms of acreage burned, according to state figures and news reports. The trend to more superhot fires, experts say, has been driven by a century-long policy of the US Forest Service to stop wildfires as quickly as possible. The unintentional consequence was to halt the natural eradication of underbrush, now the primary fuel for megafires. Three other factors contribute to the trend, they add. First is climate change marked by a 1 -degree F. rise in average yearly temperature across the West. Second is a fire season that on average is 78 days longer than in the late 1980s. Third is increased building of homes and other structures in wooded areas.\n\n<b>D.</b> \"We are increasingly building our homes ... in fire-prone ecosystems,\" says Dominik Kulakowski, adjunct professor of biology at Clark University Graduate School of Geography in Worcester, Mass. Doing that \"in many of the forests of the Western US ... is like building homes on the side of an active volcano.\" In California, where population growth has averaged more than 600,000 a year for at least a decade, housing has pushed into such areas. \"What once was open space is now residential homes providing fuel to make fires bum with greater intensity,\" says Terry McHale of the California Department of Forestry firefighters union. \"With so much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.\"\n\n<b>E.</b> That said, many experts give California high marks for making progress on preparedness since 2003, when the largest fires in state history scorched 750,000 acres, burned 3,640 homes, and killed 22 people. Stung then by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood- and canyon-hopping fires better than in recent years, observers say.\n\n<b>F.</b> State promises to provide newer engines, planes, and helicopters have been fulfilled. Firefighters unions that then complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state's commitment, noting that funding for firefighting has increased despite huge cuts in many other programs. \"We are pleased that the Schwarzenegger administration has been very proactive in its support of us and come through with budgetary support of the infrastructure needs we have long sought,\" says Mr. McHale with the firefighters union.\n\n<b>G.</b> Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities as well as the strategies to run them. \"In the fire sieges of earlier years, we found out that we had the willingness of mutual-aid help from other jurisdictions and states, but we were not able to communicate adequately with them,\" says Kim Zagaris, chief of the state's Office of Emergency Services, fire and rescue branch. After a 2004 blue-ribbon commission examined and revamped those procedures, the statewide response \"has become far more professional and responsive,\" he says.\n\n<b>H.</b> Besides ordering the California National Guard on Monday to make 1,500 guardsmen available for firefighting efforts, Gov. Arnold Schwarzenegger asked the Pentagon to send all available Modular Airborne Fighting Systems to the area. The military Lockheed C-130 cargo/utility aircraft carry a pressurized 3,000-gallon tank that can eject fire retardant or water in fewer than five seconds through two tubes at the rear of the plane. This load can cover an area 1/4- mile long and 60 feet wide to create a fire barrier. Governor Schwarzenegger also directed 2,300 inmate firefighters and 170 custody staff from the California Department of Corrections and Rehabilitation to work hand in hand with state and local firefighters.\n\n<b>I.</b> Residents and government officials alike are noting the improvements with gratitude, even amid the loss of homes, churches, businesses, and farms. By Tuesday morning, the fires had burned 1,200 homes and businesses and set 245,957 acres — 384 square miles — ablaze. Despite such losses, there is a sense that he speed, dedication, and coordination of firefighters from several states and jurisdictions are resulting in greater efficiency than in past \"siege fire\" situations.\n\n<b>J.</b> \"I am extraordinarily impressed by the improvements we have witnessed between the last big fire and this,\" says Ross Simmons, a San Diego-based lawyer who had to evacuate both his home and business on Monday, taking up residence at a Hampton Inn 30 miles south of his home in Rancho Bernardo. After fires consumed 172,000 acres there in 2003, the San Diego region turned communitywide soul-searching into improved building codes, evacuation procedures, and procurement of new technology. Mr. Simmons and neighbors began receiving automated phone calls at 3:30 a.m. Monday morning telling them to evacuate. \"Nothwithstanding all the damage that will be caused by this, we will not come close to the loss of life because of what we have ... put in place since then,\" he says.",
+      "questions": [
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the following summary of the paragraphs of Reading Passage，using no more than two words from the Reading Passage for each answer. Write your answers in boxes 1-6 on your answer sheet.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Experts point out that blazes in California are having more heat, faster speed and they _______________ more unpredictably compared with former ones.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 2,
+              "prompt": "One explanation is that California's summer is dry,_______________________ is below the average point.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 3,
+              "prompt": "Another long term explanation is that hotter and longer potential days occur due to ______________________ .",
+              "input_type": "short_text"
+            },
+            {
+              "number": 4,
+              "prompt": "Nowadays, Megafires burn ___________ the size of forest area caused by an ordinary fire of 20 years ago.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 5,
+              "prompt": "The serious trend is mainly caused by well-grown underbrush, which provides _______________ for the siege fires.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 6,
+              "prompt": "Other contributors are climate change and extended_________________.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 7-9 on your answer sheet.",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "What is expert's attitude towards California's performance after 2003 megafire?",
+              "input_type": "radio",
+              "options": [
+                "They could have done better",
+                "Blamed them on casualties",
+                "Improvement made on preparation",
+                "Serious criticism"
+              ]
+            },
+            {
+              "number": 8,
+              "prompt": "According to Governor Schwarzenegger, which one is CORRECT about his effort for firefighting?",
+              "input_type": "radio",
+              "options": [
+                "Schwarzenegger requested successfully for military weapons",
+                "Schwarzenegger led many prison management staff to work together with local fire fighters",
+                "Schwarzenegger acted negatively in recent megafire in California",
+                "Schwarzenegger ordered 1,500 office clerks to join firefighting scene."
+              ]
+            },
+            {
+              "number": 9,
+              "prompt": "What happened to Ross Simmon on the day of megafire break out?",
+              "input_type": "radio",
+              "options": [
+                "He was sleeping till morning",
+                "He was doing business at Hampton Inn",
+                "He suffered employee death on that morning",
+                "He was alarmed by machine calls"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 10-13 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 10,
+              "prompt": "The area of open space in California has declined during the past decade.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 11,
+              "prompt": "Fire squad wants to recruit more firefighters this year.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 12,
+              "prompt": "Firefighters union declared that firefighters have had more improved and supportive facility by the local government.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 13,
+              "prompt": "Before the year of 2004, well coordination and communication between California and other states already existed in fire siege.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "European Heat Wave",
+      "text": "<b>A.</b> It was the summer, scientists now realise, when felt. We knew that summer 2003 was remarkable: global warming at last made itself unmistakably Britain experienced its record high temperature and continental Europe saw forest fires raging out of control, great rivers drying of a trickle and thousands of heat-related deaths. But just how remarkable is only now becoming clean\n\n<b>B.</b> The three months of June, July and August were the warmest ever recorded in western and central Europe, with record national highs in Portugal, Germany and Switzerland as well as Britain. And they were the warmest by a very long way Over a great rectangular block of the earth stretching from west of Paris to northern Italy, taking in Switzerland and southern Germany, the average temperature for the summer months was 3.78°C above the long-term norm, said the Climatic Research Unit (CRU) of the University of East Anglia in Norwich, which is one of the world's lending institutions for the monitoring and analysis of temperature records.\n\n<b>C.</b> That excess might not seem a lot until you are aware of the context - but then you realise it is enormous. There is nothing like this in previous data, anywhere. It is considered so exceptional that Professor Phil Jones, the CRU's director, is prepared to say openly - in a way few scientists have done before - that the 2003 extreme may be directly attributed, not to natural climate variability, but to global wanning caused by human actions.\n\n<b>D.</b> Meteorologists have hitherto contented themselves with the formula that recent high temperatures are consistent with predictions\" of climate change. For the great block of the map 一 that stretching between 3 5-5 ON and 0-20E - the CRU has reliable temperature records dating back to 1781. Using as a baseline the average summer temperature recorded between 1961 and1990, departures from the temperature norm, or \"anomalies': over the area as a whole can easily be plotted. As the graph shows, such is the variability of our climate that over the past 200 years, there have been at least half a dozen anomalies, in terms of excess temperature - the peaks on the graph denoting very hot years - approaching, or even exceeding, 20 °C. But there has been nothing remotely like 2003, when the anomaly is nearly four degrees.\n\n<b>E.</b> \"This is quite remarkable,\" Professor Jones told The Independent. \"It's very unusual in a statistical sense. If this series had a normal statistical distribution, you wouldn't get this number. There turn period “how often it could be expected to recur” would be something like one in a thou-sand years. If we look at an excess above the average of nearly four degrees, then perhaps nearly three degrees of that is natural variability, because we’ve seen that in past summers. But the final degree of it is likely to be due to global warming, caused by human actions.\n\n<b>F.</b> The summer of 2003 has, in a sense, been one that climate scientists have long been expecting. Until now, the warming has been manifesting itself mainly in winters that have been less cold than in summers that have been much hotter. Last week, the United Nations predicted that winters were warming so quickly that winter sports would die out in Europe's lower-level ski resorts. But sooner or later the unprecedented hot summer was bound to come, and this year it did.\n\n<b>G.</b> One of the most dramatic features of the summer was the hot nights, especially in the first half of August. In Paris, the temperature never dropped below 230°C (73.40°F) at all between 7 and 14 August, and the city recorded its warmest-ever night on 11-12 August, when the mercury did not drop below 25.50°C (77.90°F). Germany recorded its warmest-ever night at Weinbiet in the Rhine valley with a lowest figure of 27.60°C (80.60°F) on 13 August, and similar record-breaking night-time temperatures were recorded in Switzerland and Italy.\n\n<b>H.</b> The 15,000 excess deaths in France during August, compared with previous years, have been related to the high night-time temperatures. The number gradually increased during the first 12 days of the month, peaking at about 2,000 per day on the night of 12-13 August, then fell off dramatically after 14 August when the minimum temperatures fell by about 50C. The elderly were most affected, with a 70 per cent increase in mortality rate in those aged 75-94.\n\n<b>I.</b> For Britain, the year as a whole is likely to be the warmest ever recorded, but despite the high temperature record on 10 August, the summer itself - defined as the June, July and August period - still comes behind 1976 and 1995，when there were longer periods of intense heat. At the moment, the year is on course to be the third-hottest ever in the global temperature record, which goes back to 1856, behind 1998 and 2002 but when all the records for October, November and December are collated, it might move into second place, Professor Jones said. The 10 hottest years in the record have all now occurred since 1990. Professor Jones is in no doubt about the astonishing nature of European summer of 2003.\"The temperatures recorded were out of all proportion to the previous record,\" he said. \"It was the warmest summer in the past 500 years and probably way beyond that It was enormously exceptional.\"\n\n<b>J.</b> His colleagues at the University of East Anglia's Tyndall Centre for Climate Change Research are now planning a special study of it. \"It was a summer that has not: been experienced before, either in terms of the temperature extremes that were reached, or the range and diversity of the impacts of the extreme heat,\" said the centre’s executive director, Professor Mike Hulme. \"It will certainly have left its mark on a number of countries, as to how they think and plan for climate change in the future, much as the 2000 floods have revolutionised the way the Government is thinking about flooding in the UK. \"The 2003 heat wave will have similar repercussions across Europe.\"",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "<b>PASSAGE 2</b> \n\n Do the following statements agree with the information given in Reading Passage 2? In boxes 14-19 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "The average summer temperature in 2003 is approximately four degrees higher than that of the past.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 15,
+              "prompt": "Jones believes the temperature statistic is within the normal range.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 16,
+              "prompt": "Human factor is one of the reasons that caused hot summer.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 17,
+              "prompt": "In large city, people usually measure temperature twice a day.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 18,
+              "prompt": "Global warming has obvious effect of warmer winter instead of hotter summer before 2003.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 19,
+              "prompt": "New ski resorts are to be built on a high-altitude spot.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Short Answer Questions",
+          "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR NUMBERS from the passage for each answer. Write your answers in boxes 20-21 on your answer sheet",
+          "questions": [
+            {
+              "number": 20,
+              "prompt": "What are the two hottest years in Britain besides 2003?",
+              "input_type": "short_text"
+            },
+            {
+              "number": 21,
+              "prompt": "What will affect UK government policies besides climate change according to Hulme?",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary below using NO MORE THAN THREE WORDS AND/OR NUMBERS from the passage. Write your answers in boxes 22-26 On your answer sheet",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "In the summer of 2003, thousands of extra death occurred in the country of______________ .",
+              "input_type": "short_text"
+            },
+            {
+              "number": 23,
+              "prompt": "Moreover, world-widely, the third record of hottest summer date from ________________ , after the year of _______(24)______ .",
+              "input_type": "short_text"
+            },
+            {
+              "number": 24,
+              "prompt": "after the year of _____________ .",
+              "input_type": "short_text"
+            },
+            {
+              "number": 25,
+              "prompt": " According to Jones, all the 10 hottest years happened from ______________ .",
+              "input_type": "short_text"
+            },
+            {
+              "number": 26,
+              "prompt": "However, summer of 2003 was at the peak of previous _______________ years, perhaps even more.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter A, B, C or D",
+          "questions": [
+            {
+              "number": 27,
+              "prompt": "Which one can be best served as the title of this passage in the following options?",
+              "input_type": "radio",
+              "options":[
+                "Global Warming effect",
+                "Global Warming in Europe",
+                "The Effects of hot temperature",
+                "Hottest summer in Europe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The concept of childhood in the western countries",
+      "text": "The history of childhood has been a topic of interest in social history since the highly influential 1960 book Centuries of Childhood, written by French historian Philippe Aries. He argued that \"childhood” is a concept created by modern society.\n\n<b>A.</b> One of the most hotly debated issues in the history of childhood has been whether childhood is itself a recent invention. The historian Philippe Aries argued that in Western Europe during the Middle Ages (up to about the end of the fifteenth century) children were regarded as miniature adults, with all the intellect and personality that this implies. He scrutinized medieval pictures and diaries, and found no distinction between children and adults as they shared similar leisure activities and often the same type of work. Aries, however, pointed out that this is not to suggest that children were neglected, forsaken or despised. The idea of childhood is not to be confused with affection for children; it corresponds to an awareness of the particular nature of childhood, that particular nature which distinguishes the child from the adult, even the young adult.\n\n<b>B.</b> There is a long tradition of the children of the poor playing a functional role in contributing to the family income by working either inside or outside the home. In this sense children are seen as ‘useful. Back in the Middle Ages, children as young as 5 or 6 did important chores for their parents and, from the sixteenth century, were often encouraged (or forced) to leave the family by the age of 9 or 10 to work as servants for wealthier families or to be apprenticed to a trade.\n\n<b>C.</b> With industrialization in the eighteenth and nineteenth centuries, a new demand for child labour was created, and many children were forced to work for long hours, in mines, workshops and factories. Social reformers began to question whether labouring long hours from an early age would harm children's growing bodies. They began to recognize the potential of carrying out systematic studies to monitor how far these early deprivations might be affecting children's development.\n\n<b>D.</b> Gradually, the concerns of the reformers began to impact on the working conditions of children. In Britain, the Factory Act of 1833 signified the beginning of legal protection of children from exploitation and was linked to the rise of schools for factory children. The worst forms of child exploitation were gradually eliminated, partly through factory reform but also through the influence of trade unions and economic changes during the nineteenth century which made some forms of child labour redundant. Childhood was increasingly seen as a time for play and education for all children, not just for a privileged minority. Initiating children into work as 'useful' children became less of a priority. As the age for starting full-time work was delayed, so childhood was increasingly understood as a more extended phase of dependency, development and learning. Even so, work continued to play a significant, if less central role in children's lives throughout the later nineteenth and twentieth century. And the 'useful child, has become a controversial image during the first decade of the twenty-first century especially in the context of global concern about large numbers of the world's children engaged in child labour .\n\n<b>E.</b> The Factory Act of 1833 established half-time schools which allowed children to work and attend school. But in the 1840s, a large proportion of children never went to school, and if they did, they left by the age of 10 or11. The situation was very different by the end of the nineteenth century in Britain. The school became central to images of7a normal childhood .\n\n<b>F.</b> Attending school was no longer a privilege and all children were expected to spend a significant part of their day in a classroom. By going to school, children's lives were now separated from domestic life at home and from the adult world of work. School became an institution dedicated to shaping the minds, behaviour and morals of the young. Education dominated the management of children's waking hours, not just through the hours spent in classrooms but through /home/ work, the growth of after school7 activities and the importance attached to 'parental involvement.\n\n<b>G.</b> Industrialization, urbanization and mass schooling also set new challenges for those responsible for protecting children's welfare, and promoting their learning. Increasingly, children were being treated as a group with distinctive needs and they were organized into groups according to their age. For example, teachers needed to know what to expect of children in their classrooms, what kinds of instruction were appropriate for different age groups and how best to assess children's progress. They also wanted tools that could enable them to sort and select children according to their abilities and potential.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "<b>PASSAGE 3</b> \n\n Do the following statements agree with the information given in Reading Passage 3? Write your answers in boxes 28-34 on your answer sheet.",
+          "questions": [
+            {
+              "number": 28,
+              "prompt": "Aries pointed out that children did different types of work as adults during the Middle Age.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 29,
+              "prompt": "During the Middle Age, going to work necessarily means children were unloved indicated by Aries.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 30,
+              "prompt": "Scientists think that overworked labour damages the health of young children",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 31,
+              "prompt": "the rise of trade union majorly contributed to the protection children from exploitation in 19th century",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 32,
+              "prompt": "By the aid of half-time schools, most children went to school in the mid of 19 century.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 33,
+              "prompt": "In 20 century almost all children need to go to school in full time schedule.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 34,
+              "prompt": "Nowadays, children's needs were much differentiated and categorised based on how old they are",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Short Answer Questions",
+          "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 35-40 on your answer sheet.",
+          "questions": [
+            {
+              "number": 35,
+              "prompt": "what is the controversial topic arises with the French historian Philippe Aries's concept",
+              "input_type": "short_text"
+            },
+            {
+              "number": 36,
+              "prompt": "what image for children did Aries believed to be like in Western Europe during the Middle Ages",
+              "input_type": "short_text"
+            },
+            {
+              "number": 37,
+              "prompt": "what historical event generated the need for great amount child labour to work long time in 18 and 19 century",
+              "input_type": "short_text"
+            },
+            {
+              "number": 38,
+              "prompt": "what legal format initiated the protection of children from exploitation in 19th centenary",
+              "input_type": "short_text"
+            },
+            {
+              "number": 39,
+              "prompt": "what the activities were more and more regarded as being preferable for almost all children time in 19th centenary",
+              "input_type": "short_text"
+            },
+            {
+              "number": 40,
+              "prompt": "where has been the central area for children to spend largely of their day as people's expectation in modern society",
+              "input_type": "short_text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

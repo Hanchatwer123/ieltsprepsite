@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nBelow is a map of the city of Brandfield. City planners have decided to build a new shopping mall for the area, and two sites, S1 and S2 have been proposed.\n\nSummarize the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nIn recent years, the family structure has changed, as well as family roles. What are the changes occurring? Do you think these changes are positive or negative?\n\nGive reasons for your answer and include any relevant examples from your own knowledge or experience.\n\nYou should write at least 250 words."
+}

@@ -1,0 +1,345 @@
+{
+  "test_id": "test14",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "notes_completion",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "The sports coaching is done by sports science students, who are supervised by ________ with more experience.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "All staff have an enhanced police check and company training. They are also trained in ________ and there’s a hospital nearby.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Dominic will need warm clothing and changes of clothing in case of bad weather. If weather is bad, everyone will move into the ________ of Wentmount School.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "Food: Group Lunches - Basic starter; hot main course; ________ to finish with.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "Dominic will need his sports equipment that he wants to bring and some ________ for between meals.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 6,
+          "prompt": "Timings: Afternoon Session 1.30 p.m. - _______ p.m.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "multiple_question_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {
+          "number": 7,
+          "prompt": "Dominic’s favourite sport is",
+          "input_type": "dropdown",
+          "options": [
+            "A. cricket.",
+            "B. swimming.",
+            "C. football."
+          ]
+        },
+        {
+          "number": 8,
+          "prompt": "Mrs. Davis says that the instructors should know that",
+          "input_type": "dropdown",
+          "options": [
+            "A. Dominic’s legs are weak.",
+            "B. Dominic will have to go to hospital at the start of the summer.",
+            "C. Dominic broke his arm during the winter."
+          ]
+        },
+        {
+          "number": 9,
+          "prompt": "The first week of the camp, Dominic will",
+          "input_type": "dropdown",
+          "options": [
+            "A. be picked up by his mother.",
+            "B. go home by bus.",
+            "C. walk home with friends."
+          ]
+        },
+        {
+          "number": 10,
+          "prompt": "To keep Dominic’s reserved place on the sports camp, Mrs. Davis has to return the form",
+          "input_type": "dropdown",
+          "options": [
+            "A. within two weeks.",
+            "B. the next day.",
+            "C. within a week."
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "multiple_question_dropdown",
+      "instructions": "Match the situation given (questions 11 - 15) with the advice given in the listening by Police Constable Dawson (A - I).",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "Your bicycle has been stolen.",
+          "input_type": "dropdown",
+          "options":[
+            "A. Cancel your bank cards.",
+            "B. Establish a security routine.",
+            "C. Find a secure storage place for your bank cards.",
+            "D. Go to a nearby shop and explain what has happened.",
+            "E. Make sure a photo and description goes to the police.",
+            "F. Hide behind a nearby car.",
+            "G. Burn them.",
+            "H. Buy a paper shredder.",
+            "I. Search the nearby area."
+          ]
+        },
+        {
+          "number": 12,
+          "prompt": "You are worried that someone is following you.",
+          "input_type": "dropdown",
+          "options":[
+            "A. Cancel your bank cards.",
+            "B. Establish a security routine.",
+            "C. Find a secure storage place for your bank cards.",
+            "D. Go to a nearby shop and explain what has happened.",
+            "E. Make sure a photo and description goes to the police.",
+            "F. Hide behind a nearby car.",
+            "G. Burn them.",
+            "H. Buy a paper shredder.",
+            "I. Search the nearby area."
+          ]
+        },
+        {
+          "number": 13,
+          "prompt": "You’ve bought a car.",
+          "input_type": "dropdown",
+          "options":[
+            "A. Cancel your bank cards.",
+            "B. Establish a security routine.",
+            "C. Find a secure storage place for your bank cards.",
+            "D. Go to a nearby shop and explain what has happened.",
+            "E. Make sure a photo and description goes to the police.",
+            "F. Hide behind a nearby car.",
+            "G. Burn them.",
+            "H. Buy a paper shredder.",
+            "I. Search the nearby area."
+          ]
+        },
+        {
+          "number": 14,
+          "prompt": "Your house is broken into, but your bank cards are not taken.",
+          "input_type": "dropdown",
+          "options":[
+            "A. Cancel your bank cards.",
+            "B. Establish a security routine.",
+            "C. Find a secure storage place for your bank cards.",
+            "D. Go to a nearby shop and explain what has happened.",
+            "E. Make sure a photo and description goes to the police.",
+            "F. Hide behind a nearby car.",
+            "G. Burn them.",
+            "H. Buy a paper shredder.",
+            "I. Search the nearby area."
+          ]
+        },
+        {
+          "number": 15,
+          "prompt": "You need to throw away some documents that have sensitive information.",
+          "input_type": "dropdown",
+          "options":[
+            "A. Cancel your bank cards.",
+            "B. Establish a security routine.",
+            "C. Find a secure storage place for your bank cards.",
+            "D. Go to a nearby shop and explain what has happened.",
+            "E. Make sure a photo and description goes to the police.",
+            "F. Hide behind a nearby car.",
+            "G. Burn them.",
+            "H. Buy a paper shredder.",
+            "I. Search the nearby area."
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "sentence_completion",
+      "instructions": "Complete the sentences below. Use NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "_______ is what allows cell phone thieves to succeed.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "Pickpockets like stealing in busy ________, so be extra aware in these places.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "People leaving subway stations often have their cell phones stolen when they look to see if they have a _________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "People should consult their _________ to find out how to switch on the security features available on their cell phones.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "If your cell phone is stolen, the police have to know more than its __________ and colour if they are to get it back to you.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "summary_completion",
+      "instructions": "Complete the summary below on the Kenyan flower industry. Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "The Kenyan flower industry is Kenya’s largest after ________ and tea and has increased by 31% over the last 5 years.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 22,
+          "prompt": "Originally started to contribute to British East Africa’s ________, it continued to flourish after independence due to its geographical position and variety of climate conditions.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 23,
+          "prompt": "Economic advantages, such as beneficial ________ have kept costs low and good logistics have been set up to service world flower markets.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 24,
+          "prompt": "Labour and energy costs are also low and there is no ________ on European exports from Kenya.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 25,
+          "prompt": "Floriculture is Kenya’s 2nd highest foreign exchange earner and it generates plenty of ________ for Kenya’s public economy - 50,000 to 70,000 people are employed directly and 1½ million people indirectly.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "table_completion",
+      "instructions": "Complete the table below on problems and criticisms of the Kenyan flower industry. Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "High oil prices: Increased ________ costs",
+          "input_type": "short_text"
+        },
+        {
+          "number": 27,
+          "prompt": "Competition: Competition getting fiercer due to the numbers of roses produced and better ________ from the competition.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 28,
+          "prompt": "Water usage: Lakes have declined in level and ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 29,
+          "prompt": "Pollution: Attempts at improvement by increasing the price of ________ and other regulatory measures - political and tribal issues have resisted these attempted efforts.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "Outdated Farm methods: More organic ways of ________ are being used.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "summary_completion",
+      "instructions": "Complete the flow chart that summarises the cotton growing process. Use NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "Planting - seeds planted at a fixed depths and ________.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 32,
+          "prompt": "Weed Control - weeds can affect yields. Addressed with close cultivation and seeds planted deep into ________ - weeds high and dry.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 33,
+          "prompt": "Insect Management - Insects can destroy the crop - some plants compensate by producing more ________.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 34,
+          "prompt": "Irrigation - Cotton very efficient with water: cotton generates more ________ for 1 gallon of water than other US crops.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 35,
+          "prompt": "Harvesting - This must be done before bad weather comes. It’s done by ________ in the US - stripper harvesters and spindle pickers used.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 36,
+          "prompt": "Storage - After quality assessment, cotton sold or stored. If stored in a government- approved warehouse, it can be used as security for a ________.",
+          "input_type": "short_text"
+          
+        },
+        {
+          "number": 37,
+          "prompt": "Cottonseed - byproduct from the cotton crop. Used as salad oil or high ________ animal feed.",
+          "input_type": "short_text"
+          
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "diagram_labeling",
+      "instructions": "Complete the diagram below of the three nozzle positions for crop-spraying cotton. Write NO MORE THAN THREE WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 38,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 39,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "",
+          "input_type": "short_text"
+        }
+      ],
+      "image": "diagram.png"
+    }
+  ]
+}
