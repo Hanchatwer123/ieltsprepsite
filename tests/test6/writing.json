@@ -1,0 +1,5 @@
+{
+  "task1_image": "task1.png",
+  "task1_instructions": "You should spend about 20 minutes on this task.\n\nThe bar charts below show the prevalence of obesity among boys and girls aged 12 to 19 years by ethnicity, in the United States for the years 2004 and 2014.\n\nSummarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nYou should write at least 150 words.",
+  "task2_prompt": "You should spend about 40 minutes on this task.\n\nSome people think that the best way to reduce crime is to give longer prison sentences. Others believe there are more effective methods.\n\nDiscuss both views and give your opinion.\n\nYou should write at least 250 words."
+}

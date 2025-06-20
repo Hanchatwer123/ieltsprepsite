@@ -1,0 +1,257 @@
+{
+  "test_id": "test6",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "form_completion",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Policy Holders’ Names: ________ Hudson",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "Address: ________ Battersea Avenue, Endford",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Policy Number: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "Policy Number: ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "Police Case Number: 315 166 ________",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "multiple_choice_checkbox",
+      "instructions": "What FIVE things from the list below will Mrs. Hudson claim on from her home insurance?",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "(Q6–10)",
+          "input_type": "checkbox",
+          "max_choices": 5,
+          "options": [
+            "A. A window",
+            "B. A door",
+            "C. The house locks",
+            "D. Jewelry",
+            "E. Silver tie pin",
+            "F. Silver picture frame",
+            "G. About 500 pounds cash ",
+            "H. A picture",
+            "I. An antique vase",
+            "J. A porcelain vase"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "map_labeling",
+      "instructions": "Label the map below. Write the correct letter A–G.",
+      "image": "map.png",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "The lifeguards’ shed",
+          "input_type": "short_text"
+        },
+        {
+          "number": 12,
+          "prompt": "The lifeguards’ shed",
+          "input_type": "short_text"
+        },
+        {
+          "number": 13,
+          "prompt": "Rent a chair",
+          "input_type": "short_text"
+        },
+        {
+          "number": 14,
+          "prompt": "The restaurant",
+          "input_type": "short_text"
+        },
+        {
+          "number": 15,
+          "prompt": "Rent a kayak",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "short_answer",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER.",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "When will Murder in the Library finish?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "What is between the Playhouse Theatre and the Summer Showhouse?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "Where does the speaker recommend to watch the firework display?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "Where will the culinary festival be held?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "How does the speaker advise the listeners to go to the Comedy Club?",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "sentence_completion",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "Richard said he wanted to study a language from outside  ________ before he went to university.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 22,
+          "prompt": "The tennis club allowed Richard to work without a ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 23,
+          "prompt": "Richard found the ________ of Arabic very easy.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 24,
+          "prompt": "Richard found that he improved his spoken Arabic most in ________ after work",
+          "input_type": "short_text"
+        },
+        {
+          "number": 25,
+          "prompt": "Richard said that the ________ of some restaurants’ food was not so good.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "form_completion",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER.",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "The two languages I will study at university will be ________ and French.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 27,
+          "prompt": "Seminars (6 - 10 people) to discuss set readings - focus on fluency and ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 28,
+          "prompt": "What is studied at a foreign university must be an ________;the university has a list.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 29,
+          "prompt": "Student can arrange work placements themselves or the university can use its ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "Eatly June: Two ________ exams",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "table_completion",
+      "instructions": "Complete the table. Write NO MORE THAN THREE WORDS.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt":"The ability to make fire spread slowly around the world due to the natural constraints of rain and wind; it’s also difficult to _______ fire.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 32,
+          "prompt":"The Chinese's date: 5th - _______ century AD",
+          "input_type": "short_text"
+        },
+        {
+          "number": 33,
+          "prompt":"Hennig Brandt's Notes: Explored the _________ of pure phosphorus. Very useful for later inventors.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt":"Jean Chancel's Notes: Created the 1st match, but not like today’s. Sticks tipped with chemicals dipped into sulphuric acid to create fire. The fire released _______ that could make users sick.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 35,
+          "prompt":"John Walker's 1826 period notes: This method used __________ to ignite the match in a fold of sandpaper.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 36,
+          "prompt":"John Walker's 1827 - 1829 notes: Walker’s matches popularised, but lost popularity and later banned because of their _______.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 37,
+          "prompt":"Charles Sauria's by 1850's notes: Effective, but the match’s habit of _______ led to their ban as well.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 38,
+          "prompt":"Johan Lundström's the late 1840's notes: Used red phosphorus, but on the _______, not the match, which was healthier and safer.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "diagram_labeling",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        {
+          "number": 39,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "",
+          "input_type": "short_text"
+        }
+      ],
+      "image": "diagram.png"
+    }
+  ]
+}
