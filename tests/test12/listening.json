@@ -1,0 +1,348 @@
+{
+  "test_id": "test12",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Circle the correct letters A - C.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "Graham and Sophie’s first night in Oban is on the",
+          "input_type": "dropdown",
+          "options": [
+            "A. 7th July.",
+            "B. 8th July.",
+            "C. 13th July."
+          ]
+        },
+        {
+          "number": 2,
+          "prompt": "Graham and Sophie plan to travel to Oban by",
+          "input_type": "dropdown",
+          "options": [
+            "A. car.",
+            "B. bus.",
+            "C. train."
+          ]
+        },
+        {
+          "number": 3,
+          "prompt": "Sophie said that she’d check places to stay in, but",
+          "input_type": "dropdown",
+          "options": [
+            "A. she only ordered some magazines.",
+            "B. she didn't do anything.",
+            "C. she only checked a few things on the internet."
+          ]
+        },
+        {
+          "number": 4,
+          "prompt": "In Oban, Graham and Sophie will stay",
+          "input_type": "dropdown",
+          "options": [
+            "A. in a hostel.",
+            "B. in a guest house.",
+            "C. in a hotel."
+          ]
+        },
+        {
+          "number": 5,
+          "prompt": "Graham and Sophie’s booking for accommodation will include",
+          "input_type": "dropdown",
+          "options": [
+            "A. breakfast but not dinner.",
+            "B. breakfast and dinner.",
+            "C. neither breakfast nor dinner."
+          ]
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "table_completion",
+      "instructions": "Write NO MORE THAN TWO WORDS OR A NUMBER from the listening for each answer.",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "Hike 1's difficulty: Easy (no ________)",
+          "input_type": "short_text"
+        },
+        {
+          "number": 7,
+          "prompt": "Hike 1's notes: Lunch in Dunbeg and then take a ________ home (around 15 minutes)",
+          "input_type": "short_text"
+        },
+        {
+          "number": 8,
+          "prompt": "Hike 2's distance: About ________ miles in length",
+          "input_type": "short_text"
+        },
+        {
+          "number": 9,
+          "prompt": "Hike 2's notes: Go slowly - look around the castle and have a ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 10,
+          "prompt": "We can buy a ________ on the ferry ",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "checkbox",
+      "instructions": "Choose TWO letters, A - F.",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "Where did the money come from to buy the town’s new museum’s building?",
+          "input_type": "checkbox",
+          "max_choices": 2,
+          "options": [
+            "A. from the local Weyport town council",
+            "B. from money collected from the general public",
+            "C. from the previous town museum",
+            "D. from the previous museum director",
+            "E. from a local business",
+            "F. from the central arts council"
+          ]
+        }
+      ]
+    },{
+      "part": 2,
+      "type": "checkbox",
+      "instructions": "Choose THREE letters, A - G.",
+      "questions":[
+        {
+          "number": 13,
+          "prompt": "What has the town’s new museum’s building been used for since it was built?",
+          "input_type": "checkbox",
+          "max_choices": 3,
+          "options": [
+            "A. An office building",
+            "B. The fire service",
+            "C. An insurance company",
+            "D. Keeping council property",
+            "E. An army centre",
+            "F. The council education department",
+            "G. The council housing department"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "map_labeling",
+      "instructions": "Write the correct letter A–I.",
+      "image": "map.png",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "The bathrooms",
+          "input_type": "short_text"
+        },
+        {
+          "number": 17,
+          "prompt": "Paintings",
+          "input_type": "short_text"
+        },
+        {
+          "number": 18,
+          "prompt": "Silverware",
+          "input_type": "short_text"
+        },
+        {
+          "number": 19,
+          "prompt": "Film",
+          "input_type": "short_text"
+        },
+        {
+          "number": 20,
+          "prompt": "Toys",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Complete the flow chart that summarises the students’ planning of their field trip. Choose FIVE answers from the list below (A - H) and write the correct letter next to questions 21 - 25.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "The students needed to decide on their ________ for their field trip",
+          "input_type": "dropdown",
+          "options": [
+            "A. location",
+            "B. equipment",
+            "C. computer",
+            "D. transport",
+            "E. accommodation",
+            "F. dates",
+            "G. provisions",
+            "H. duration"
+          ]
+        },
+        {
+          "number": 22,
+          "prompt": "The students needed to choose a precise ________ for their field trip.",
+          "input_type": "dropdown",
+          "options": [
+            "A. location",
+            "B. equipment",
+            "C. computer",
+            "D. transport",
+            "E. accommodation",
+            "F. dates",
+            "G. provisions",
+            "H. duration"
+          ]
+        },
+        {
+          "number": 23,
+          "prompt": "The students had to estimate the ________ of their survey.",
+          "input_type": "dropdown",
+          "options": [
+            "A. location",
+            "B. equipment",
+            "C. computer",
+            "D. transport",
+            "E. accommodation",
+            "F. dates",
+            "G. provisions",
+            "H. duration"
+          ]
+        },
+        {
+          "number": 24,
+          "prompt": "The students decided that they need to reserve their ________.",
+          "input_type": "dropdown",
+          "options": [
+            "A. location",
+            "B. equipment",
+            "C. computer",
+            "D. transport",
+            "E. accommodation",
+            "F. dates",
+            "G. provisions",
+            "H. duration"
+          ]
+        },
+        {
+          "number": 25,
+          "prompt": "The students will have to decide if they should take some ________ with them.",
+          "input_type": "dropdown",
+          "options": [
+            "A. location",
+            "B. equipment",
+            "C. computer",
+            "D. transport",
+            "E. accommodation",
+            "F. dates",
+            "G. provisions",
+            "H. duration"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "sentence_completion",
+      "instructions": "Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "Cliff - made up mostly of ________ and clay.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 27,
+          "prompt": "Sea approaches cliff only at ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 28,
+          "prompt": "An ________ is created by the force of the waves.",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "question_answering",
+      "instructions": "Answer the questions below. Use NO MORE THAN THREE WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 29,
+          "prompt": "Which organisation monitors the coastal cliff erosion where the students will be going?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "What does Alan say the students should bring in case they run into any danger?",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "summary_completion",
+      "instructions": "Complete the summary below on the lecture on the Wechsler-Belleview Intelligence Scale. Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "Wechsler believed intelligence was made up of different skills considered within the context of the ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 32,
+          "prompt": "His intelligence scale broke away from existing intelligence tests and set up a numerical scale with the ________ set at 100.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 33,
+          "prompt": "Wechsler decided to create a test to measure these different skills that made up intelligence. The 2 main areas tested were ________ and performance and these were then broken down to 14 sub-tests, 7 for each.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt": "These 14 topics remain the basis for today’s WBIS, which is today’s most commonly used ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 35,
+          "prompt": "The WBIS is aimed at adults; for younger children other related scales are used, neither of which need ________ in a child.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 36,
+          "prompt": "The WBIS is not suitable for assessing ________ of intelligence or of the age range.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 37,
+          "prompt": "For any of these situations, care should be taken with ________ of the results.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 38,
+          "prompt": "The WBIS can also be used for neuropsychological assessment. Differences in answers can indicate types of ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 39,
+          "prompt": "Although experts say the WBIS is best used only for intelligence, it is used to compare cognitive development and performance in social skills or at ________.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "The WBIS is highly regarded as an intelligence test and is often used as a point of comparison for other tests when assessing their ________ and validity.",
+          "input_type": "short_text"
+        }
+      ]
+    }
+  ]
+}
