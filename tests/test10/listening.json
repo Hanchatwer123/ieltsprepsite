@@ -1,0 +1,402 @@
+{
+  "test_id": "test10",
+  "section": "Listening",
+  "parts": [
+    {
+      "part": 1,
+      "type": "form_completion",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questions": [
+        {
+          "number": 1,
+          "prompt": "How many bedrooms does Charlotte want?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 2,
+          "prompt": "How much per week is Charlotte planning to spend on rent?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 3,
+          "prompt": "Which room does Charlotte want partially furnished?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 4,
+          "prompt": "What would Charlotte be responsible for if she rented an apartment with a garden?",
+          "input_type": "short_text"
+        },
+        {
+          "number": 5,
+          "prompt": "What commission does Anglian Estates charge for arranging an apartment rental?",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 1,
+      "type": "note_completion",
+      "instructions": "Write NO MORE THAN TWO WORDS from the listening for each answer.",
+      "questions": [
+        {
+          "number": 6,
+          "prompt": "Grantham Gardens: First floor; Recently ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 7,
+          "prompt": "Grantham Gardens: Quite a high ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 8,
+          "prompt": "Lawrence Close: Ground floor flat - access to garden from the ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 9,
+          "prompt": "Lawrence Close: Not walking distance to St. Mary’s, but there is a ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 10,
+          "prompt": "Greene Road: ________ kitchen and living room",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "map_labeling",
+      "instructions": "Choose the correct letter A–K.",
+      "image": "map.png",
+      "questions": [
+        {
+          "number": 11,
+          "prompt": "The Tourist Information Office",
+          "input_type": "short_text"
+        },
+        {
+          "number": 12,
+          "prompt": "The Town Hall",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "multiple_choice_checkbox",
+      "instructions": "Choose THREE letters, A–K.",
+      "questions": [
+        {
+          "number": 13,
+          "prompt": "Which THREE of the following can happen at the new citizens advice office?",
+          "input_type": "checkbox",
+          "max_choices": 3,
+          "options": [
+            "A. They can find people a job",
+            "B. They can tell people about their holiday rights at their jobs",
+            "C. They can give people advice on debt",
+            "D. They can give people loans",
+            "E. They can tell people how to pay a tax bill",
+            "F. They can give details to people of a good accountant to use"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 2,
+      "type": "matching",
+      "instructions": "Match the situations (16–20) with the appropriate room (A–I).",
+      "questions": [
+        {
+          "number": 16,
+          "prompt": "You’re new to the area and you want to find a school for your children.",
+          "input_type": "dropdown",
+          "options": [
+            "A. Reception",
+            "B. Room 1",
+            "C. Room 2",
+            "D. Room 4",
+            "E. Room 9",
+            "F. Room 18",
+            "G. Room 25",
+            "H. Room 27",
+            "I. Room 29"
+          ]
+        },
+        {
+          "number": 17,
+          "prompt": "You want to give money to the citizens advice office to help them.",
+          "input_type": "dropdown",
+          "options": [
+            "A. Reception",
+            "B. Room 1",
+            "C. Room 2",
+            "D. Room 4",
+            "E. Room 9",
+            "F. Room 18",
+            "G. Room 25",
+            "H. Room 27",
+            "I. Room 29"
+          ]
+        },
+        {
+          "number": 18,
+          "prompt": "You’ve been sacked from your job and you think it’s unfair.",
+          "input_type": "dropdown",
+          "options": [
+            "A. Reception",
+            "B. Room 1",
+            "C. Room 2",
+            "D. Room 4",
+            "E. Room 9",
+            "F. Room 18",
+            "G. Room 25",
+            "H. Room 27",
+            "I. Room 29"
+          ]
+        },
+        {
+          "number": 19,
+          "prompt": "You want to apply for unemployment money and you don’t know if you’re eligible.",
+          "input_type": "dropdown",
+          "options": [
+            "A. Reception",
+            "B. Room 1",
+            "C. Room 2",
+            "D. Room 4",
+            "E. Room 9",
+            "F. Room 18",
+            "G. Room 25",
+            "H. Room 27",
+            "I. Room 29"
+          ]
+        },
+        {
+          "number": 20,
+          "prompt": "You’ve bought a second hand car from a showroom, but it’s not working properly and the showroom won’t help you.",
+          "input_type": "dropdown",
+          "options": [
+            "A. Reception",
+            "B. Room 1",
+            "C. Room 2",
+            "D. Room 4",
+            "E. Room 9",
+            "F. Room 18",
+            "G. Room 25",
+            "H. Room 27",
+            "I. Room 29"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "matching",
+      "instructions": "Match the invention (21–25) with the business, industry or process it affected.",
+      "questions": [
+        {
+          "number": 21,
+          "prompt": "The Aerosol Spray",
+          "input_type": "dropdown",
+          "options": [
+            "A. The mobile phone business",
+            "B. The paint business",
+            "C. The sunglasses business",
+            "D. The ship building industry",
+            "E. The photography business",
+            "F. The clothing industry",
+            "G. Navigation"
+          ]
+        },
+        {
+          "number": 22,
+          "prompt": "The Spinning Machine",
+          "input_type": "dropdown",
+          "options": [
+            "A. The mobile phone business",
+            "B. The paint business",
+            "C. The sunglasses business",
+            "D. The ship building industry",
+            "E. Photography business",
+            "F. The clothing industry",
+            "G. Navigation"
+          ]
+        },
+        {
+          "number": 23,
+          "prompt": "The Battery",
+          "input_type": "dropdown",
+          "options": [
+            "A. The mobile phone business",
+            "B. The paint business",
+            "C. The sunglasses business",
+            "D. The ship building industry",
+            "E. Photography business",
+            "F. The clothing industry",
+            "G. Navigation"
+          ]
+        },
+        {
+          "number": 24,
+          "prompt": "The Sextant",
+          "input_type": "dropdown",
+          "options": [
+            "A. The mobile phone business",
+            "B. The paint business",
+            "C. The sunglasses business",
+            "D. The ship building industry",
+            "E. Photography business",
+            "F. The clothing industry",
+            "G. Navigation"
+          ]
+        },
+        {
+          "number": 25,
+          "prompt": "Light Polarisers",
+          "input_type": "dropdown",
+          "options": [
+            "A. The mobile phone business",
+            "B. The paint business",
+            "C. The sunglasses business",
+            "D. The ship building industry",
+            "E. Photography business",
+            "F. The clothing industry",
+            "G. Navigation"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {
+          "number": 26,
+          "prompt": "What was the problem with using quick dry ink in fountain pens?",
+          "input_type": "dropdown",
+          "options": [
+            "A. The ink did not flow in the pen properly",
+            "B. The ink was too soft",
+            "C. The ink was too acidic"
+          ]
+        },
+        {
+          "number": 27,
+          "prompt": "Who first produced a pen with a metal ball bearing at the end of a pen?",
+          "input_type": "dropdown",
+          "options": [
+            "A. Lazlo Biro",
+            "B. John Loud",
+            "C. An unknown earlier inventor"
+          ]
+        },
+        {
+          "number": 28,
+          "prompt": "In which country did Biro first manufacture his ball point pens?",
+          "input_type": "dropdown",
+          "options": [
+            "A. The UK",
+            "B. Argentina",
+            "C. The US"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 3,
+      "type": "diagram_completion",
+      "instructions": "Write NO MORE THAN THREE WORDS from the listening for each answer.",
+      "image": "diagram.png",
+      "questions": [
+        {
+          "number": 29,
+          "prompt": "",
+          "input_type": "short_text"
+        },
+        {
+          "number": 30,
+          "prompt": "",
+          "input_type": "short_text"
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "multiple_choice_dropdown",
+      "instructions": "Choose the correct letter A, B, or C.",
+      "questions": [
+        {
+          "number": 31,
+          "prompt": "Domesticated rice has experienced:",
+          "input_type": "dropdown",
+          "options": [
+            "A. The introduction of improved fertilisers in order to make it grow.",
+            "B. Changes at the genetic level",
+            "C. Special pesticides to protect it."
+          ]
+        },
+        {
+          "number": 32,
+          "prompt": "The origins of domesticated rice:",
+          "input_type": "dropdown",
+          "options": [
+            "A. are in China",
+            "B. are in India",
+            "C. are disputed"
+          ]
+        }
+      ]
+    },
+    {
+      "part": 4,
+      "type": "note_completion",
+      "instructions": "Complete the flow chart. Write NO MORE THAN TWO WORDS.",
+      "questions": [
+        {
+          "number": 33,
+          "prompt": "Seed Selection - The right seeds in the right environments lead to the best ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 34,
+          "prompt": "Land Preparation - Land preparation is important to ensure the plants grow excellent ________",
+          "input_type": "short_text"
+        },
+        {
+          "number": 35,
+          "prompt": "Plant Introduction - 2 types - transplanting and direct seeding. Transplanting involves moving plants from a ________ to the field.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 36,
+          "prompt": "Water Management - Rice can be badly affected by water shortages and water in the soil should not be below ________ to ensure good yields.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 37,
+          "prompt": "Nutrient management - Rice must get timely nutrients. This can be done by lengthy ________ of rice fields",
+          "input_type": "short_text"
+        },
+        {
+          "number": 38,
+          "prompt": "Health Administration - Different threats to rice need constant ________ management to protect it.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 39,
+          "prompt": "Harvest - Done after 120 days approx. Mechanical harvesting is less common due to the scarce ________ and expense of equipment. Manual harvesting is labour intensive, but very common in Asia.",
+          "input_type": "short_text"
+        },
+        {
+          "number": 40,
+          "prompt": "After Harvest - Various processes, including ________, which is vital to minimise a loss of crop whilst it’s in storage. Milling is also very important at a later stage.",
+          "input_type": "short_text"
+        }
+      ]
+    }
+  ]
+}

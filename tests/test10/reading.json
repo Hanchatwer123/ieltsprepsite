@@ -1,0 +1,368 @@
+{
+  "section": "Academic Reading",
+  "passages": [
+    {
+      "title": "Grey Workers",
+      "text": "<b>A.</b> Given the speed at which their workers are growing greyer, employers know surprisingly little about how productive they are. The general assumption is that the old are paid more in spite of, rather than because of, their extra productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade the 55-year-olds to take early retirement. Earlier this year, Sun Life of Canada, an insurance company, announced that it was offering redundancy to all its British employees aged 50 or over “to bring in new blood”.\n\n<b>B.</b> In Japan, says Mariko Fujiwara, an industrial anthropologist who runs a think-tank for Hakuhodo, Japan’s second-largest advertising agency, most companies are bringing down the retirement age from the traditional 57 to 50 or thereabouts - and in some cases, such as Nissan, to 45. More than perhaps anywhere else, pay in Japan is linked to seniority. Given that the percentage of workers who have spent more than 32 years with the same employer rose from 11% in 1980 to 42% by 1994, it is hardly surprising that seniority-based wage costs have become the most intractable item on corporate profit-and-loss accounts.\n\n<b>C.</b> In Germany, Patrick Pohl, spokesman for Hoechst, expresses a widely held view: “The company is trying to lower the average age of the workforce. Perhaps the main reason for replacing older workers is that it makes it easier to ‘defrost’ the corporate culture. Older workers are less willing to try a new way of thinking. Younger workers are cheaper and more flexible.” Some German firms are hampered from getting rid of older workers as quickly as they would like. At SGL Carbon, a graphite producer, the average age of workers has been going up not down. The reason, says the company’s Ivo Lingnau, is not that SGL values older workers more. It is collective bargaining: the union agreement puts strict limits on the proportion of workers that may retire early.\n\n<b>D.</b> Clearly, when older people do heavy physical work, their age may affect their productivity. But other skills may increase with age, including many that are crucial for good management, such as an ability to handle people diplomatically, to run a meeting or to spot a problem before it blows up. Peter Hicks, who co-ordinates OECD work on the policy implications of ageing, says that plenty of research suggests older people are paid more because they are worth more.\n\n<b>E.</b> And the virtues of the young may be exaggerated. “The few companies that have kept on older workers find they have good judgment and their productivity is good,” says Mr Peterson. “Besides, their education standards are much better than those of today’s young high-school graduates.” Companies may say that older workers are not worth training, because they are reaching the end of their working lives: in fact, young people tend to switch jobs so frequently that they offer the worst returns on training. “The median age for employer-driven training is the late 40s and early 50s,” says Mr Hicks. “It goes mainly to managers.”\n\n<b>F.</b> Take away those seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most companies (and many workers) are uncomfortable with the idea of reducing someone’s pay in later life - although workers on piece-rates often earn less over time. So retaining the services of older workers may mean employing them in new ways.\n\n<b>G.</b> One innovation, described in Mr. Walker’s report on combating age barriers, was devised by IBM Belgium. Faced with the need to cut staff costs, and having decided to concentrate cuts on 55-60-year-olds, IBM set up a separate company called Skill Team, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined Skill Team at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost.\n\n<b>H.</b> The best way to tempt the old to go on working may be to build on such “bridge” jobs: part-time or temporary employment that creates a more gradual transition from full-time work to retirement. Mr Quinn, who has studied the phenomenon, finds that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such “bridge” jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working: “There are”, he says, “two very different types of bridge job-holders - those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.”\n\n<b>I.</b> If the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that, in Britain, 70% of businesses started by people over 55 survived, compared with an average of only 19%. To coax the old back into the job market, work will not only have to pay. It will need to be more fun than touring the country in an Airstream trailer, or seeing the grandchildren, or playing golf. Only then will there be many more Joe Clarks.",
+      "questions": [
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information given in Reading Passage 3? In boxes 1-4 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 1,
+              "prompt": "Insurance company Sun Life of Canada made decision that it would hire more Canadian employees rather than British ones in order to get fresh staffs.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 2,
+              "prompt": "Unlike other places, employees in Japan get paid according to the years they are employed.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 3,
+              "prompt": "Elder workers are laid off by some German companies which are refreshing corporate culture.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 4,
+              "prompt": "According to Peter Hicks, companies pay older people more regardless of the contribution of they make.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose TWO correct letters, A, B, C, D, E. Write your answers in boxes 5-6 on your answer sheet. According to the passage there are several advantages to hire elder people, please choose TWO from below:",
+          "questions": [
+            {
+              "number": 5,
+              "prompt": "Which TWO of the following are advantages to hire elder people?",
+              "input_type": "checkbox",
+              "max_choices": 2,
+              "options": [
+                "their productivity are more superior than the young.",
+                "paid less compared with younger ones.",
+                "run fast when there is a meeting",
+                "have better inter-person relationship",
+                "identify problems in an advanced time"
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose TWO correct letters, A, B, C, D, E. Write your answers in boxes 7-8 on your answer sheet. According to Mr. Peterson, Compared with elder employees, young graduates have several weaknesses in workplace, please choose TWO of them below:",
+          "questions": [
+            {
+              "number": 7,
+              "prompt": "Which TWO of the following are weaknesses of young graduates compared to elder employees?",
+              "input_type": "checkbox",
+              "max_choices": 2,
+              "options": [
+                "they are not worth training.",
+                "their productivity is lower than counterparts.",
+                "they change work more often",
+                "their academic criteria is someway behind elders'",
+                "they are normally high school graduates."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 9-13 on your answer sheet.",
+          "questions": [
+            {
+              "number": 9,
+              "prompt": "According to paragraph F, the firms and workers still hold the opinion that:",
+              "input_type": "radio",
+              "options": [
+                "Older workers are more likely to attract other staff",
+                "people are not happy if pay gets lower in retiring age.",
+                "Older people have more retaining motivation than young people",
+                "young people often earn less for their piece-rates salary."
+              ]
+            },
+            {
+              "number": 10,
+              "prompt": "SkillTeam that has been founded by IBM conducted which of following movement:",
+              "input_type": "radio",
+              "options": [
+                "Ask all the old worker to continue their job on former working hours basis",
+                "Carry on the action of cutting off the elder’s proportion of employment",
+                "Ask employees to work more hours in order to get extra pay",
+                "Re-hire old employees and kept the salary a bit lower"
+              ]
+            },
+            {
+              "number": 11,
+              "prompt": "which of the followings is correct according to the research of Mr Quinn:",
+              "input_type": "radio",
+              "options": [
+                "About 50% of all employees in America switched into ‘Bridge' jobs.",
+                "Only the worst-paid continue to work.",
+                "More men than women fell into the category of ’bridge’ work.",
+                "Some old people keep working for their motive rather than economic incentive."
+              ]
+            },
+            {
+              "number": 12,
+              "prompt": "Which of the followings is correct according to David Storey:",
+              "input_type": "radio",
+              "options": [
+          "70% business are successful if hire more older people.",
+          "Average success of self-employed business is getting lower.",
+          "Self-employed elder people are more likely to survive.",
+          "Older people's working hours are more flexible."
+              ]
+            },
+            {
+              "number": 13,
+              "prompt": "What is the main purpose of the author in writing this passage?",
+              "input_type": "radio",
+              "options": [
+          "there must be a successful retiring program for the old",
+          "older people should be correctly valued in employment",
+          "old people should offer more helping young employees grow.",
+          "There are more jobs in the world that only employ older people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The history of salt",
+      "text": "<b>A.</b> Salt is so simple and plentiful that we almost take it for granted. In chemical terms, salt is the combination \"of a sodium ion with a chloride on, making it one of the most basic molecules on earth. It is also one of the most plentiful: it has been estimated that salt deposits under the state of Kansas alone could supply the entire world's needs for the next 250,000 years.\n\n<b>B.</b> But salt is also an essential element. Without it, life itself would be impossible since the human body requires the mineral in order to function properly. The concentration of sodium ions in the blood is directly related to the regulation of safe body fluid levels. And while we are all familiar with its many uses in cooking, we may not be aware that this element is used in some 14,000 commercial applications. From manufacturing pulp and paper to setting dyes in textiles and fabric, from producing soaps and detergents to making our roads safe in winter, salt plays an essential part in our daily lives.\n\n<b>C.</b> Salt has a long and influential role in world history. From the dawn of civilization, it has been a key factor in economic, religious, social and political development In every comer of the world, it has been the subject of superstition, folklore, and warfare, and has even been used as currency.\n\n<b>D.</b> As a precious and portable commodity, salt has long been a cornerstone of economies throughout history. In fact, researcher M.R. Bloch conjectured that civilization began along the edges of the desert because of the natural surface deposits of salt found there. Bloch also believed that the first war - likely fought near the ancient city of Essalt on the Jordan River - could have been fought over the city’s precious supplies of the mineral.\n\n<b>E.</b> In 2200 BC, the Chinese emperor Hsia Yu levied one of the first known taxes. He taxed salt. In Tibet, Marco Polo noted that tiny cakes of salt were pressed with images of the Grand Khan to be used as coins and to this day among the nomads of Ethiopia’s Danakil Plains it is still used as money. Greek slave traders often bartered it for slaves, giving rise to the expression that someone was \"not worth his salt.\" Roman legionnaires were paid in salt - a salarium, the Latin origin of the word \"salary.\"\n\n<b>F.</b> Merchants in 12th-century Timbuktu-the gateway to the Sahara Desert and the seat of scholars - valued this mineral as highly as books and gold. In France, Charles of Anjou levied the \"gabelle, a salt tax, in 1259 to finance his conquest of the Kingdom of Naples. Outrage over the gabelle fueled the French Revolution. Though the revolutionaries eliminated the tax shortly after Louis XVI, the Republic of France re-established the gabelle in the early 19th Century； only in 1946 was it removed from the books.\n\n<b>G.</b> The Erie Canal, an engineering marvel that connected the Great Lakes to New York’s Hudson River in 1825, was called \"the ditch that salt built.” Salt tax revenues paid for half the cost of construction of the canal. The British monarchy supported itself with high salt taxes, leading to a bustling black market for the white crystal. In 1785, the earl of Dundonald wrote that every year in England, 10,000 people were arrested for salt smuggling. And protesting against British rule in 1930, Mahatma Gandhi led a 200-mile march to the Arabian Ocean to collect untaxed salt for India's poor.\n\n<b>H.</b> In religion and culture, salt long held an important place with Greek worshippers consecrating it in their rituals. Further, in Buddhist tradition, salt repels evil spirits, which is why it is customary to throw it over your shoulder before entering your house after a funeral: it scares off any evil spirits that may be clinging to your back. Shinto religion also uses it to purify an area. Before sumo wrestlers enter the ring for a match - which is in reality an elaborate Shinto rite - a handful is thrown into the center to drive off malevolent spirits\n\n<b>I.</b> In the Southwest of the United States, the Pueblo worship the Salt Mother. Other native tribes had significant restrictions on who was permitted to eat salt Hopi legend holds that the angry Warrior Twins punished mankind by placing valuable salt deposits far from civilization, requiring hard work and bravery to harvest the precious mineral. Today, a gift of salt endures in India as a potent symbol of good luck and a reference to Mahatma Gandhi’s liberation of India.\n\n<b>J.</b> The effects of salt deficiency are highlighted in times of war, when human bodies and national economies are strained to their limits. Thousands of Napoleon’s troops died during the French retreat from Moscow due to inadequate wound healing and lowered resistance to disease - the results of salt deficiency.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "<b>PASSAGE 2</b> \n\n Choose THREE letters A-H. Write your answers in boxes 14-16 on your answer sheet. NB Your answers may be given in any order. Which THREE statements are true of salt?",
+          "questions": [
+            {
+              "number": 14,
+              "prompt": "Which THREE statements are true of salt?",
+              "input_type": "checkbox",
+              "max_choices": 3,
+              "options": [
+                "A number of cities take their name from the word salt.",
+                "Salt contributed to the French Revolution.",
+                "The uses of salt are countless.",
+                "Salt has been produced in China for less than 2000 years.",
+                "There are many commercial applications for salt.",
+                "Salt deposits in the state of Kansas are vast.",
+                "Salt has few industrial uses nowadays.",
+                "Slaves used salt as a currency."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 17-21 on your answer sheet.",
+          "questions": [
+            {
+              "number": 17,
+              "prompt": "Salt is such an ________ that people would not be able to live without it.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 18,
+              "prompt": "As well as its uses in cooking, this basic mineral has thousands of business ________ ranging from making paper to the manufacture of soap.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 19,
+              "prompt": "Being a prized and ________ it has played a major part in the economies of many countries.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 20,
+              "prompt": "As such, salt has not only led to war, but has also been used to raise ________ by governments in many parts of the world.",
+              "input_type": "short_text"
+            },
+            {
+              "number": 21,
+              "prompt": "There are also many instances of its place in religion and culture, being used as a means to get rid of evil ________.",
+              "input_type": "short_text"
+            }
+          ]
+        },
+        {
+          "group_type": "True/False/Not Given",
+          "instruction": "Do the following statements agree with the information in Reading Passage 2? In boxes 22-27 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information about the statement.",
+          "questions": [
+            {
+              "number": 22,
+              "prompt": "It has been suggested that salt was responsible for the first war.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 23,
+              "prompt": "The first tax on salt was imposed by a Chinese emperor.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 24,
+              "prompt": "Salt is no longer used as a form of currency.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 25,
+              "prompt": "Most of the money for the construction of the Erie Canal came from salt taxes.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 26,
+              "prompt": "Hopi legend believes that salt deposits were placed far away from civilization to penalize mankind.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            },
+            {
+              "number": 27,
+              "prompt": "A lack of salt is connected with the deaths of some soldiers.",
+              "input_type": "radio",
+              "options": ["TRUE", "FALSE", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Designed to Last",
+      "text": "<b>A.</b> Jonathan Chapman, a senior lecture at the University of Brighton, UK, is one of a new breed of \"sustainable designers'. Like many of us, they are concerned about the huge waste associated with Western consumer culture and the damage this does to the environment. Some, like Chapman, aim to create objects we will want to keep rather than discard. Others are working to create more efficient or durable consumer goods, or goods designed with recycling in mind. The waste entailed in our fleeting relationships with consumer durables is colossal\n\n<b>B.</b> Domestic power tools, such as electric drills, are a typical example of such waste. However much DIY the purchaser plans to do, the truth is that these things are thrown away having been used, on average, for just ten minutes. Most will serve (conscience time, gathering dust on a shelf in the garage; people are reluctant to admin that they have wasted their money. However, the end is inevitable thousands of years in landfill waste sites. In its design, manufacture, packaging, transportation and disposal, a power tool consumes many times its own weight in resources, all for a shorter active lifespan than that of the average small insect.\n\n<b>C.</b> To understand why we have become so wasteful, we should look to the underlying motivation (of consumers. 'People own things to give expression to who they are, and to show what group of people they feel they belong to,’ Chapman says. In a world of mass production, however, that symbolism has lost much of its potency. For most of human history, people had an intimate relationship with objects they used or treasured. Often they made the objects themselves, or family members passed them on. For more specialist objects, people relied on expert manufacturers living close by, whom they probably knew personally. Chapman points out that all these factors gave objects a history - a narrative - and an emotional connection that today’s mass production cannot match. Without these personal connections, consumerist culture instead idolizes novelty. We know we can’t buy happiness, but the chance to remake ourselves with glossy, box-fresh products seems irresistible. When the novelty fades we simply renew the excitement by buying more new stuff: what John Thackara of Doors of Perception, a network for sharing ideas about the future of design, calls the \"schlock of the new\".\n\n<b>D.</b> As a sustainable designer, Chapman’s solution is what he calls \"emotionally durable design\". Think about your favorite old jeans. They just don't have the right feel until they have been worn and washed a hundred times, do they? It is like they are sharing your life story. You can fake that look, but it isn’t the same. Chapman says the gradual unfolding of a relationship like this transforms our interactions with objects into something richer than simple utility. Swiss industrial analyst Walter Stahel, visiting professor at the University of Surrey, calls it the \"teddy-bear factor”. No matter how ragged and worn a favorite teddy becomes, we don't rush out and buy another one. As adults, our teddy bear connects us to our childhoods, and this protects it from obsolescence Stahel says this is what sustainable design needs to do.\n\n<b>E.</b> It is not simply about making durable items that people want to keep. Sustainable design is a matter of properly costing the whole process of production, energy use and disposal. \"It is about the design of systems, the design of culture.\" says Tim Cooper from the Centre for Sustainable Consumption at Sheffield Hallam University in Britain. He thinks sustainable design has been \"surprisingly slow to take off’ but says looming environmental crises and resource depletion are pushing it to the top of the agenda.\n\n<b>F.</b> Thackara agrees. For him, the roots of impending environmental collapse can be summarized in two words: weight and speed. We are making more stuff than the planet can sustain and using vast amounts of energy moving more and more of it around ever faster. The Information Age was supposed to lighten our economies and reduce our impact on the environment, but the reverse seems to be happening. We have simply added information technology to the industrial era and hastened the developed world's metabolism, Thackara argues.\n\n<b>G.</b> Once you grasp that, the cure is hardly rocket science: minimize waste and energy use, stop moving stuff around so much and use people more. EZIO MANZINI, PROFESSOR of industrial design at Politecnico di Milano university, Italy, describes the process of moving to a post-throwaway society as like \"changing the engine of an aircraft in mid-flight' Even so, he believes it can be done, and he is not alone.\n\n<b>H.</b> Manzini says a crucial step would be to redesign our globalized world into what he calls the \"multi-local society”. His vision is that every resource, from food to electricity generation, should as far as possible be sourced and distributed locally. These local hubs would then be connected to national and global networks to allow the most efficient use and flow of materials.\n\n<b>I.</b> So what will post-throwaway consumerism look like? For a start, we will increasingly buy sustainably designed products. This might be as simple as installing energy-saving light bulbs, more efficient washing machines, or choosing locally produced groceries with less packaging.\n\n<b>J.</b> We will spend less on material goods and more on services. Instead of buying a second car, for example, we might buy into a car-sharing network. We will also buy less and rent a whole lot more: why own things that you hardly use, especially things that are likely to be updated all the time? Consumer durables will be sold with plans already in place for their disposal. Electronic goods will be designed to be recyclable, with the extra cost added to the retail price as prepayment. As consumers become increasingly concerned about the environment, many big businesses are eagerly adopting sustainable design and brushing up their green credentials to please their customers and stay one step ahead of the competition.",
+      "questions": [
+        {
+          "group_type": "Multiple Choice",
+          "instruction": "<b>PASSAGE 3</b> \n\n Choose the correct letter, A, B, C or D. Write the correct letter in boxes 28-32 on your answer sheet.",
+          "questions": [
+            {
+              "number": 28,
+              "prompt": "What does ‘conscience time’ imply in paragraph 2?",
+              "input_type": "radio",
+              "options": [
+                "People feel guilty when they throw things away easily.",
+                "The shelf in the garage needs cleaning.",
+                "The consumers are unaware of the waste problem.",
+                "The power tool should be place in the right place after being used."
+              ]
+            },
+            {
+              "number": 29,
+              "prompt": "Prior to the mass production, people own things to show",
+              "input_type": "radio",
+              "options": [
+                "their quality",
+                "their status",
+                "their character",
+                "their history"
+              ]
+            },
+            {
+              "number": 30,
+              "prompt": "The word ‘narrative’ in paragraph 3 refers to",
+              "input_type": "radio",
+              "options": [
+                "the novelty culture pursued by the customers",
+                "the motivation of buying new products",
+                "object stories that relate personally and meaningfully to the owners",
+                "the image created by the manufacturers"
+              ]
+            },
+            {
+              "number": 31,
+              "prompt": "Without personal connection, people buy new stuff for",
+              "input_type": "radio",
+              "options": [
+                "sharing",
+                "freshness",
+                "collection",
+                "family members"
+              ]
+            },
+            {
+              "number": 32,
+              "prompt": "The writer quotes the old jeans and teddy bear to illustrate that",
+              "input_type": "radio",
+              "options": [
+                "products are used for simple utility.",
+                "producers should create more special stuff to attract the consumers.",
+                "Chapman led a poor childhood life.",
+                "the emotional connections make us to keep the objects for longer."
+              ]
+            }
+          ]
+        },
+        {
+          "group_type": "Summary Completion",
+          "instruction": "Complete the summary using the list of words, A-H, below. Write the correct letter A-H, in boxes 33-36 on your answer sheet.",
+          "questions": [
+            {
+              "number": 33,
+              "prompt": "Tim Cooper claims that although sustainable design proceeds ________, the coming problems are pushing the move.",
+              "input_type": "dropdown",
+              "options": ["A. properly", "B. energy", "C. locally", "D. economy", "E. slowly", "F. speed", "G. quickly", "H. metabolism"]
+            },
+            {
+              "number": 34,
+              "prompt": "In accordance with Tim Cooper, Thackara believes that the origins of the looming environmental crises are weight and ________.",
+              "input_type": "dropdown",
+              "options": ["A. properly", "B. energy", "C. locally", "D. economy", "E. slowly", "F. speed", "G. quickly", "H. metabolism"]
+            },
+            {
+              "number": 35,
+              "prompt": "The technology which was assumed to have a positive effect on our society actually accelerates the world's ________.",
+              "input_type": "dropdown",
+              "options": ["A. properly", "B. energy", "C. locally", "D. economy", "E. slowly", "F. speed", "G. quickly", "H. metabolism"]
+            },
+            {
+              "number": 36,
+              "prompt": "To cure this, Manzini proposes a ‘multi-local society’ which means every resource should be located and redeployed ________.",
+              "input_type": "dropdown",
+              "options": ["A. properly", "B. energy", "C. locally", "D. economy", "E. slowly", "F. speed", "G. quickly", "H. metabolism"]
+            }
+          ]
+        },
+        {
+          "group_type": "Yes/No/Not Given",
+          "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 37-40 on your answer sheet, write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage.",
+          "questions": [
+            {
+              "number": 37,
+              "prompt": "People often buy things that are seldom used and throw them away.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 38,
+              "prompt": "In a post-throwaway society, we will pay extra money after disposing the electronic goods.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 39,
+              "prompt": "Some businesses have jumped on the sustainability bandwagon.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            },
+            {
+              "number": 40,
+              "prompt": "Company will spend less on repairing in the future.",
+              "input_type": "radio",
+              "options": ["YES", "NO", "NOT GIVEN"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
