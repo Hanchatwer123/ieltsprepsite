@@ -21,6 +21,8 @@ function startTest() {
   });
 }
 
+// (Removed duplicate submitAnswers function to avoid logical errors)
+
 function renderQuestions() {
   const form = document.getElementById("listening-form");
   form.innerHTML = "";
@@ -50,7 +52,7 @@ function renderQuestions() {
           const input = document.createElement("input");
           input.type = question.input_type === "checkbox" ? "checkbox" : "radio";
           input.name = `q${question.number}`;
-          input.value = option.trim().replace(/^\w\.\s*/, "");
+          input.value = option.trim().replace(/^\w\.\s*/, ""); // remove 'A. ' prefix
           input.id = `q${question.number}_opt${idx}`;
 
           const optLabel = document.createElement("label");

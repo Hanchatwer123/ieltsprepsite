@@ -1,41 +1,126 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>IELTS Listening</title>
+  <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    body { font-family: Arial; padding: 20px; background: #f9f9f9; }
-    .part { background: #fff; padding: 15px; margin-bottom: 30px; border-radius: 10px; box-shadow: 0 0 5px #ccc; }
-    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-    th, td { border: 1px solid #ddd; padding: 8px; }
-    th { background: #eee; }
-    input, select { width: 100%; padding: 6px; margin: 5px 0; }
-    .question { margin-bottom: 10px; }
-    #audio-player { width: 100%; margin: 20px 0; }
-    #submit-button { background: #4CAF50; color: white; border: none; padding: 10px 20px; cursor: pointer; }
-    #submit-button:hover { background: #45a049; }
-    #home-button { float: right; background: #2196F3; color: white; padding: 6px 12px; border: none; border-radius: 4px; }
+    /* Custom styles to override or extend Tailwind for specific elements */
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f0f2f5; /* Light gray background */
+    }
+    .part-container {
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+    .question-number {
+      font-weight: bold;
+      margin-right: 8px;
+      display: inline-block;
+      min-width: 20px; /* Ensure alignment for single/double digit numbers */
+    }
+    input[type="text"], select {
+      border: 1px solid #d1d5db; /* Light gray border */
+      border-radius: 6px;
+      padding: 8px 12px;
+      font-size: 1rem;
+      width: 100%; /* Full width within its container */
+      box-sizing: border-box; /* Include padding and border in the element's total width and height */
+      transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+    input[type="text"]:focus, select:focus {
+      outline: none;
+      border-color: #2563eb; /* Blue border on focus */
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2); /* Light blue shadow on focus */
+    }
+    .checkbox-options label {
+      display: block;
+      margin-bottom: 8px;
+      cursor: pointer;
+    }
+    .checkbox-options input[type="checkbox"] {
+      margin-right: 8px;
+      transform: scale(1.1); /* Slightly larger checkboxes */
+    }
+    /* Table specific styles for completion type questions */
+    .table-completion-container table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 16px;
+    }
+    .table-completion-container th,
+    .table-completion-container td {
+      border: 1px solid #e5e7eb; /* Lighter border for table cells */
+      padding: 12px;
+      text-align: left;
+    }
+    .table-completion-container th {
+      background-color: #f9fafb; /* Light background for table headers */
+      font-weight: 600;
+      color: #374151;
+    }
+    .table-completion-container tr:nth-child(even) {
+      background-color: #f9fafb; /* Zebra striping for table rows */
+    }
+    .table-completion-container tr:hover {
+      background-color: #f3f4f6; /* Hover effect for table rows */
+    }
+
+    /* Styles for answered questions */
+    .answered-question-prompt {
+      color: #064ac7; /* Blue 600 */
+      font-weight: bold;
+    }
+
+    .answered-input-field {
+      border-color: #2563eb !important; /* Blue 600 */
+      box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.3) !important; /* Lighter blue shadow */
+    }
   </style>
 </head>
-<body>
-  <h1>IELTS Listening Test</h1>
-  <button id="home-button" onclick="location.href='index.html'">Home</button>
-  <audio id="audio-player" controls autoplay onplay="disablePause()">
-    <source id="audio-source" src="" type="audio/mp3" />
-    Your browser does not support the audio element.
-  </audio>
-  <form id="listening-form">
-    <div id="listening-container"></div>
-    <button type="button" id="submit-button" onclick="submitListening()">Submit Answers</button>
-  </form>
-  <div id="result-section" style="display:none;">
-    <h2>Results</h2>
-    <p id="score-display"></p>
-    <p id="band-display"></p>
-    <div id="answer-table"></div>
+<body class="p-6">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-3xl font-extrabold text-gray-800 mb-6 text-center">IELTS Listening Test</h1>
+    <button id="home-button" class="float-right bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out -mt-12">
+      Home
+    </button>
+
+    <audio id="audio-player" controls autoplay onplay="disablePause()" class="w-full my-6 rounded-lg shadow-md">
+      <source id="audio-source" src="" type="audio/mp3" />
+      Your browser does not support the audio element.
+    </audio>
+
+    <form id="listening-form">
+      <div id="listening-container">
+        </div>
+      <button type="button" id="submit-button" class="w-full bg-green-600 hover:bg-green-700 text-white font-semibold py-3 px-6 rounded-lg shadow-md transition duration-300 ease-in-out text-lg mt-8">
+        Submit Answers
+      </button>
+    </form>
+
+    <div id="result-section" style="display:none;" class="mt-12 p-6 bg-white rounded-lg shadow-lg">
+      <h2 class="text-2xl font-bold text-gray-800 mb-4">Results</h2>
+      <p id="score-display" class="text-lg text-gray-700 mb-2"></p>
+      <p id="band-display" class="text-xl font-semibold text-blue-700 mb-4"></p>
+      <div id="answer-table" class="overflow-x-auto">
+        </div>
+    </div>
   </div>
+
   <script src="listening.js"></script>
-  <script src="script.js"></script>
+  <script>
+    // Home button functionality
+    document.getElementById('home-button').addEventListener('click', () => {
+      window.location.href = 'index.html';
+    });
+
+    // Load the listening test when the window loads
+    window.onload = loadListeningTest;
+  </script>
 </body>
 </html>
